@@ -1,5 +1,6 @@
 # Whiplash
-A data art piece that aims to subvert our expectations of news headlines, and the counties they originate from.
+A data art piece that aims to subvert our expectations of news headlines, and the places they originate from. Powered by Google's Sentiment Analysis, Streetview API, and News.
+
 Presented at the University of Waterloo's end of term FINE/CS 383 Exhibition.
 
 Video: https://youtu.be/ZacUwuQO5II
