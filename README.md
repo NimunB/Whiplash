@@ -1,7 +1,9 @@
 # Whiplash
 A data art piece that aims to subvert our expectations of news headlines, and the counties they originate from.
 Presented at the University of Waterloo's end of term FINE/CS 383 Exhibition.
+
 Video: https://youtu.be/ZacUwuQO5II
+
 Article: https://uwaterloo.ca/computer-science/news/art-computing
 
 ## Artist Statement
