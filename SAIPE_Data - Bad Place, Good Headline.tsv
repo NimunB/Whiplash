@@ -1,0 +1,399 @@
+Table with column headers in rows 3 and 4											
+State FIPS Code	County FIPS Code	Postal Code	Name	Poverty Percent, All Ages	Median Household Income	Image Found?	Headline Type	Headline	Sentiment Rating	Publisher	Date
+30	065	MT	Musselshell County	16.0	55,291	2131.jpg	Good	Roundup organization creates unique duck hunt to boost mental health	0.8330	Q2 News	Oct 12, 2023
+40	109	OK	Oklahoma County	16.0	61,580	2135.jpg	Good	Popular Basketball Podcast Gives High Praise to OKC Thunder Rookies	0.8980	Sports Illustrated	11/21/2023, 08:00 AM, +0000 UTC
+41	065	OR	Wasco County	16.0	60,506	2136.jpg	Good	4-H robotics teams in rural Wasco County qualify for world competition		OSU Extension Service	03/21/2024, 09:34 PM, +0000 UTC
+42	027	PA	Centre County	16.0	67,654	2137.jpg	Good	Nunez: New Penn Highlands Community College Centre County Location Aims to Improve Access to Higher Education		Statecollege.com	03/21/2024, 09:23 AM, +0000 UTC
+48	309	TX	McLennan County	16.0	63,160	2140.jpg	Good	Foster family of Waco wins USTA Texas award	0.8850	Waco Tribune-Herald	03/19/2024, 04:45 AM, +0000 UTC
+53	003	WA	Asotin County	16.0	65,625	2145.jpg	Good	Asotin County to Hold Resource Fair for High School Students with Disabilities	0.1570	Big Country News	10/26/2023, 07:00 AM, +0000 UTC
+01	071	AL	Jackson County	16.1	51,965	2147.jpg	Good	Woodville High School recognized at State Board Meeting	0.8390	Jackson County Sentinel	02/14/2024, 08:00 AM, +0000 UTC
+06	113	CA	Yolo County	16.1	82,359	2149.jpg	Good	California nonprofit working to make sure no older adult is without food, promotes CalFresh program	0.8600	KCRA Sacramento	01/15/2024, 08:00 AM, +0000 UTC
+16	057	ID	Latah County	16.1	60,108	2151.jpg	Good	Latah County Fair inspires joy in competition	0.8650	Moscow-Pullman Daily News	09/17/2021, 07:00 AM, +0000 UTC
+19	117	IA	Lucas County	16.1	60,245	2152.jpg	Good	New UK startup seeks to turn US trash into Kentucky treasure	0.7740	UKNow	09/14/2023, 07:00 AM, +0000 UTC
+19	179	IA	Wapello County	16.1	61,555	2153.jpg	Good	So happy together: Syracuse transfer Joseph Girard III helps lead Clemson to Sweet 16	0.9490	Ottumwacourier	03/28/2024, 12:11 AM, +0000 UTC
+20	111	KS	Lyon County	16.1	55,863	2154.jpg	Good	Lyon County Emergency Communications Center recognized for implementation of cutting edge technology	0.9670	KVOE	09/18/2023, 07:00 AM, +0000 UTC
+21	079	KY	Garrard County	16.1	57,748	2156.jpg	Good	An experienced roster combined with new talent sets Lady Jaguars up for success	0.9450	The Sentinel-Echo	08/20/2023, 07:00 AM, +0000 UTC
+21	089	KY	Greenup County	16.1	54,462	2157.jpg	Good	Smiling, happy faces': Shop with a Cop includes 130 kids; Christmas dinner feeds 500-plus	0.7450	The Independent	12/20/2023, 08:00 AM, +0000 UTC
+21	105	KY	Hickman County	16.1	53,838	2158.jpg	Good	Program offers free legal services to veterans	0.1430	Paducah Sun	11/09/2023, 08:00 AM, +0000 UTC
+51	193	VA	Westmoreland County	16.1	61,545	2164.jpg	Good	KD Sunday Spotlight: Top Dog Therapy Team brings joy and 'pawsitivity' to those in need	0.9500	CBS Pittsburgh	08/27/2023, 07:00 AM, +0000 UTC
+01	043	AL	Cullman County	16.2	61,774	2166.jpg	Good	‘We’re happy to provide food and fun for our neighbors’	0.9360	The Cullman Tribune	07/09/2023, 07:00 AM, +0000 UTC
+05	105	AR	Perry County	16.2	56,640	2168.jpg	Good	Three SEMO nonprofits receive $106000 to address child abuse and neglect	0.7250	Southeast Missourian	01/12/2024, 08:00 AM, +0000 UTC
+13	025	GA	Brantley County	16.2	50,370	2169.jpg	Good	PCHS SAT scores best in region	0.6990	Blackshear Times	10/13/2022, 07:00 AM, +0000 UTC
+20	021	KS	Cherokee County	16.2	54,965	2171.jpg	Good	Kansas Residents to Enjoy Substantial Savings in 2024	0.9260	KSNF/KODE - FourStatesHomepage.com	01/01/2024, 08:00 AM, +0000 UTC
+21	039	KY	Carlisle County	16.2	54,535	2172.jpg	Good	Local Joy Ride campaign wins four ADDYs	0.8710	Danville Advocate	03/12/2024, 07:45 PM, +0000 UTC
+36	009	NY	Cattaraugus County	16.2	52,383	2175.jpg	Good	Charlesworth recognized for NYSAAF lifetime achievement award	0.4580	Olean Times Herald	08/07/2023, 07:00 AM, +0000 UTC
+39	155	OH	Trumbull County	16.2	54,406	2178.jpg	Good	FFA convention celebrates farming, broadens horizons	0.9440	Ohio Farm Bureau	11/27/2023, 08:00 AM, +0000 UTC
+42	021	PA	Cambria County	16.2	54,612	2179.jpg	Good	New Cambria County chief public defender excited to take over, eyes hiring more full-timers	0.6830	TribDem.com	01/06/2024, 08:00 AM, +0000 UTC
+45	079	SC	Richland County	16.2	61,010	2180.jpg	Good	SC Pride, LGBT+ organizations want to spread Columbia's queer allyship, activism to state	0.9490	The Post and Courier	10/17/2023, 07:00 AM, +0000 UTC
+47	173	TN	Union County	16.2	51,169	2182.jpg	Good	To State: Crockett boys clinch sectional win against Union County	0.7140	Herald & Tribune	03/04/2024, 08:00 AM, +0000 UTC
+48	013	TX	Atascosa County	16.2	59,817	2183.jpg	Good	Senate praises local peace officers	0.9240	Pleasanton Express	05/17/2023, 07:00 AM, +0000 UTC
+48	125	TX	Dickens County	16.2	47,074	2184.jpg	Good	North Texas geologist honored for petroleum exploration prowess	0.8840	Times Record News	11/16/2023, 08:00 AM, +0000 UTC
+48	135	TX	Ector County	16.2	64,868	2185.jpg	Good	Odessa Arts Lights Odessa Spire With Gay Pride Rainbow	0.3700	Odessa Headlines	06/28/2023, 07:00 AM, +0000 UTC
+48	441	TX	Taylor County	16.2	61,798	2187.jpg	Good	A showcase of hard work and West Texas livestock show	0.9220	Midland Reporter-Telegram	01/09/2024, 08:00 AM, +0000 UTC
+05	000	AR	Arkansas	16.3	55,505	2190.jpg	Good	Fun, Fashion, and Fast Horses: Oaklawn Park Comes Alive on Arkansas Derby Day	0.8470	America's Best Racing	03/30/2024, 08:08 PM, +0000 UTC
+06	003	CA	Alpine County	16.3	71,646	2193.jpg	Good	Community events in San Diego County: From Gem Faire to Festival of Science & Engineering	0.2100	The San Diego Union-Tribune	02/23/2024, 08:00 AM, +0000 UTC
+26	023	MI	Branch County	16.3	63,634	2198.jpg	Good	Coldwater Township Sunrise Rotary becomes first major sponsor for Cultural Jubilee	0.6810	WTVB	03/13/2024, 04:25 PM, +0000 UTC
+26	143	MI	Roscommon County	16.3	49,151	2201.jpg	Good	Federal grants to fix up 8 Michigan parks—and preserve a big chunk of the Upper Peninsula	0.5980	The 'Gander	12/06/2023, 08:00 AM, +0000 UTC
+32	021	NV	Mineral County	16.3	55,704	2202.jpg	Good	WNC announces James Kiley Memorial Scholarship	0.3470	Nevada Appeal	04/23/2023, 07:00 AM, +0000 UTC
+48	017	TX	Bailey County	16.3	52,751	2207.jpg	Good	Crossroads Honor Rolls: Let's brag about our brilliant children	0.9610	Victoria Advocate	04/26/2020, 07:00 AM, +0000 UTC
+51	159	VA	Richmond County	16.3	60,180	2209.jpg	Good	‘Didn’t have time to think’: Good Samaritans spring into action, saving several horses from barn fire	0.9030	WWBT	01/22/2024, 08:00 AM, +0000 UTC
+51	840	VA	Winchester city	16.3	60,557	2210.jpg	Good	Winchester Public Schools retirees praised for service	0.8980	The Winchester Star	05/24/2018, 07:00 AM, +0000 UTC
+01	073	AL	Jefferson County	16.4	61,996	2212.jpg	Good	Here's how to get an early start on celebrating the Magic City Classic	0.8930	AL.com	10/23/2023, 07:00 AM, +0000 UTC
+04	005	AZ	Coconino County	16.4	64,016	2214.jpg	Good	Conservation windfall in Arizona: America the Beautiful Challenge funds key initiatives	0.8420	AZPM	11/15/2023, 08:00 AM, +0000 UTC
+12	033	FL	Escambia County	16.4	61,634	2216.jpg	Good	Annual law enforcement torch run brings out hundreds to Escambia County Sheriff’s Office for a good cause	0.9580	Fox 10 News	03/25/2024, 06:35 PM, +0000 UTC
+26	049	MI	Genesee County	16.4	57,443	2220.jpg	Good	After Detroit Lions playoff win, this Michigan candy store is offering a cool sale	0.9310	MLive.com	01/22/2024, 08:00 AM, +0000 UTC
+29	171	MO	Putnam County	16.4	49,532	2225.jpg	Good	Putnam County Country Fest and 4-H Showcase Receives Rave Reviews	0.9490	Morning Ag Clips -	08/15/2023, 07:00 AM, +0000 UTC
+36	105	NY	Sullivan County	16.4	63,733	2228.jpg	Good	Nonprofit's farm looks to promote healthy lifestyles	0.9270	Spectrum News	07/05/2023, 07:00 AM, +0000 UTC
+37	081	NC	Guilford County	16.4	63,822	2229.jpg	Good	Guilford County Schools celebrates milestone of $2 billion bonds	0.8010	WGHP FOX8 Greensboro	08/24/2023, 07:00 AM, +0000 UTC
+45	037	SC	Edgefield County	16.4	61,318	2233.jpg	Good	Old 96 District's Hidden Gems Shine During the Holidays	0.8750	Charlotte magazine	11/01/2021, 07:00 AM, +0000 UTC
+48	201	TX	Harris County	16.4	68,748	2235.jpg	Good	Raised to be a giving person:' Owner of Texas Panhandle restaurant feeding firefighters battling wildfire for free	0.7450	KPRC Click2Houston	03/01/2024, 08:00 AM, +0000 UTC
+54	091	WV	Taylor County	16.4	53,972	2236.jpg	Good	Taylor County, West Virginia students recognized for creativity in writing following annual competition	0.9020	WV News	03/20/2024, 04:00 AM, +0000 UTC
+05	087	AR	Madison County	16.5	51,233	2238.jpg	Good	New Madison-based startup helps children find mental health services in 2 days	0.8410	Madison.com	11/20/2021, 08:00 AM, +0000 UTC
+21	017	KY	Bourbon County	16.5	56,879	2240.jpg	Good	The future is bright for girl's hoops in Clark County, RDC 8th-graders finish season undefeated	0.9580	Winchester Sun	10/20/2023, 07:00 AM, +0000 UTC
+22	019	LA	Calcasieu Parish	16.5	61,797	2241.jpg	Good	Occidental Petroleum Shares Climb After Winning DOE Grant for Carbon Capture Project	0.7340	Investopedia	08/11/2023, 07:00 AM, +0000 UTC
+41	011	OR	Coos County	16.5	55,983	2243.jpg	Good	Oregon State University research enterprise continues upward trend	0.9270	Coos Bay World	09/30/2021, 07:00 AM, +0000 UTC
+41	037	OR	Lake County	16.5	54,707	2244.jpg	Good	Oregon Now Boasts The World’s Largest International Dark Sky Sanctuary, With Plans To Expand	0.9030	Forbes	03/26/2024, 09:15 PM, +0000 UTC
+13	199	GA	Meriwether County	16.6	53,019	2248.jpg	Good	The Salvation Army is a Godsend' to Locust Grove, GA	0.9300	The Salvation Army Emergency Disaster Services	01/23/2023, 08:00 AM, +0000 UTC
+19	013	IA	Black Hawk County	16.6	62,020	2253.jpg	Good	Waterloo Community Foundation announces $50000 of grants to local non-profits	0.6570	kwwl.com	12/07/2023, 08:00 AM, +0000 UTC
+47	157	TN	Shelby County	16.6	61,452	2261.jpg	Good	Memphis restaurants spread holiday joy by giving out free Christmas dinners	0.9660	FOX13 Memphis	12/24/2023, 08:00 AM, +0000 UTC
+48	093	TX	Comanche County	16.6	51,559	2262.jpg	Good	Chamber delivers goody bags to Early ISD schools	0.6190	Austin American-Statesman	08/17/2019, 07:00 AM, +0000 UTC
+48	331	TX	Milam County	16.6	54,667	2264.jpg	Good	It's really lit a fire under me': Rockdale man starts new art organization, helps local artists	0.9170	25 News KXXV and KRHD	03/26/2024, 11:51 PM, +0000 UTC
+01	127	AL	Walker County	16.7	51,065	2267.jpg	Good	Good Samaritan Found Dead After Trying to Save Mom Whose Car Crashed Into River: 'True Hero'	0.6890	PEOPLE	10/12/2023, 07:00 AM, +0000 UTC
+04	015	AZ	Mohave County	16.7	54,842	2269.jpg	Good	Good morning: Mohave County Fair was 'huge success'	0.9500	Today's News-Herald	09/25/2023, 07:00 AM, +0000 UTC
+47	005	TN	Benton County	16.7	50,635	2274.jpg	Good	UT-TSU Extension Benton County Partners With Second Harvest Food Bank of Middle Tenn.	0.3210	Morning Ag Clips -	09/05/2023, 07:00 AM, +0000 UTC
+05	047	AR	Franklin County	16.8	48,248	2279.jpg	Good	Inflation Reduction Act in Action | Farm Loans: From Tragedy to Hope	0.7590	Farmers.gov	07/05/2023, 07:00 AM, +0000 UTC
+06	105	CA	Trinity County	16.8	49,485	2280.jpg	Good	Shasta County's LGBTQ+ community celebrates Pride month	0.8500	Record Searchlight	06/03/2023, 07:00 AM, +0000 UTC
+21	009	KY	Barren County	16.8	50,658	2283.jpg	Good	Kentucky’s entertainment incentive creates investments in local communities	0.9410	WBKO	12/08/2023, 08:00 AM, +0000 UTC
+28	117	MS	Prentiss County	16.8	49,217	2286.jpg	Good	Cat can't be denied, Bogue Chitto bests New Site to reach 2A title game - Daily Leader	0.7830	Dailyleader	02/27/2024, 08:00 AM, +0000 UTC
+29	175	MO	Randolph County	16.8	48,762	2287.jpg	Good	Just happy to be alive	0.9210	Greensboro News & Record	07/15/2020, 07:11 AM, +0000 UTC
+40	049	OK	Garvin County	16.8	49,245	2290.jpg	Good	Hangar offers hope for the future	0.7570	Pauls Valley Daily Democrat	10/11/2023, 07:00 AM, +0000 UTC
+48	073	TX	Cherokee County	16.8	50,351	2291.jpg	Good	Cherokee artist is learning more about her Cherokee heritage	0.6300	Cherokee Phoenix	09/21/2023, 07:00 AM, +0000 UTC
+12	017	FL	Citrus County	16.9	52,534	2295.jpg	Good	Goodwill's BookWorks program helps kids build their own libraries	0.9580	Bay News 9	12/28/2023, 08:00 AM, +0000 UTC
+13	079	GA	Crawford County	16.9	60,295	2296.jpg	Good	Roberta artists celebrate classic pottery with Jugfest	0.3840	13WMAZ.com	05/19/2023, 07:00 AM, +0000 UTC
+39	101	OH	Marion County	16.9	59,012	2298.jpg	Good	Anne Quilter promotes creativity through Marion Fine Art Society	0.7160	Marion Star	03/04/2024, 08:00 AM, +0000 UTC
+40	117	OK	Pawnee County	16.9	54,690	2300.jpg	Good	Ten Oklahoma Skilled Nursing and Assisted Living Facilities Receive National Awards for Quality Improvement	0.9410	Oklahoma City Sentinel	06/05/2023, 07:00 AM, +0000 UTC
+41	019	OR	Douglas County	16.9	55,837	2301.jpg	Good	Joy of Gardening conference draws enthusiastic crowd to OSU	0.8870	OSU Extension Service	07/24/2023, 09:29 PM, +0000 UTC
+47	039	TN	Decatur County	16.9	52,294	2303.jpg	Good	‘Barrels of Love’ collection day helps restock food pantries	0.8800	WHNT News 19	03/01/2024, 08:00 AM, +0000 UTC
+47	077	TN	Henderson County	16.9	53,822	2304.jpg	Good	Raiders support local heroes ahead of Super Bowl LVIII	0.7850	Raiders.com	02/02/2024, 08:00 AM, +0000 UTC
+47	131	TN	Obion County	16.9	50,159	2306.jpg	Good	UT Welcomes New Class of Distinguished Tennessean Scholars	0.9410	University of Tennessee, Knoxville - News	05/26/2023, 07:00 AM, +0000 UTC
+48	151	TX	Fisher County	16.9	57,867	2310.jpg	Good	GCMS/Fisher Middle School wrestling claims regional title, advances 11 grapplers to sectionals	0.7870	Ford County Chronicle	02/24/2024, 08:00 AM, +0000 UTC
+53	047	WA	Okanogan County	16.9	58,661	2312.jpg	Good	Okanogan County Non-Profit Receives Grant To Expand Child Care Services	0.8640	KPQ	12/20/2023, 08:00 AM, +0000 UTC
+01	125	AL	Tuscaloosa County	17.0	60,875	2315.jpg	Good	GOP presidential debate site in Tuscaloosa has rich musical history	0.6990	Tuscaloosa Magazine	11/29/2023, 08:00 AM, +0000 UTC
+13	319	GA	Wilkinson County	17.0	49,648	2318.jpg	Good	Meet the three women laying the foundation for a new, pro-Black city in central Georgia	0.7920	Atlanta Magazine	04/21/2022, 07:00 AM, +0000 UTC
+22	055	LA	Lafayette Parish	17.0	58,641	2319.jpg	Good	UL Lafayette gets largest funding award in its history for energy resilience initiative	0.9390	Daily Advertiser	10/24/2023, 07:00 AM, +0000 UTC
+37	157	NC	Rockingham County	17.0	52,494	2320.jpg	Good	Press Release: Davidson County highways receive award	0.3770	Davidson Local	03/25/2024, 09:15 AM, +0000 UTC
+45	003	SC	Aiken County	17.0	67,728	2325.jpg	Good	Aiken Center for the Arts named a 2023 'Angel' for its charitable efforts	0.9440	The Post and Courier	11/16/2023, 08:00 AM, +0000 UTC
+45	065	SC	McCormick County	17.0	56,636	2326.jpg	Good	A McCormick County school gives students a unique educational experience	0.9450	WJBF-TV	08/06/2023, 07:00 AM, +0000 UTC
+21	219	KY	Todd County	17.1	53,280	2335.jpg	Good	Aluminum company to expand in Todd County, create 140 jobs - ABC 36 News	0.6250	WTVQ	01/11/2022, 08:00 AM, +0000 UTC
+40	121	OK	Pittsburg County	17.1	47,930	2339.jpg	Good	Signups underway for Pittsburg County Community Thanksgiving Dinner	0.0970	Mcalester News Capital	11/07/2023, 08:00 AM, +0000 UTC
+47	059	TN	Greene County	17.1	50,410	2341.jpg	Good	Greene County native harvests rare multiple-bearded turkey	0.5520	WJHL-TV News Channel 11	04/21/2023, 07:00 AM, +0000 UTC
+01	069	AL	Houston County	17.2	56,842	2343.jpg	Good	Dothan Field Office Team Determined to Serve and Protect	0.8480	Alabama Board of Pardons and Paroles	05/03/2023, 07:00 AM, +0000 UTC
+05	049	AR	Fulton County	17.2	42,588	2344.jpg	Good	A New Dawn for Healthcare in Salem: Fulton County Hospital Joins Forces with Baxter Health	0.8960	Medriva	02/29/2024, 08:00 AM, +0000 UTC
+06	035	CA	Lassen County	17.2	60,308	2345.jpg	Good	"California's Creative Response: Musical Initiative and Art Projects Tackle Health and Climate Awareness"	0.7910	SierraDailyNews.com	03/25/2024, 03:31 PM, +0000 UTC
+21	225	KY	Union County	17.2	58,223	2346.jpg	Good	‘Like my own little family.’ Marching band poll winners are ‘The Pride of the Mountains.’	0.4580	Lexington Herald Leader	10/10/2023, 07:00 AM, +0000 UTC
+26	035	MI	Clare County	17.2	47,973	2347.jpg	Good	Fascinating week of brilliant programing at the Fleadh Cheoil (VIDEOS)	0.9440	IrishCentral	08/31/2016, 07:00 AM, +0000 UTC
+36	061	NY	New York County	17.2	95,514	2348.jpg	Good	A 'Revolutionary' Way to Feed the World That's Very Old	0.9490	The New York Times	01/26/2024, 08:00 AM, +0000 UTC
+39	013	OH	Belmont County	17.2	55,573	2350.jpg	Good	Powerball drawing was good to Ohio!	0.9760	Yahoo! Voices	03/10/2024, 08:00 AM, +0000 UTC
+48	409	TX	San Patricio County	17.2	62,919	2354.jpg	Good	$1.4 million contributed for matches on Day of Giving	0.7200	STexasNews.com	11/10/2023, 08:00 AM, +0000 UTC
+51	700	VA	Newport News city	17.2	63,350	2355.jpg	Good	CRR runners fare well at Newport News races	0.9100	Daily Press	03/08/2024, 08:00 AM, +0000 UTC
+05	119	AR	Pulaski County	17.3	57,057	2359.jpg	Good	Arkansas jail receives funding for mental health services	0.4560	THV11.com KTHV	08/24/2023, 07:00 AM, +0000 UTC
+17	183	IL	Vermilion County	17.3	52,083	2360.jpg	Good	This Danville School is leading East-Central Illinois in improving reading skills for Black students	0.9700	IPM Newsroom	11/01/2023, 07:00 AM, +0000 UTC
+29	143	MO	New Madrid County	17.3	48,162	2364.jpg	Good	Groundbreaking held in New Madrid for new facility focused on cleaning up environment	0.7540	KFVS	02/17/2022, 08:00 AM, +0000 UTC
+45	021	SC	Cherokee County	17.3	50,403	2370.jpg	Good	Pride in product: Cherokee's cannabis operation	0.8500	Cherokee One Feather	07/20/2023, 07:00 AM, +0000 UTC
+48	303	TX	Lubbock County	17.3	59,138	2372.jpg	Good	Texas Tech President shares pride, excitement for Goin' Band trip to NYC	0.8920	Fox 34	11/22/2023, 08:00 AM, +0000 UTC
+08	003	CO	Alamosa County	17.4	53,942	2375.jpg	Good	Small but mighty LGBTQ+ Pride celebration returns to the San Luis Valley	0.9010	Rocky Mountain PBS	08/26/2022, 07:00 AM, +0000 UTC
+21	101	KY	Henderson County	17.4	55,530	2377.jpg	Good	‘I love our fight.’ Henderson County joins Ballard in softball state championship game.	0.5870	Lexington Herald Leader	06/11/2023, 07:00 AM, +0000 UTC
+35	027	NM	Lincoln County	17.4	54,344	2380.jpg	Good	Helping Hands Outreach Center ready to serve Lincoln City	0.7200	Newport News Times	11/16/2023, 08:00 AM, +0000 UTC
+36	075	NY	Oswego County	17.4	59,335	2381.jpg	Good	Oswego should continue to be a city of refuge	0.8520	oswegocountynewsnow.com	02/02/2024, 08:00 AM, +0000 UTC
+39	007	OH	Ashtabula County	17.4	52,468	2382.jpg	Good	Samaritan House one step closer to opening new facility	0.8980	The Star Beacon	12/28/2023, 08:00 AM, +0000 UTC
+40	149	OK	Washita County	17.4	54,789	2383.jpg	Good	Washita County Owner Receives Centennial Farm Award	0.7970	KECO 96.5FM	01/25/2024, 08:00 AM, +0000 UTC
+45	071	SC	Newberry County	17.4	55,050	2384.jpg	Good	‘It’s a joy to come to work’: Woman opens hot dog stand at 85 years old	0.9030	Live 5 News WCSC	09/19/2023, 07:00 AM, +0000 UTC
+48	049	TX	Brown County	17.4	53,455	2387.jpg	Good	6 innovative startups that are kicking CO2 out of cement and concrete	0.9490	Canary Media	10/24/2023, 07:00 AM, +0000 UTC
+48	067	TX	Cass County	17.4	54,276	2388.jpg	Good	East Texas veteran service organizations awarded grants totaling over $1.8 million	0.6570	Tyler Morning Telegraph	09/14/2023, 05:27 PM, +0000 UTC
+48	401	TX	Rusk County	17.4	55,085	2389.jpg	Good	Here is Why People Seem to Love This Local Pharmacy in Tyler, TX	0.9470	knue.com	08/10/2023, 07:00 AM, +0000 UTC
+55	079	WI	Milwaukee County	17.4	58,375	2391.jpg	Good	Get out of the house and enjoy Milwaukee-area museums for discounted prices	0.9520	WISN Milwaukee	01/21/2024, 08:00 AM, +0000 UTC
+12	063	FL	Jackson County	17.5	50,625	2393.jpg	Good	Mother says 4-year-old daughter found by good Samaritan after walking away from Clay County school following mistake	0.2090	WJXT News4JAX 	08/15/2023, 07:00 AM, +0000 UTC
+17	029	IL	Coles County	17.5	57,712	2394.jpg	Good	Hijab-wearing NCAA tourney players hope to inspire others	0.8060	Journal Gazette / Times-Courier	03/29/2024, 09:45 PM, +0000 UTC
+40	041	OK	Delaware County	17.5	54,799	2398.jpg	Good	Oklahoma game warden hailed as hero after rescuing man sucked into water vortex	0.9030	Fox News	05/26/2022, 07:00 AM, +0000 UTC
+48	391	TX	Refugio County	17.5	50,936	2400.jpg	Good	Beeville Volunteer Fire Department celebrates arrival of new fire truck	0.7510	KRIS 6 News Corpus Christi	08/03/2023, 07:00 AM, +0000 UTC
+48	457	TX	Tyler County	17.5	50,722	2401.jpg	Good	Season openers spell success for Tyler County teams	0.8610	East Texas News	08/31/2023, 07:00 AM, +0000 UTC
+01	093	AL	Marion County	17.6	47,742	2402.jpg	Good	Alabama artist leads volunteers in bringing joy, creativity to Marion	0.9490	Alabama NewsCenter	04/29/2021, 07:00 AM, +0000 UTC
+06	045	CA	Mendocino County	17.6	63,621	2404.jpg	Good	Video: Karate instructors stop attempted carjacking in Oakland	0.1250	KTVU FOX 2 San Francisco	09/26/2023, 07:00 AM, +0000 UTC
+28	109	MS	Pearl River County	17.6	55,830	2406.jpg	Good	Miss Pearl River County, a Miss Mississippi contestant, has a program to help grieving kids	0.4460	AOL	01/19/2024, 05:16 PM, +0000 UTC
+29	021	MO	Buchanan County	17.6	56,751	2408.jpg	Good	Success story: Home cook turns restaurant owner in rural Missouri town	0.7510	AgUpdate	03/27/2024, 08:00 PM, +0000 UTC
+36	013	NY	Chautauqua County	17.6	55,644	2411.jpg	Good	CCPEG Awards 14 Grants Totaling $242000 for Development Projects Across Chautauqua County	0.6490	Chautauqua County	01/04/2024, 08:00 AM, +0000 UTC
+37	099	NC	Jackson County	17.6	58,491	2412.jpg	Good	One State Rolled Out a Promising Child Care Model. Now Others Are Replicating It.	0.9480	EdSurge	01/30/2024, 08:00 AM, +0000 UTC
+29	167	MO	Polk County	17.7	53,693	2422.jpg	Good	State leaders praise public service of Missouri firefighters	0.9620	Jefferson City News Tribune	04/06/2022, 07:00 AM, +0000 UTC
+37	013	NC	Beaufort County	17.7	54,415	2424.jpg	Good	Beaufort County Early College High School one of eight in NC to receive special honor	0.9760	WNCT	09/19/2023, 07:00 AM, +0000 UTC
+06	029	CA	Kern County	17.8	65,981	2426.jpg	Good	West Kern Consortium Schools reap benefits for students, see success	0.9670	KERO 23 ABC News Bakersfield	11/15/2023, 08:00 AM, +0000 UTC
+08	071	CO	Las Animas County	17.8	49,097	2427.jpg	Good	A homeless recovery campus on the plains is so successful Colorado is making more	0.9760	The Colorado Sun	10/16/2023, 07:00 AM, +0000 UTC
+13	215	GA	Muscogee County	17.8	53,740	2428.jpg	Good	Georgia deputy praised for saving drowning children	0.9450	FOX 5 Atlanta	07/05/2022, 07:00 AM, +0000 UTC
+13	285	GA	Troup County	17.8	55,852	2429.jpg	Good	Clemson Signing Day: Tigers add another four-star DB with Tavoy Feagin	0.4420	Sports Illustrated	12/20/2023, 08:00 AM, +0000 UTC
+13	305	GA	Wayne County	17.8	51,102	2430.jpg	Good	Georgia high school teacher receives 'Oscars of Teaching' award	0.8900	ValdostaToday.com	01/22/2024, 08:00 AM, +0000 UTC
+21	217	KY	Taylor County	17.8	52,414	2433.jpg	Good	Taylor County girls wrestling reigns supreme, Woodford County earns 2 titles at state meet	0.8660	Lexington Herald Leader	02/20/2024, 08:00 AM, +0000 UTC
+30	087	MT	Rosebud County	17.8	64,003	2435.jpg	Good	Governor Gianforte Highlights Investments, Leaders Building A Stronger Future for Montana	0.8360	the State of Montana NewsRoom	06/16/2023, 07:00 AM, +0000 UTC
+40	003	OK	Alfalfa County	17.9	58,045	2444.jpg	Good	Oklahoma ranch teams compete and raise funds for Children's Hospital Foundation	0.8510	Oklahoman.com	08/30/2020, 07:00 AM, +0000 UTC
+45	023	SC	Chester County	17.9	53,488	2445.jpg	Good	State legislature recognizes Clemson Extension farm and art tour for its impact	0.9580	Clemson News	05/04/2023, 07:00 AM, +0000 UTC
+54	099	WV	Wayne County	17.9	52,540	2451.jpg	Good	George Washington, Morgantown, Nitro, Wayne earn Tuesday wins at West Virginia state girls basketball tournament	0.2240	WV News	03/05/2024, 08:00 AM, +0000 UTC
+06	023	CA	Humboldt County	18.0	57,660	2453.jpg	Good	How California is working to elevate Native American students	0.9260	CalMatters	03/04/2024, 08:00 AM, +0000 UTC
+27	087	MN	Mahnomen County	18.0	52,926	2459.jpg	Good	A historic investment in Minnesota kids	0.9670	Star Tribune	10/07/2023, 07:00 AM, +0000 UTC
+28	003	MS	Alcorn County	18.0	49,627	2460.jpg	Good	Alcorn County: Small-town charm, big-time opportunities make county great place to be	0.9210	Northeast Mississippi Daily Journal	09/05/2023, 07:00 AM, +0000 UTC
+41	033	OR	Josephine County	18.0	54,983	2464.jpg	Good	Grants Pass drilling company receives prestigious small business award	0.9020	KDRV	04/18/2023, 07:00 AM, +0000 UTC
+45	059	SC	Laurens County	18.0	53,847	2465.jpg	Good	Laurens Electric awards students the 'trip of a lifetime'	0.9310	GoLaurens.Com	03/25/2024, 02:00 PM, +0000 UTC
+47	183	TN	Weakley County	18.0	49,815	2467.jpg	Good	Following The Data To Create A Blueprint For Post-Pandemic Student Recovery And Success	0.7910	Forbes	03/24/2024, 09:52 PM, +0000 UTC
+48	083	TX	Coleman County	18.0	45,834	2468.jpg	Good	Coleman Police Department gets cuddly new recruits	0.5950	MyFoxZone.com KIDY	02/16/2021, 08:00 AM, +0000 UTC
+08	021	CO	Conejos County	18.1	49,141	2472.jpg	Good	San Luis Great Outdoors receives $137K grant for trails	0.5770	Valley Courier	03/15/2024, 03:10 PM, +0000 UTC
+13	307	GA	Webster County	18.1	45,987	2475.jpg	Good	Baseball Recap: Terrell County picks up fourth straight win at home	0.5380	MaxPreps	03/30/2024, 10:25 PM, +0000 UTC
+26	145	MI	Saginaw County	18.1	54,064	2477.jpg	Good	Community revitalization project in Merrill wins national recognition at Mid-America Economic Development Council ...	0.9590	Michigan Economic Development Corporation	01/09/2024, 08:00 AM, +0000 UTC
+29	123	MO	Madison County	18.1	47,068	2480.jpg	Good	You have a friend in the White House': Jill Biden praises teachers during Madison County visit	0.6660	Channel3000.com - WISC-TV3	08/31/2023, 07:00 AM, +0000 UTC
+48	351	TX	Newton County	18.1	47,804	2484.jpg	Good	Don't Worry Be Happy - Missouri Town Friendliest in The State	0.9520	97.9 KICK FM	02/09/2024, 08:00 AM, +0000 UTC
+06	107	CA	Tulare County	18.2	64,313	2486.jpg	Good	Ordinary People With Extraordinary Courage;' Officers, Knight Central Valley Heroes	0.9260	Porterville Recorder	03/08/2024, 08:00 AM, +0000 UTC
+30	047	MT	Lake County	18.2	57,225	2491.jpg	Good	Lake County school bus driver used bus to protect hit-and-run victim	0.1680	WKMG News 6 & ClickOrlando	10/30/2023, 07:00 AM, +0000 UTC
+48	443	TX	Terrell County	18.2	47,969	2492.jpg	Good	Travis Hunter Praised by Terrell Owens; Colorado WR's Skills Are 'Off the Charts'	0.8960	Bleacher Report	10/05/2023, 07:00 AM, +0000 UTC
+54	035	WV	Jackson County	18.2	54,735	2494.jpg	Good	PB multi-sport star TD Bodkins primed to build upon the success of a brilliant sophomore season	0.9480	WV News	08/02/2023, 07:00 AM, +0000 UTC
+01	121	AL	Talladega County	18.3	55,186	2495.jpg	Good	Google brings Wi-Fi-equipped school buses to Alabama city	0.4070	Made In Alabama	03/15/2019, 07:00 AM, +0000 UTC
+01	133	AL	Winston County	18.3	51,149	2496.jpg	Good	Baseball Recap: Winston County wins going away against Sulligent	0.5310	MaxPreps	04/01/2024, 02:50 AM, +0000 UTC
+28	067	MS	Jones County	18.3	58,000	2502.jpg	Good	Surprise celebration honors Jones County bus driver's half-century service	0.8790	WCTI12.com	09/04/2023, 07:00 AM, +0000 UTC
+39	105	OH	Meigs County	18.3	46,393	2503.jpg	Good	Meigs County students receive recognition	0.8650	Meigs Independent Press	06/08/2023, 07:00 AM, +0000 UTC
+48	353	TX	Nolan County	18.3	50,579	2506.jpg	Good	Family of transplant teen hope to meet donor	0.5410	BBC	12/27/2023, 08:00 AM, +0000 UTC
+53	027	WA	Grays Harbor County	18.3	62,258	2507.jpg	Good	Multi-platinum recording artist Mary Lambert to headline Grays Harbor Pride Festival	0.6620	KXRO Newsradio	06/23/2023, 07:00 AM, +0000 UTC
+01	101	AL	Montgomery County	18.4	56,862	2508.jpg	Good	Share Food Program receives grant for exciting upgrades to new Montgomery County warehouse	0.9760	CBS Philly	03/15/2024, 07:00 AM, +0000 UTC
+12	093	FL	Okeechobee County	18.4	50,176	2509.jpg	Good	Longtime Red Cross volunteer finds happiness in helping others	0.9400	Vero News	04/17/2023, 07:00 AM, +0000 UTC
+13	225	GA	Peach County	18.4	58,471	2510.jpg	Good	Houston County, GA welcomes students on first day of school	0.5880	13WMAZ.com	08/01/2022, 07:00 AM, +0000 UTC
+35	055	NM	Taos County	18.4	48,462	2517.jpg	Good	Local incubators fuel the future of entrepreneurship in Taos	0.9430	The Taos News	02/09/2024, 10:58 PM, +0000 UTC
+39	079	OH	Jackson County	18.4	54,893	2518.jpg	Good	Men who tackled suspect at rally declared heroes by Jackson County	0.8200	WDAF FOX4 Kansas City	03/04/2024, 08:00 AM, +0000 UTC
+45	047	SC	Greenwood County	18.4	49,867	2519.jpg	Good	State Focus: A New Frontier For Investment In South Carolina	0.9220	Business Facilities Magazine	03/09/2023, 08:01 PM, +0000 UTC
+45	087	SC	Union County	18.4	46,461	2520.jpg	Good	Greenshoots: Outdoor enthusiasts praise support from state lawmakers	0.8180	Business North Carolina	11/01/2023, 07:00 AM, +0000 UTC
+51	029	VA	Buckingham County	18.4	55,965	2521.jpg	Good	Viral TikTok helps Buckingham Co. woman reunite with lost wedding ring	0.4490	WSET	05/20/2023, 07:00 AM, +0000 UTC
+04	007	AZ	Gila County	18.5	51,928	2525.jpg	Good	Feed store seen as a bright spot for downtown Duncan	0.9300	Eastern Arizona Courier	03/18/2024, 04:02 PM, +0000 UTC
+13	043	GA	Candler County	18.5	44,493	2527.jpg	Good	Georgia's Aerospace Industry Engineers the Future of Flight	0.9520	Better Georgia	06/16/2023, 07:00 AM, +0000 UTC
+36	003	NY	Allegany County	18.5	55,466	2534.jpg	Good	Warming House receives $4000 grant	0.6250	The Bona Venture	01/26/2024, 08:00 AM, +0000 UTC
+40	021	OK	Cherokee County	18.5	49,403	2536.jpg	Good	TALENT IN BUNCHES: Caden Bunch looks to be next up out of Cherokee County	0.8840	Tahlequah Daily Press	05/17/2023, 07:00 AM, +0000 UTC
+13	317	GA	Wilkes County	18.6	47,377	2543.jpg	Good	Michaux: '67 Washington-Wilkes team reminisces about state championship	0.1430	The Augusta Chronicle	09/28/2017, 07:00 AM, +0000 UTC
+21	155	KY	Marion County	18.6	53,676	2544.jpg	Good	Regional counties receive grants for clean up efforts	0.7640	WBKO	02/08/2024, 08:00 AM, +0000 UTC
+54	061	WV	Monongalia County	18.6	59,094	2548.jpg	Good	Pantry Plus More earns $10000 donation with WVU Dukes Mayo Bowl win	0.7730	wajr	12/28/2023, 08:00 AM, +0000 UTC
+01	049	AL	DeKalb County	18.7	50,037	2549.jpg	Good	Love is love' to area residents at annual DeKalb Pride Fest	0.7830	Daily Chronicle	06/22/2023, 07:00 AM, +0000 UTC
+05	083	AR	Logan County	18.7	48,510	2550.jpg	Good	Small-town young LGBTQ+ person left a heartwarming note for a woman who flew Pride flag	0.9220	Upworthy	07/06/2021, 11:48 PM, +0000 UTC
+12	073	FL	Leon County	18.7	61,560	2551.jpg	Good	Leon County says increase in state money helping combat housing affordability	0.8870	WTXL ABC 27 Tallahassee News	03/05/2024, 08:00 AM, +0000 UTC
+21	031	KY	Butler County	18.7	50,824	2552.jpg	Good	Crestview Hills neighbors get creative by creating ice sculpture	0.7970	FOX19	01/16/2024, 08:00 AM, +0000 UTC
+54	067	WV	Nicholas County	18.7	46,757	2558.jpg	Good	Singing Valentines deliver joy to workplaces around Charleston	0.9680	WOWK 13 News	02/14/2024, 08:00 AM, +0000 UTC
+05	001	AR	Arkansas County	18.8	52,145	2561.jpg	Good	Son of Marion police officer remembered as hero after risking life to save friend	0.8420	Action News 5	06/08/2023, 07:00 AM, +0000 UTC
+06	047	CA	Merced County	18.8	65,253	2562.jpg	Good	Startups to Watch: Pair Team folds health care into non-clinical spaces	0.7640	The Business Journals	01/12/2024, 08:00 AM, +0000 UTC
+13	251	GA	Screven County	18.8	52,713	2563.jpg	Good	Screven County schools announce new Teachers of the Year	0.7280	The Augusta Chronicle	05/27/2022, 07:00 AM, +0000 UTC
+39	081	OH	Jefferson County	18.8	54,272	2569.jpg	Good	Good Samaritans saved a life in Ohio house fire	0.9660	WTRF	02/14/2024, 08:00 AM, +0000 UTC
+48	037	TX	Bowie County	18.8	52,460	2570.jpg	Good	‘I shot the big one’: Teen’s patience leads to potential state-record buck	0.8100	KWCH	11/01/2023, 07:00 AM, +0000 UTC
+48	245	TX	Jefferson County	18.8	55,065	2571.jpg	Good	High school baseball: Sawyer Bonin of Texas tops national batting average leaderboard at .840	0.1990	MaxPreps	05/03/2023, 07:00 AM, +0000 UTC
+51	710	VA	Norfolk city	18.8	60,030	2572.jpg	Good	NHRA offering up to $40K to first-time home buyers in Norfolk, VA	0.4230	13newsnow.com WVEC	01/13/2024, 08:00 AM, +0000 UTC
+05	071	AR	Johnson County	18.9	46,660	2574.jpg	Good	Son of Marion police officer remembered as hero after risking life to save friend	0.8420	Action News 5	06/08/2023, 07:00 AM, +0000 UTC
+12	121	FL	Suwannee County	18.9	51,295	2576.jpg	Good	Cross Country Summer Camp inspires middle and high schoolers to run towards success	0.9450	Madison County Carrier	09/14/2023, 07:00 AM, +0000 UTC
+24	510	MD	Baltimore city	18.9	54,735	2579.jpg	Good	New holiday tradition spreads joy throughout Maryland neighborhood	0.9620	NBC News	12/03/2023, 08:00 AM, +0000 UTC
+48	411	TX	San Saba County	18.9	51,350	2583.jpg	Good	Congrats to Sheriff Jenkins on his election win	0.9400	San Saba News & Star	03/06/2024, 08:00 AM, +0000 UTC
+17	019	IL	Champaign County	19.0	61,205	2587.jpg	Good	The life of a local baseball icon coming to the Champaign County History Museum	0.3520	The News-Gazette	12/31/2023, 08:00 AM, +0000 UTC
+18	035	IN	Delaware County	19.0	54,059	2588.jpg	Good	Startups of The Year 2023 Winners: North America	0.5660	hackernoon.com	01/24/2024, 08:00 AM, +0000 UTC
+05	075	AR	Lawrence County	19.1	47,312	2593.jpg	Good	River Valley physician of the year looks back on lifetime of service to the region | Arkansas Democrat Gazette	0.4410	Arkansas Online	10/08/2023, 07:00 AM, +0000 UTC
+12	001	FL	Alachua County	19.1	58,783	2595.jpg	Good	ICI Homes for Hope breaks ground in building a brighter future for Greater Gainesville	0.9530	Alachua Chronicle	01/12/2024, 08:00 AM, +0000 UTC
+40	015	OK	Caddo County	19.1	51,071	2600.jpg	Good	“Self-Healing Asphalt” on interstate wins praise in Oklahoma	0.9750	Equipment World	04/10/2023, 07:00 AM, +0000 UTC
+40	101	OK	Muskogee County	19.1	53,035	2601.jpg	Good	Thrift store fills a need	0.9310	Muskogee Daily Phoenix	03/14/2019, 07:00 AM, +0000 UTC
+47	087	TN	Jackson County	19.1	43,306	2602.jpg	Good	Tennessee Tech vision brings new life to state's rural counties	0.9190	Tennessean	05/09/2023, 07:00 AM, +0000 UTC
+01	039	AL	Covington County	19.2	46,958	2605.jpg	Good	Alabama's 'Rocket City' explores growth areas in aerospace and beyond	0.6970	Made In Alabama	06/21/2023, 07:00 AM, +0000 UTC
+13	173	GA	Lanier County	19.2	50,671	2607.jpg	Good	Lanier County softball wins first state championship in schools history	0.9190	WCTV	10/28/2023, 07:00 AM, +0000 UTC
+18	157	IN	Tippecanoe County	19.2	56,088	2608.jpg	Good	Women of Distinction: Salute to Women honoree Lorie Amick	0.9300	wlfi.com	07/16/2021, 07:00 AM, +0000 UTC
+28	000	MS	Mississippi	19.2	52,788	2610.jpg	Good	Moral imperative': House overwhelmingly passes Mississippi Medicaid expansion	0.4670	Mississippi Today	02/28/2024, 08:00 AM, +0000 UTC
+39	099	OH	Mahoning County	19.2	54,774	2615.jpg	Good	Golfers and artists come together for Sip'n Paint fundraiser	0.6340	SalemNews.net	06/30/2023, 07:00 AM, +0000 UTC
+40	111	OK	Okmulgee County	19.2	45,754	2616.jpg	Good	Morris Public Schools offering free third meal to students	0.7120	2 News Oklahoma KJRH Tulsa	10/30/2023, 07:00 AM, +0000 UTC
+40	125	OK	Pottawatomie County	19.2	52,695	2617.jpg	Good	Pottawatomie County Achieves Certified Blue Zones Community® status	0.8780	PR Newswire	08/20/2020, 07:00 AM, +0000 UTC
+48	297	TX	Live Oak County	19.2	58,576	2618.jpg	Good	Workforce Solutions mobile unit seeks to help people find jobs	0.6580	KRIS 6 News Corpus Christi	09/18/2023, 07:00 AM, +0000 UTC
+18	053	IN	Grant County	19.3	51,053	2620.jpg	Good	Grant County K-9 Deputy praised for his help in sex trafficking case	0.8970	21 Alive News	03/05/2024, 08:00 AM, +0000 UTC
+29	215	MO	Texas County	19.3	46,622	2627.jpg	Good	Ellis County quilters sharing creative craft with the next generation	0.9400	CBS News	03/16/2024, 07:00 AM, +0000 UTC
+48	001	TX	Anderson County	19.3	60,800	2629.jpg	Good	Blue Santa program brings joy to those in need during the holidays	0.9620	Tyler Morning Telegraph	12/07/2023, 11:46 AM, +0000 UTC
+40	119	OK	Payne County	19.4	51,236	2639.jpg	Good	Injured Payne County Soldier Receives Surprise, Large Welcome Home	0.9200	News On 6	11/07/2023, 10:07 PM, +0000 UTC
+48	241	TX	Jasper County	19.4	50,763	2641.jpg	Good	Smith beats three to win sheriff without runoff	0.0970	TheRecordLive.com	03/05/2024, 08:00 AM, +0000 UTC
+01	057	AL	Fayette County	19.5	49,205	2644.jpg	Good	Berry Native Tapped To Lead Stillman Volleyball Program	0.2190	Patch	02/05/2024, 08:00 AM, +0000 UTC
+17	055	IL	Franklin County	19.5	49,108	2649.jpg	Good	Mary Kay Mattiace: A Franklin County wonder	0.8830	The Recorder	02/14/2024, 08:00 AM, +0000 UTC
+21	043	KY	Carter County	19.5	48,285	2650.jpg	Good	Plenty of creativity at Grayson art gallery	0.7590	The Independent	08/28/2020, 07:00 AM, +0000 UTC
+28	101	MS	Newton County	19.5	47,320	2652.jpg	Good	Community Partners with EJI to Dedicate Historical Marker in Newton County, Mississippi	0.1680	Equal Justice Initiative	03/12/2024, 08:38 PM, +0000 UTC
+36	007	NY	Broome County	19.5	60,533	2654.jpg	Good	Bringing the Fun Back at the Eastern NY Summer Jersey Show	0.9250	Morning Ag Clips -	08/14/2023, 07:00 AM, +0000 UTC
+48	255	TX	Karnes County	19.5	61,860	2657.jpg	Good	Winning $1 million scratch-off sold in Karnes County	0.4050	KSAT San Antonio	01/09/2024, 08:00 AM, +0000 UTC
+13	235	GA	Pulaski County	19.6	46,975	2663.jpg	Good	Pulaski County senior center brings enjoyment to senior citizens	0.9350	13WMAZ.com	11/23/2022, 08:00 AM, +0000 UTC
+21	055	KY	Crittenden County	19.6	50,452	2664.jpg	Good	‘It feels like family.’ Top-10 recruit Leah Macy finds success and community at new school.	0.8960	Lexington Herald Leader	01/25/2024, 08:00 AM, +0000 UTC
+29	221	MO	Washington County	19.6	47,636	2667.jpg	Good	Startups of The Year 2023 Winners: North America	0.5660	hackernoon.com	01/24/2024, 08:00 AM, +0000 UTC
+35	035	NM	Otero County	19.6	52,787	2671.jpg	Good	Tri-State Member Cooperatives Celebrate Halfway Point of Construction for Escalante Solar	0.4280	PR Newswire	11/09/2023, 08:00 AM, +0000 UTC
+37	083	NC	Halifax County	19.6	44,804	2672.jpg	Good	Halifax County Schools shows signs of improvement	0.9200	EdNC	11/12/2020, 08:00 AM, +0000 UTC
+45	025	SC	Chesterfield County	19.6	44,574	2674.jpg	Good	A profile in courage: SC’s 5 sister senators honored with annual JFK Foundation award	0.8970	The State	09/20/2023, 07:00 AM, +0000 UTC
+51	680	VA	Lynchburg city	19.6	50,494	2675.jpg	Good	Bonner Leader lends talents to award-winning Lynchburg Fire Department program	0.8750	University of Lynchburg	02/28/2024, 08:00 AM, +0000 UTC
+54	081	WV	Raleigh County	19.6	51,317	2678.jpg	Good	Mercer County corporation honored as 2024 West Virginia Arts Organization of the Year	0.9020	WVNS-TV	02/23/2024, 08:00 AM, +0000 UTC
+31	173	NE	Thurston County	19.7	57,129	2682.jpg	Good	Native Voters and Tribal Nations Negotiate Fair Districts in Nebraska	0.1420	Native American Rights Fund	01/26/2024, 08:00 AM, +0000 UTC
+35	017	NM	Grant County	19.7	47,099	2683.jpg	Good	Restaurants receive small business grants to help recoup COVID losses	0.6650	The State Journal-Register	08/18/2023, 07:00 AM, +0000 UTC
+37	195	NC	Wilson County	19.7	51,535	2685.jpg	Good	Saturday's ArtSpin packed with events, creativity	0.8640	Restoration NewsMedia	05/30/2023, 07:00 AM, +0000 UTC
+51	173	VA	Smyth County	19.7	45,484	2688.jpg	Good	Chilhowie Elementary librarian recognized as 'Regional Teacher of The Year'	0.9070	WCYB	04/17/2023, 07:00 AM, +0000 UTC
+13	275	GA	Thomas County	19.8	52,236	2689.jpg	Good	Something Good: Students from three Thomas County schools in Special Olympics	0.9040	WCTV	03/30/2024, 02:05 AM, +0000 UTC
+36	047	NY	Kings County	19.8	73,244	2695.jpg	Good	Announces All 11 Hospitals Again Recognized by the American Heart Association for Quality Care - NYC Health ...	0.9530	NYC Health + Hospitals	07/12/2023, 07:00 AM, +0000 UTC
+40	115	OK	Ottawa County	19.8	47,855	2697.jpg	Good	Comanche, Ottawa County Farm Bureaus recognized with County Excellence Award	0.9210	Oklahoma Farm Bureau	11/14/2023, 08:00 AM, +0000 UTC
+51	740	VA	Portsmouth city	19.8	54,843	2701.jpg	Good	City of Portsmouth honors the Virginia Squires for its contribution to basketball	0.8480	WAVY.com	10/13/2023, 07:00 AM, +0000 UTC
+21	087	KY	Green County	19.9	46,169	2705.jpg	Good	Regional counties receive grants for clean up efforts	0.7640	WBKO	02/08/2024, 08:00 AM, +0000 UTC
+48	291	TX	Liberty County	19.9	61,880	2706.jpg	Good	Shop With a Cop provides Christmas joy to 77 children in Liberty	0.9580	Bluebonnet News	12/18/2023, 08:00 AM, +0000 UTC
+48	321	TX	Matagorda County	19.9	58,380	2707.jpg	Good	6 new Texas state parks	0.4670	KHOU.com	05/08/2023, 07:00 AM, +0000 UTC
+51	770	VA	Roanoke city	19.9	50,425	2710.jpg	Good	Roanoke's first youth poet laureate: Role can help city be a 'beacon of hope'	0.8700	Roanoke Times	02/20/2024, 08:00 AM, +0000 UTC
+28	043	MS	Grenada County	20.0	46,718	2718.jpg	Good	Commissioner Gipson Commends the Greater Grenada Partnership for their Efforts in Mississippi Timber Business	0.9020	MageeNews.com	10/22/2023, 07:00 AM, +0000 UTC
+48	075	TX	Childress County	20.0	49,200	2722.jpg	Good	Adopt A Cop started by Childress ISD student earning praise	0.9500	abc7amarillo.com	01/25/2019, 08:00 AM, +0000 UTC
+51	678	VA	Lexington city	20.0	62,382	2724.jpg	Good	Two Central Kentucky chefs are semifinalists for prestigious James Beard awards	0.7810	AOL	03/28/2024, 03:31 PM, +0000 UTC
+48	225	TX	Houston County	20.1	49,741	2731.jpg	Good	Texas Artist of the Year Revealed in Art League Houston's Stardust Night	0.8140	PaperCity Magazine	11/08/2023, 08:00 AM, +0000 UTC
+13	209	GA	Montgomery County	20.2	48,356	2733.jpg	Good	Montgomery County bus rapid transit would expand under budget proposal	0.7130	The Washington Post	01/16/2024, 08:00 AM, +0000 UTC
+20	161	KS	Riley County	20.2	55,876	2734.jpg	Good	Lost emu reunited with owner thanks to Kansas deputies	0.7500	WDAF FOX4 Kansas City	07/07/2023, 07:00 AM, +0000 UTC
+21	207	KY	Russell County	20.2	44,425	2735.jpg	Good	Community food pantry now open at Patriot Academy for students and families	0.4370	WBKO	11/01/2023, 07:00 AM, +0000 UTC
+47	025	TN	Claiborne County	20.2	41,087	2738.jpg	Good	Family Barn in Tazewell Displays Loyalty to UT with 50th Mural in the Everywhere You Look, UT Campaign	0.7030	UT System News -	12/18/2023, 08:00 AM, +0000 UTC
+54	019	WV	Fayette County	20.2	48,710	2742.jpg	Good	UConn's Paige Bueckers humbled by praise from Geno Auriemma that she's best in the country	0.9040	Beckley Register-Herald	03/29/2024, 11:20 PM, +0000 UTC
+51	720	VA	Norton city	20.3	41,298	2754.jpg	Good	Norton City Schools Guidance Counselor, UVA Wise Alumna Receives 40th Annual William P. Kanto Memorial Award	0.5350	Highland Cavalier	03/14/2024, 07:00 AM, +0000 UTC
+17	109	IL	McDonough County	20.4	52,812	2756.jpg	Good	Shameka Allen 'Humbled' for Good Samaritan Health Care Centers of Gwinnett Executive Director Position	0.6850	Gwinnettdailypost.com	12/21/2023, 08:00 AM, +0000 UTC
+45	041	SC	Florence County	20.4	52,650	2761.jpg	Good	South Carolina feels more pride than pressure at Sweet 16	0.8100	SCNow	03/28/2024, 09:09 PM, +0000 UTC
+01	045	AL	Dale County	20.5	50,567	2764.jpg	Good	How Dale County's quiet LGBTQ community defended the community library	0.5270	Montgomery Advertiser	10/18/2023, 07:00 AM, +0000 UTC
+48	419	TX	Shelby County	20.5	51,551	2768.jpg	Good	Barrett-Jackson to auction 1968 Shelby GT350 convertible to benefit Northeast Texas Community College	0.1920	North Texas e-News	01/25/2024, 08:00 AM, +0000 UTC
+40	035	OK	Craig County	20.6	48,922	2774.jpg	Good	Area schools benefit from Cherokee Nation car tag program	0.9070	KSNF/KODE - FourStatesHomepage.com	03/30/2024, 05:20 PM, +0000 UTC
+48	445	TX	Terry County	20.6	46,998	2776.jpg	Good	P. Terry's Giving Back Day for Season for Caring	0.3810	Austin American-Statesman	12/13/2023, 08:00 AM, +0000 UTC
+51	690	VA	Martinsville city	20.6	41,500	2777.jpg	Good	Martinsville students win big at Regional Odyssey of the Mind Tournament	0.8900	Henry County Enterprise	03/29/2024, 03:08 PM, +0000 UTC
+01	023	AL	Choctaw County	20.7	44,458	2778.jpg	Good	He just stands out: Choctaw County WR Caleb Cunningham rakes in D1 offers	0.8080	WCBI	10/12/2022, 07:00 AM, +0000 UTC
+17	181	IL	Union County	20.7	51,116	2780.jpg	Good	‘Like my own little family.’ Marching band poll winners are ‘The Pride of the Mountains.’	0.4580	Lexington Herald Leader	10/10/2023, 07:00 AM, +0000 UTC
+28	077	MS	Lawrence County	20.7	46,407	2781.jpg	Good	New labor bill will provide $8.6M for Lawrence County Hospital	0.5690	Dailyleader	03/25/2024, 07:03 PM, +0000 UTC
+40	001	OK	Adair County	20.7	47,799	2783.jpg	Good	4-H'ers ride the waves of success at the 102nd Roundup	0.8870	Guthrie News Page	08/16/2023, 07:00 AM, +0000 UTC
+40	077	OK	Latimer County	20.7	42,409	2784.jpg	Good	Geothermal Startup Raises $244 Million To Drill Hot Rocks In Utah	0.2940	Forbes	02/29/2024, 08:00 AM, +0000 UTC
+51	520	VA	Bristol city	20.7	43,123	2787.jpg	Good	Heroic nurse saves the life of a mother and her baby	0.9630	WJHL-TV News Channel 11	12/22/2023, 08:00 AM, +0000 UTC
+13	107	GA	Emanuel County	20.8	46,975	2789.jpg	Good	A lasting impression: Meet inspiring teacher, Megan Simmons	0.9350	Emanuel County Live	01/03/2024, 08:00 AM, +0000 UTC
+13	263	GA	Talbot County	20.8	45,163	2790.jpg	Good	Visit a Georgia Public Fishing Area for family fun this summer	0.8330	News-Daily.com	07/09/2023, 07:00 AM, +0000 UTC
+29	149	MO	Oregon County	20.8	45,273	2792.jpg	Good	Don't Worry Be Happy - Missouri Town Friendliest in The State	0.9520	97.9 KICK FM	02/09/2024, 08:00 AM, +0000 UTC
+54	103	WV	Wetzel County	20.8	48,563	2797.jpg	Good	ArtCart is proud to announce its expansion into Wetzel County Schools.	0.9270	Wetzel Chronicle	02/15/2023, 08:00 AM, +0000 UTC
+37	047	NC	Columbus County	20.9	45,379	2804.jpg	Good	Event celebrates student artists from across Columbus County	0.8450	NRcolumbus.com	03/24/2024, 09:04 PM, +0000 UTC
+39	163	OH	Vinton County	20.9	51,015	2805.jpg	Good	Missing 18-year-old in Vinton County, Ohio, found safe	0.4160	WOWK 13 News	05/08/2023, 07:00 AM, +0000 UTC
+40	089	OK	McCurtain County	20.9	44,465	2806.jpg	Good	Tribes step in to provide summer child feeding program	0.7230	Tulsa World	01/07/2024, 08:00 AM, +0000 UTC
+45	031	SC	Darlington County	20.9	50,427	2808.jpg	Good	SC school district recognizes ‘hero’ bus driver who saved 40 students after fiery crash	0.9360	WMBF	01/23/2019, 08:00 AM, +0000 UTC
+01	017	AL	Chambers County	21.0	45,563	2810.jpg	Good	ASE Education Foundation Praises SkillsUSA Winners	0.9390	BodyShop Business	07/20/2023, 07:00 AM, +0000 UTC
+35	033	NM	Mora County	21.0	45,155	2811.jpg	Good	New Mexico Reforestation Center announces permanent home in Mora	0.2610	Las Vegas Optic	11/22/2023, 08:00 AM, +0000 UTC
+48	141	TX	El Paso County	21.0	53,441	2813.jpg	Good	El Paso Competes with Over 500 Cities and Wins $40 Million Grant for Advanced Manufacturing and Aerospace and Defense Development	0.8890	The University of Texas at El Paso	09/02/2022, 07:00 AM, +0000 UTC
+12	051	FL	Hendry County	21.1	55,308	2818.jpg	Good	LaBelle High School marks decade of Special Olympics and leaving a solid impact	0.9300	FOX 4 News Fort Myers WFTX	02/08/2024, 08:00 AM, +0000 UTC
+29	153	MO	Ozark County	21.1	44,242	2823.jpg	Good	I'll be home for Christmas: Ozark family reunited in time for holidays.	0.7260	Christian County Headliner News	12/21/2010, 08:00 AM, +0000 UTC
+05	127	AR	Scott County	21.2	42,599	2827.jpg	Good	Son of Marion police officer remembered as hero after risking life to save friend	0.8420	Action News 5	06/08/2023, 07:00 AM, +0000 UTC
+06	025	CA	Imperial County	21.2	55,523	2828.jpg	Good	How California is working to elevate Native American students	0.9260	CalMatters	03/04/2024, 08:00 AM, +0000 UTC
+12	079	FL	Madison County	21.2	46,141	2829.jpg	Good	NFC, Madison County book spots in state semifinals with regional title wins	0.6890	Tallahassee Democrat	11/25/2023, 08:00 AM, +0000 UTC
+13	289	GA	Twiggs County	21.2	48,772	2830.jpg	Good	GA Dept of Education Announces 2022 Georgia Teacher of the Year Finalists	0.5700	All On Georgia	05/07/2021, 07:00 AM, +0000 UTC
+26	163	MI	Wayne County	21.2	55,928	2831.jpg	Good	Grosse Pointe South Shortstop Fearless, Tireless on Field, Brilliant in Classroom	0.9400	MHSAA	12/26/2023, 08:00 AM, +0000 UTC
+40	135	OK	Sequoyah County	21.2	47,450	2832.jpg	Good	Enid children's librarian chosen for Sequoyah Book Awards team	0.7300	Enid News & Eagle	02/17/2023, 08:00 AM, +0000 UTC
+45	011	SC	Barnwell County	21.2	45,080	2833.jpg	Good	Little Red Barn celebrates 20 years of locally made goods	0.8480	The Augusta Chronicle	03/14/2018, 07:00 AM, +0000 UTC
+54	055	WV	Mercer County	21.2	43,917	2835.jpg	Good	Mercer County teen designs Joy holiday stamp	0.3170	WQAD Moline	12/06/2023, 08:00 AM, +0000 UTC
+29	510	MO	St. Louis city	21.3	52,278	2839.jpg	Good	STL Partnership Wins Silver Award for Business Retention and Expansion Excellence	0.9300	stlpartnership.com	10/03/2023, 07:00 AM, +0000 UTC
+37	107	NC	Lenoir County	21.3	46,410	2840.jpg	Good	Lenoir Community College Hopes to Spark Holiday Joy with Irving Berlin's White Christmas The Musical!	0.9260	Kinston Free Press	11/16/2023, 08:00 AM, +0000 UTC
+40	067	OK	Jefferson County	21.3	44,188	2841.jpg	Good	Salt Lake Court receives funding to help renters with housing stability	0.8560	FOX 13 News Utah	08/18/2023, 07:00 AM, +0000 UTC
+47	061	TN	Grundy County	21.3	44,219	2842.jpg	Good	Nashville lottery player wins $100K in Powerball drawing	0.6430	WSMV 4	07/10/2023, 07:00 AM, +0000 UTC
+48	153	TX	Floyd County	21.3	45,784	2843.jpg	Good	McGregor community pitches in to help beloved Mr. Floyd stay cool in the intense summer heat	0.7170	KWTX	07/27/2023, 07:00 AM, +0000 UTC
+42	101	PA	Philadelphia County	21.5	56,385	2854.jpg	Good	Residents of Philadelphia Successfully Challenge Their Gas Utility and Secure Significant Victories for Affordable Utilities	0.9640	Earthjustice	11/09/2023, 08:00 AM, +0000 UTC
+47	151	TN	Scott County	21.5	44,599	2856.jpg	Good	Rhinelander's Scott Kirby - stepping out of his comfort zone for some exciting opportunities	0.9190	WJFW-TV	02/13/2024, 08:00 AM, +0000 UTC
+13	109	GA	Evans County	21.6	45,163	2860.jpg	Good	Covington County Angel of Hope statue unveiled at Robinson Park	0.2410	Andalusia Star-News	10/01/2023, 07:00 AM, +0000 UTC
+39	009	OH	Athens County	21.6	48,265	2863.jpg	Good	Athens County Scores Big Win: QuidelOrtho Expands Operations, Bringing New Jobs and Investment	0.9680	Scioto Post	02/07/2024, 08:00 AM, +0000 UTC
+51	760	VA	Richmond city	21.6	58,719	2864.jpg	Good	Vaccines for all: RHHD fosters creative partnerships to reach residents	0.8840	Virginia Department of Health	11/20/2023, 08:00 AM, +0000 UTC
+05	035	AR	Crittenden County	21.8	49,644	2869.jpg	Good	Cloar exhibit reinforces reputation as regionalist	0.4760	Northwest Arkansas Democrat-Gazette	03/30/2014, 07:00 AM, +0000 UTC
+51	540	VA	Charlottesville city	21.8	67,903	2874.jpg	Good	Charlottesville Named One of America's 'Happiest Places'	0.7460	UVA Today	09/25/2023, 07:00 AM, +0000 UTC
+05	011	AR	Bradley County	21.9	44,982	2876.jpg	Good	UAM’s Small Business Center wins 2023 Excellence award	0.9440	Northwest Arkansas Democrat-Gazette	07/26/2023, 07:00 AM, +0000 UTC
+05	037	AR	Cross County	21.9	48,299	2877.jpg	Good	Arkansas awarding more than $4 million in FUN grants for outdoor recreation projects	0.8130	KARK	02/19/2024, 08:00 AM, +0000 UTC
+28	025	MS	Clay County	21.9	43,451	2881.jpg	Good	Proposed revisions to Mississippi financial aid could expand help available to students	0.9780	Magnolia Tribune	02/18/2024, 08:00 AM, +0000 UTC
+28	159	MS	Winston County	21.9	50,082	2882.jpg	Good	I wasn't giving up': Mississippi deer hunter takes 160-class buck after 3-year pursuit	0.4120	Clarion Ledger	11/04/2022, 07:00 AM, +0000 UTC
+45	049	SC	Hampton County	21.9	43,987	2883.jpg	Good	Gloria's Gift Foundation brings Christmas joy to needy Hampton County families	0.9670	Greenville News	12/12/2023, 08:00 AM, +0000 UTC
+51	111	VA	Lunenburg County	21.9	47,660	2885.jpg	Good	Lunenburg Majors Make History as World Series Champions	0.9220	The Southside Messenger	08/03/2023, 07:00 AM, +0000 UTC
+06	039	CA	Madera County	22.0	71,273	2886.jpg	Good	SF Goodwill Puts 11 Electric Trucks On the Road	0.5090	Patch	04/10/2017, 07:00 AM, +0000 UTC
+13	303	GA	Washington County	22.0	48,462	2887.jpg	Good	West Bend high school students raise over $65000 for nonprofits during Charity Week	0.8710	Greater Milwaukee Today | GMToday.com	03/01/2024, 03:40 PM, +0000 UTC
+05	069	AR	Jefferson County	22.2	45,894	2895.jpg	Good	Jefferson County goes solar hoping to save $3.8 million over next 20 years	0.8110	KATV	08/20/2019, 07:00 AM, +0000 UTC
+22	017	LA	Caddo Parish	22.2	47,699	2898.jpg	Good	A Season of Academic Triumph: Celebrating Success in Caddo Parish Public Schools	0.9620	Shreveport Times	11/23/2023, 08:00 AM, +0000 UTC
+24	039	MD	Somerset County	22.2	53,590	2899.jpg	Good	Somerset County volunteers will be out in September offering message of hope to their neighbors	0.9210	Bay to Bay News	08/27/2023, 07:00 AM, +0000 UTC
+48	041	TX	Brazos County	22.2	60,355	2902.jpg	Good	Brazos Valley Arts Council Mural Festival uplifting the community	0.9660	KAGSTV.com	10/24/2023, 07:00 AM, +0000 UTC
+51	195	VA	Wise County	22.2	45,220	2904.jpg	Good	VHSL CLASS 2 GIRLS: Madison Looney makes leap from good to great as Wise County Central returns to title game	0.8990	Bristol Herald Courier	03/04/2024, 08:00 AM, +0000 UTC
+51	595	VA	Emporia city	22.2	43,496	2905.jpg	Good	City of Emporia's drinking water places third at international water contest	0.9300	Emporia Gazette	02/26/2024, 06:04 PM, +0000 UTC
+01	113	AL	Russell County	22.3	45,074	2907.jpg	Good	Russell County boys win first area championship since 2019	0.7970	WTVM	02/08/2024, 08:00 AM, +0000 UTC
+47	091	TN	Johnson County	22.3	45,495	2913.jpg	Good	Second Harvest Food Banks forming statewide alliance	0.5700	WJHL-TV News Channel 11	07/18/2023, 07:00 AM, +0000 UTC
+28	035	MS	Forrest County	22.4	51,344	2916.jpg	Good	Criminal Justice Professor Earns Lifetime Service Award	0.8000	Ole Miss News	11/15/2023, 08:00 AM, +0000 UTC
+35	045	NM	San Juan County	22.4	51,898	2917.jpg	Good	Voting Rights Win in New Mexico: Navajo Community Gains Equal Opportunity to Elect Preferred Candidates in ...	0.9480	Lawyers' Committee for Civil Rights Under Law	03/25/2024, 09:27 PM, +0000 UTC
+13	021	GA	Bibb County	22.5	48,539	2922.jpg	Good	Here’s how a new road safety program aims to protect Georgia students	0.8880	Macon Telegraph	03/27/2024, 03:51 PM, +0000 UTC
+47	029	TN	Cocke County	22.5	45,361	2925.jpg	Good	UT Welcomes New Class of Distinguished Tennessean Scholars	0.9410	University of Tennessee, Knoxville - News	05/26/2023, 07:00 AM, +0000 UTC
+13	071	GA	Colquitt County	22.6	49,214	2927.jpg	Good	Arts director bids 'So Long' to The Syd, receives fond farewell	0.4900	Tifton Gazette	01/08/2024, 08:00 AM, +0000 UTC
+13	087	GA	Decatur County	22.6	46,455	2928.jpg	Good	5 Places Offering Free Summer Meals And Food Donations For GA Students	0.7220	Patch	06/02/2023, 07:00 AM, +0000 UTC
+22	071	LA	Orleans Parish	22.6	51,913	2929.jpg	Good	Orleans Sheriff celebrates Thanksgiving with 2k meals given to those in need	0.8240	WWLTV.com	11/23/2023, 08:00 AM, +0000 UTC
+48	061	TX	Cameron County	22.6	49,583	2933.jpg	Good	Aleman: Cameron County's partnership with VTX1 will boost economic development 	0.8730	Rio Grande Guardian	02/15/2024, 08:00 AM, +0000 UTC
+13	205	GA	Mitchell County	22.7	45,296	2934.jpg	Good	GaDOE's statewide initiative, Georgia Schools Care, raises over $43,600 to support children in foster care	0.9530	All On Georgia	03/04/2024, 08:00 AM, +0000 UTC
+37	091	NC	Hertford County	22.8	43,871	2940.jpg	Good	MacKenzie Scott, ex-wife of Amazon founder Jeff Bezos, donates record financial gifts to 3 North Carolina HBCUs	0.6100	WTVD-TV	12/16/2020, 08:00 AM, +0000 UTC
+40	075	OK	Kiowa County	22.8	44,959	2943.jpg	Good	Kiowa Tribe works to form coalition to create broadband provider	0.2910	KOCO Oklahoma City	09/21/2023, 07:00 AM, +0000 UTC
+49	037	UT	San Juan County	22.8	50,452	2944.jpg	Good	USU Museum of Anthropology Awarded $74,000 for Collections Care	0.5370	Utah State University	09/16/2020, 07:00 AM, +0000 UTC
+51	730	VA	Petersburg city	22.8	42,385	2945.jpg	Good	Entrepreneur credits success to Jackson Ward family's legacy: 'Love, good food, good vibes'	0.9250	CBS 6 News Richmond WTVR	03/10/2024, 08:00 AM, +0000 UTC
+26	085	MI	Lake County	22.9	48,545	2951.jpg	Good	Nuclear plant restart plan stirs hope, reunions in small Michigan town	0.7870	Bridge Michigan	03/28/2024, 03:16 PM, +0000 UTC
+48	349	TX	Navarro County	22.9	50,822	2954.jpg	Good	New Goodwill Dallas VPs To Implement Sustainable Strategies While Improving Store Operations	0.6110	dallasinnovates.com	06/16/2023, 07:00 AM, +0000 UTC
+13	253	GA	Seminole County	23.2	45,223	2965.jpg	Good	Legislation to Provide Insurance for First Responders with PTSD Favorably Passed out of House Committee	0.9040	The Georgia Virtue	01/29/2024, 08:00 AM, +0000 UTC
+35	013	NM	Dona Ana County	23.2	52,011	2966.jpg	Good	The New Mexico Match Fund will yield massive returns for small communities	0.9660	Las Cruces Sun-News	02/14/2024, 11:55 AM, +0000 UTC
+22	111	LA	Union Parish	23.3	48,003	2969.jpg	Good	New chamber directed excited to be a part of the community	0.9150	La Grande Observer	12/25/2023, 03:04 PM, +0000 UTC
+28	099	MS	Neshoba County	23.3	50,331	2970.jpg	Good	Neshoba Central MS principal named MASSP Principal of the Year	0.8840	WTOK	06/07/2023, 07:00 AM, +0000 UTC
+48	347	TX	Nacogdoches County	23.3	51,708	2973.jpg	Good	Facility expansion expected to create 200 jobs in Nacogdoches	0.6690	CBS19.tv KYTX	08/09/2023, 07:00 AM, +0000 UTC
+01	013	AL	Butler County	23.4	41,852	2974.jpg	Good	‘I will always be grateful’: Wake County officer praises inmates who helped during medical emergency	0.8840	CBS17.com	12/01/2023, 08:00 AM, +0000 UTC
+12	047	FL	Hamilton County	23.4	45,484	2975.jpg	Good	Hamilton County wins going away against Rickards	0.4700	MaxPreps	03/26/2024, 12:42 AM, +0000 UTC
+17	003	IL	Alexander County	23.4	41,378	2977.jpg	Good	New Extension director offers hope for new direction after local funding dispute, personnel shakeup	0.6420	WGLT	11/27/2023, 08:00 AM, +0000 UTC
+35	047	NM	San Miguel County	23.4	47,675	2978.jpg	Good	New Mexico organizations receive grants from Meow Wolf Foundation to help bolster community art, creativity	0.9060	KRQE News 13	11/29/2023, 08:00 AM, +0000 UTC
+01	025	AL	Clarke County	23.5	44,906	2980.jpg	Good	The Amazing Story of the Merrills – Reunited Years After Each Thought the Other Dead	0.5860	War History Online	08/05/2016, 07:00 AM, +0000 UTC
+21	053	KY	Clinton County	23.5	41,739	2982.jpg	Good	Local Joy Ride campaign wins four ADDYs - The Advocate-Messenger	0.8710	Danville Advocate	03/12/2024, 07:45 PM, +0000 UTC
+22	073	LA	Ouachita Parish	23.5	47,283	2983.jpg	Good	Let the Good Times Roll: 2024 Mardi Gras Guide	0.8360	KNOE	01/04/2024, 08:00 AM, +0000 UTC
+35	037	NM	Quay County	23.6	39,885	2987.jpg	Good	Sidwells Receive New Mexico Leopold Conservation Award	0.5320	Drovers Magazine	11/01/2023, 07:00 AM, +0000 UTC
+28	075	MS	Lauderdale County	23.7	49,351	2992.jpg	Good	Lionel Messi’s brilliant free kick gives Inter Miami win in soccer legend’s debut with MLS club	0.7280	CNN	07/21/2023, 07:00 AM, +0000 UTC
+13	031	GA	Bulloch County	23.8	49,471	2995.jpg	Good	Hodges is working to make a difference on campus, in the community	0.9340	Discovering Bulloch	06/02/2023, 02:16 PM, +0000 UTC
+13	193	GA	Macon County	23.8	40,089	2996.jpg	Good	Goodwill Industries of Middle Georgia brings back adult GED program thanks to grant money	0.9160	41 NBC News	07/06/2023, 07:00 AM, +0000 UTC
+54	015	WV	Clay County	23.8	42,604	3000.jpg	Good	Early Christmas: Needy Jacksonville, Clay children to get toys, bikes	0.2190	The Florida Times-Union	12/03/2023, 10:16 AM, +0000 UTC
+21	057	KY	Cumberland County	23.9	48,864	3002.jpg	Good	Missing boy out of Cumberland County, KY, found safe	0.7920	WBKO	05/27/2023, 07:00 AM, +0000 UTC
+13	009	GA	Baldwin County	24.1	49,883	3006.jpg	Good	Baldwin County gears up for back-to-school bash: Fun, freebies and fresh haircuts	0.9380	wgxa.tv	07/12/2023, 07:00 AM, +0000 UTC
+17	153	IL	Pulaski County	24.5	44,873	3016.jpg	Good	Central Illinois Goodwill stores extending their hours	0.2040	WAND	02/26/2018, 08:00 AM, +0000 UTC
+21	109	KY	Jackson County	24.5	41,007	3017.jpg	Good	Kentucky Greens Co. looks to create fresh food solutions for West Louisville	0.4740	The Business Journals	05/25/2023, 07:00 AM, +0000 UTC
+45	075	SC	Orangeburg County	24.6	42,209	3021.jpg	Good	Peace and goodwill: Christmas parade brings community together for holiday	0.8790	The Times and Democrat	12/04/2022, 08:00 AM, +0000 UTC
+51	750	VA	Radford city	24.6	47,892	3023.jpg	Good	Trio of Hokies collect preseason praise from Perfect Game	0.8560	VT hokiesports.com	01/18/2022, 08:00 AM, +0000 UTC
+22	001	LA	Acadia Parish	24.9	42,981	3032.jpg	Good	Local resident combines her love for Louisiana and cajun culture to create kinfolk art	0.8700	KATC News	03/07/2024, 08:00 AM, +0000 UTC
+48	463	TX	Uvalde County	24.9	48,427	3033.jpg	Good	She made us happy' - The all-star dreams of Uvalde's biggest José Altuve fan	0.8470	ESPN	07/27/2022, 07:00 AM, +0000 UTC
+40	133	OK	Seminole County	25.0	44,114	3034.jpg	Good	Ringling Museum exhibit underscores resilience of Seminole people	0.7170	Your Observer	08/16/2023, 07:00 AM, +0000 UTC
+05	079	AR	Lincoln County	25.2	48,311	3039.jpg	Good	Webster Parish Journal : LA Tech freshman from Minden heroic in assisting stab victims	0.8670	Magnoliareporter	11/16/2023, 08:00 AM, +0000 UTC
+13	027	GA	Brooks County	25.5	43,353	3049.jpg	Good	Proud to be a Georgia Farmer: Brandon DeWitt	0.8760	WALB	11/14/2023, 08:00 AM, +0000 UTC
+22	013	LA	Bienville Parish	25.5	41,807	3052.jpg	Good	Louisiana teen to graduate high school, college in the same day	0.8150	KSLA	05/12/2016, 07:00 AM, +0000 UTC
+54	045	WV	Logan County	25.5	42,615	3054.jpg	Good	New center provides variety of services and resources for families in Logan area	0.8980	The Logan Banner	08/29/2023, 07:00 AM, +0000 UTC
+28	029	MS	Copiah County	25.6	43,308	3056.jpg	Good	CO-LIN COMMUNITY COLLEGE SOFTBALL BRINGS HOME FIRST NATIONAL CHAMPIONSHIP	0.8710	Mississippi Scoreboard	06/07/2023, 07:00 AM, +0000 UTC
+28	113	MS	Pike County	25.7	40,945	3057.jpg	Good	Daughter climbs three peaks to scatter father's ashes and fundraise for charity	0.2140	The Independent	10/05/2023, 07:00 AM, +0000 UTC
+38	079	ND	Rolette County	25.7	50,598	3058.jpg	Good	Northern Plains Electric Cooperative donates $50K to new Rugby medical center	0.5120	Jamestown Sun	08/27/2023, 07:00 AM, +0000 UTC
+04	017	AZ	Navajo County	25.9	49,948	3060.jpg	Good	At LGBTQ Pride event, Navajo leaders renew calls for community support, marriage equality	0.5740	The Arizona Republic	2023-06-30 23:26:18
+21	127	KY	Lawrence County	25.9	42,776	3062.jpg	Good	6 sisters called to study nursing pursue their dreams together	0.6380	WKYT	2024-03-31 23:58:56
+21	197	KY	Powell County	26.2	42,434	3069.jpg	Good	GLASS National Museum draws art lovers to Danville	0.7370	FOX 56 News	2024-02-01 1:57:29
+35	029	NM	Luna County	26.4	38,796	3074.jpg	Good	I'm just doing my little part' - Good Samaritan raises money for Lahainaluna baseball team	0.8140	KITV	2023-12-01 1:59:47
+13	059	GA	Clarke County	26.5	49,832	3075.jpg	Good	Athens Free Clinic reflects on winning national award	0.8140	redandblack.com	2024-03-26 2:00:21
+51	590	VA	Danville city	26.8	40,799	3082.jpg	Good	Caesars Danville Casino Helping City Fund Capital Projects	0.8000	Casino.org	2024-02-29 23:26:50
+21	095	KY	Harlan County	26.9	36,022	3083.jpg	Good	ETSU's Evening of Health, Wellness and the Arts to focus on 'Art and Coal in Appalachia'	0.2960	Elizabethton.com	2024-03-25 2:00:56
+51	027	VA	Buchanan County	26.9	39,652	3085.jpg	Good	Feeding SW Virginia bringing mobile food pantry to locations across Central Va.	0.5740	WFXRtv	2023-12-31 23:26:57
+21	193	KY	Perry County	27.0	43,945	3088.jpg	Good	John Calipari raves about Travis Perry's state title win, love for Kentucky: "I couldn't be more proud"	0.9350	On3.com	2024-03-27 2:02:41
+28	151	MS	Washington County	27.3	39,690	3094.jpg	Good	Will Rogers looks to turn adversity into happy ending at Washington	0.7140	Mississippi Today	01/26/2024, 08:00 AM, +0000 UTC
+48	215	TX	Hidalgo County	27.4	48,825	3097.jpg	Good	Jackson Walker Secures Landmark Victory at Texas Supreme Court for Hidalgo County Water Improvement District No. 3	0.7460	Jackson Walker LLP	05/19/2023, 07:00 AM, +0000 UTC
+36	005	NY	Bronx County	27.6	45,864	3098.jpg	Good	Governor Hochul Announces Unprecedented Investments to Reconnect Communities Across New York State	0.7160	ny.gov	01/22/2022, 08:00 AM, +0000 UTC
+05	041	AR	Desha County	27.9	41,251	3102.jpg	Good	UAM’s Small Business Center wins 2023 Excellence award	0.9440	Northwest Arkansas Democrat-Gazette	07/26/2023, 07:00 AM, +0000 UTC
+28	143	MS	Tunica County	27.9	37,694	3104.jpg	Good	An Amazon-backed wind farm is coming to a struggling Mississippi Delta community	0.3750	NBC News	07/19/2023, 07:00 AM, +0000 UTC
+22	097	LA	St. Landry Parish	28.0	42,765	3106.jpg	Good	Pet adoption fees waived at St. Landry Animal Shelter	0.3440	KATC News	11/27/2023, 08:00 AM, +0000 UTC
+04	001	AZ	Apache County	28.2	40,632	3109.jpg	Good	Bars, new developments and fun attractions to open in the Valley in 2024	0.9260	ABC15 Arizona in Phoenix	12/18/2023, 08:00 AM, +0000 UTC
+29	001	MO	Adair County	28.2	46,433	3110.jpg	Good	Dolly Parton's Imagination Library brings joy of reading to Missouri's little learners	0.9710	ktvo.com	11/07/2023, 08:00 AM, +0000 UTC
+45	009	SC	Bamberg County	28.4	37,952	3111.jpg	Good	Lexington County's new economic development director talks maintaining the area's momentum	0.4550	Lexington County Chronicle	09/02/2023, 07:00 AM, +0000 UTC
+51	660	VA	Harrisonburg city	28.5	56,057	3112.jpg	Good	Hope Distributed collecting donations to feed families during the holidays	0.6370	WHSV	09/28/2023, 07:00 AM, +0000 UTC
+21	133	KY	Letcher County	28.7	37,854	3113.jpg	Good	Birdhouse Project' benefiting Kentucky veterans saved from flood	0.8050	LEX 18 News - Lexington, KY	08/18/2022, 07:00 AM, +0000 UTC
+45	069	SC	Marlboro County	28.7	39,160	3114.jpg	Good	Jim Cummings, PJ McCabe and Thomas Cross Launch Cool & Happy Production Studio (EXCLUSIVE)	0.4900	AOL.com	2024-03-28 23:23:56
+48	025	TX	Bee County	28.7	48,176	3115.jpg	Good	Smithers-Crump brings nature to forefront in BAM exhibit	0.3700	STexasNews.com	2024-03-26 23:24:00
+48	283	TX	La Salle County	29.0	40,555	3120.jpg	Good	Waco Salvation Army plans Center of Hope	0.1650	KWKT - FOX 44	2023-12-31 23:24:04
+21	075	KY	Fulton County	29.2	40,409	3125.jpg	Good	Entrepreneurship, Startups, and Business Formation Are Booming Across the U.S.	0.8080	Center for American Progress	2024-03-17 23:24:08
+01	085	AL	Lowndes County	29.4	42,268	3127.jpg	Good	Lowndes entrepreneur goes above and beyond	0.9170	Lowndes Signal	2024-01-31 23:24:14
+45	033	SC	Dillon County	30.3	37,752	3137.jpg	Good	East Ferris, its time to praise your favourite volunteer	0.9210	Yahoo News Canada	2024-03-17 23:24:18
+28	157	MS	Wilkinson County	31.3	36,798	3147.jpg	Good	Student creates larger-than-life artwork		The Advocate	2024-01-31 23:24:21
+28	119	MS	Quitman County	31.4	40,255	3148.jpg	Good	National Rhythm and Blues Hall of Fame will be built in Marks, Mississippi	0.2370	Magnolia Tribune	2023-06-30 23:24:25
+01	011	AL	Bullock County	31.5	35,798	3149.jpg	Good	Bulloch Animal Services gets kudos for rescue of 193 animals from one home	0.9400	Statesboro Herald	2023-10-31 23:24:29
+45	067	SC	Marion County	31.6	37,244	3150.jpg	Good	4 ways our district finds educational opportunities during the pandemic	0.4440	eSchool News	2023-10-31 23:24:33
+28	053	MS	Humphreys County	32.3	33,148	3153.jpg	Good	Justice Minister Helen McEntee gives birth to baby boy	0.1260	BreakingNews.ie	04/29/2021, 07:00 AM, +0000 UTC
+28	133	MS	Sunflower County	32.3	38,423	3154.jpg	Good	Shonda Rhimes donates to Emmett Till Interpretive Center to preserve barn	0.3720	WJTV	2023-12-31 23:24:39
+01	087	AL	Macon County	32.4	36,601	3155.jpg	Good	The power of a walk outside: Color Us Connected	0.8640	Seacoastonline.com	2023-12-31 23:24:42
+48	505	TX	Zapata County	32.8	39,403	3158.jpg	Good	Zapata County opens warming center		KGNS News	
+13	037	GA	Calhoun County	33.9	39,681	3164.jpg	Good	Ga. Counties Mark Five Years of Wellness With UGA Extension	0.3400	Morning Ag Clips	2024-02-29 23:24:49
+05	123	AR	St. Francis County	34.4	38,062	3167.jpg	Good	Glass Artist Ed Pennebaker Next Guest of Arkansas Folklife Web Series		University of Arkansas	
+21	051	KY	Clay County	35.1	34,473	3176.jpg	Good	Monday Night Football' was terrific for two former Kentucky football stars		Lexington Herald Leader	
+48	229	TX	Hudspeth County	35.7	39,582	3179.jpg	Good	El Paso Health awarded STAR+PLUS contract for local Medicaid-managed care	0.2340	KFOX El Paso	03/04/2024, 08:00 AM, +0000 UTC
+28	027	MS	Coahoma County	35.9	36,071	3181.jpg	Good	Magee Trojan Headed to the Final Four! First time in 35 years!	0.6060	MageeNews.com	2024-02-29 23:17:33
+21	159	KY	Martin County	36.2	34,435	3182.jpg	Good	Floyd Co. shelter housing hope this winter	0.1310	WYMT	2024-01-31 23:17:39
+45	005	SC	Allendale County	36.7	35,249	3184.jpg	Good	Vietnamese tire manufacturer pledges 1,031 new jobs in Allendale County		Bluffton Today	
+46	017	SD	Buffalo County	39.7	30,659	3190.jpg	Good	Buffalo Trace Donated Rare Whiskeys to Help 100 Charities With Fundraising	0.8830	Whiskey Raiders	2024-02-29 23:21:13
+46	031	SD	Corson County	42.4	39,329	3194.jpg	Good	South Dakota Farmers Union celebrates Corson County ranch family		Aberdeen News	

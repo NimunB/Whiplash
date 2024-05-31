@@ -1,0 +1,471 @@
+Table with column headers in rows 3 and 4											
+State FIPS Code	County FIPS Code	Postal Code	Name	Poverty Percent, All Ages	Median Household Income	Image Found?	Headline Type	Headline	Sentiment Rating	Publisher	Date
+08	035	CO	Douglas County	3.1	140,768	0000.jpg	Bad	3 found dead at 2 different locations in Douglas County, Colorado		CBS News	Jan 11, 2024
+35	028	NM	Los Alamos County	3.7	139,217	0001.jpg	Bad	Los Alamos sheriff, coaches accused of drinking on school property	-0.6230	KOB.com	2023-12-31 16:33:48
+51	107	VA	Loudoun County	3.8	167,605	0002.jpg	Bad	Firefighter killed in ‘horrific’ Sterling home explosion identified	-0.7570	WTOP	2024-02-29 16:35:04
+48	301	TX	Loving County	3.9	94,716	0003.jpg	Bad	A 43-year-old Socorro man dies in a crash in Loving County		NewsWest9	Sep 15, 2023
+49	029	UT	Morgan County	4.0	119,482	0004.jpg	Bad	Woman killed, infant hospitalized in Morgan County wrong-way crash		ABC4 Utah	Jan 6, 2024
+13	117	GA	Forsyth County	4.1	130,909	0005.jpg	Bad	Teen caught with stolen gun, drugs after police chase ends in crash on Ga.400, officials say		Fox5 Atlanta	March 8, 2024
+47	187	TN	Williamson County	4.1	133,486	0007.jpg	Bad	Middle Tennessee student says she dealt with racism, was called 'monkey' in school	-0.9070	WTVC	2024-02-29 16:36:15
+51	610	VA	Falls Church city	4.1	142,513	0008.jpg	Bad	Teen arrested after drug robbery led to shooting, stabbing death of two in Falls Church	N/A	WJLA	May 30th, 2023
+34	027	NJ	Morris County	4.4	131,562	0010.jpg	Bad	Morris County Man Charged with Sexual Assault of 13-Year-Old	N/A	Parsippany Focus	July 9, 2023
+18	057	IN	Hamilton County	4.5	117,068	0011.jpg	Bad	Woman, 3 children found dead in burning Indiana home had been shot, authorities say	N/A	CBS News	Dec 14, 2023
+27	019	MN	Carver County	4.5	117,602	0012.jpg	Bad	14 gang members arrested as part of violent crime strategy	-0.8610	FOX 9 Minneapolis-St. Paul	Aug 16, 2023
+39	041	OH	Delaware County	4.6	121,528	0014.jpg	Bad	The Informant at the Heart of the Gretchen Whitmer Kidnapping Plot Was a Liability. So Federal Agents Shut Him Up.	-0.6910	The Intercept	2024-03-06T18:30:21Z
+48	397	TX	Rockwall County	4.7	124,291	0015.jpg	Bad	Youth Volunteer at TX Megachurch Charged with Sexual Assault of Child	-0.7680	Julie Roys	2024-03-10 19:30:13
+48	085	TX	Collin County	4.8	113,943	0016.jpg	Bad	Texas inmate Ivan Cantu who denied killing 2 people is executed	-0.6200	NBC News	2024-02-29T01:50:50Z
+18	059	IN	Hancock County	5.0	87,845	0018.jpg	Bad	Lawsuit filed: Mt. Vernon officials accused of not reporting sexual assault of student	-0.5180	The Daily Reporter - Greenfield Indiana	2023-09-30 19:37:04
+49	051	UT	Wasatch County	5.0	115,793	0020.jpg	Bad	Provo parents arrested after they allegedly had sex with their 15-year-old child, claimed it was 'safer'	-0.6660	ABC4 Utah	2024-03-10 19:30:21
+34	035	NJ	Somerset County	5.1	134,735	0021.jpg	Bad	NJ man accused of trying to kill person after fight, causing serious injury	-0.8270	New Jersey 101.5	2024-03-28 19:33:20
+51	127	VA	New Kent County	5.1	115,627	0022.jpg	Bad	Man sentenced for arranging cocaine shipment in New Kent	-0.3050	Richmond Times-Dispatch	2024-02-29 19:37:08
+18	011	IN	Boone County	5.2	102,805	0024.jpg	Bad	Tornadoes, storms leave widespread damage in Indiana	-0.2910	WTHR	2023-06-30 19:30:32
+29	183	MO	St. Charles County	5.2	98,925	0025.jpg	Bad	St. Charles County man sold hundreds of guns illegally, including dozens used in crimes	-0.3370	STLtoday.com	2024-03-06T13:00:00Z
+39	159	OH	Union County	5.2	104,512	0026.jpg	Bad	Couple found dead at their Marysville home in suspected murder-suicide	-0.4490	The Columbus Dispatch	2023-11-30 19:33:28
+51	085	VA	Hanover County	5.2	103,639	0027.jpg	Bad	She dialed 911 when her brother was in mental health crisis. Then he was shot by a deputy.		WTVR	Oct 6, 2023
+55	133	WI	Waukesha County	5.2	99,525	0028.jpg	Bad	Fisherman arrested by warden with stun gun, claims arrest was racially motivated	-0.7170	WISN	2024-02-29 19:33:35
+56	039	WY	Teton County	5.2	127,677	0029.jpg	Bad	Missing Idaho baby found dead by road; father in custody in connection with death of his wife	-0.3680	CBS News	2023-12-31 19:37:15
+08	014	CO	Broomfield County	5.3	114,746	0030.jpg	Bad	The Manchester drugs empire that has come crashing down	-0.7650	Manchester Evening News	2024-03-10 19:37:21
+27	171	MN	Wright County	5.3	95,259	0032.jpg	Bad	Seven People Hurt in Wright County Crash Wednesday	-0.5030	WJON	2024-03-28 19:33:46
+49	043	UT	Summit County	5.4	132,358	0038.jpg	Bad	2 men killed in plane crash east of Slate Canyon	-0.3280	TownLift, Park City News	2023-11-30 19:33:54
+55	109	WI	St. Croix County	5.4	97,589	0039.jpg	Bad	Gilman drug bust results in multiple felonies for SV man	-0.5490	Pierce County Journal	2023-06-30 19:33:57
+08	039	CO	Elbert County	5.5	120,394	0040.jpg	Bad	Father fatally shot after fight with ex-girlfriend's fiancé during child custody exchange, Colorado police say		USA Today	Feb 13, 2024
+24	013	MD	Carroll County	5.5	105,096	0041.jpg	Bad	Carroll County house fire starts from cigarettes discarded in trash can	-0.3880	WBFF	2024-03-17 19:34:04
+39	165	OH	Warren County	5.5	104,523	0042.jpg	Bad	Warren man dies in early Monday single-car crash in Columbiana County	-0.3980	Mahoning Matters	2024-03-10 19:34:08
+51	179	VA	Stafford County	5.5	134,456	0043.jpg	Bad	Fight turns deadly outside of Dumfries bar, man shot, killed	-0.7170	FOX 5 DC	2024-03-26 19:34:12
+55	015	WI	Calumet County	5.5	85,589	0044.jpg	Bad	Man stabbed during online hookup gone wrong in Calumet County, Wis.	-0.6750	WBAY	2023-09-30 19:34:15
+13	057	GA	Cherokee County	5.6	99,932	0045.jpg	Bad	Women accused of stealing over $100K in products from 20 Target stores in Georgia, other states	-0.7160	WSB-TV	2024-02-29 19:34:19
+24	021	MD	Frederick County	5.6	116,796	0046.jpg	Bad	Baltimore man arrested for murder of 65-year-old found dead in car in Frederick County	-0.5460	CBS News	2024-03-10 19:37:32
+36	059	NY	Nassau County	5.6	135,528	0047.jpg	Bad	Suspect At Large After Items Worth Thousands Stolen After Home Burglary In Jericho	-0.4440	Rutherford Daily Voice	2024-03-17 19:34:26
+42	029	PA	Chester County	5.6	117,326	0048.jpg	Bad	Search for 6-year-old girl who fell into rain-swollen creek now considered recovery, not rescue	-0.0740	Minneapolis Star Tribune	2024-03-24T19:52:09Z
+51	145	VA	Powhatan County	5.6	105,231	0049.jpg	Bad	Nonprofit sues Powhatan County for alleged housing discrimination	-0.5550	WWBT	2024-03-29 19:34:30
+51	735	VA	Poquoson city	5.6	109,549	0050.jpg	Bad	York man charged in Williamsburg triple shooting: Police	-0.3790	WTKR	2024-01-31 19:37:36
+27	163	MN	Washington County	5.7	107,649	0052.jpg	Bad	A Minnesota inmate was left to die by prison staff, lawsuit says	-0.8480	Washington Post	2024-01-31 19:37:39
+31	153	NE	Sarpy County	5.8	98,619	0054.jpg	Bad	‘I would do it again’: Dad who smothered kids, tucked them back into bed, fled the state found guilty of their murders	-0.7230	Law and Crime News	2024-02-29 19:37:42
+55	089	WI	Ozaukee County	5.8	97,778	0055.jpg	Bad	His brain was hurting': Cedarburg parents believe teen took his life after concussions	-0.5130	WISN Milwaukee	2024-03-30T04:46:19Z
+12	109	FL	St. Johns County	5.9	103,757	0056.jpg	Bad	Flagler County deputy suffers serious injuries in motorcycle crash on I-95	-0.5600	WKMG	2024-03-10 19:37:46
+17	111	IL	McHenry County	5.9	99,128	0058.jpg	Bad	Woodstock man accused of pointing loaded gun at man's head	-0.6380	Shaw Local	2024-02-29 19:37:50
+34	037	NJ	Sussex County	5.9	111,308	0059.jpg	Bad	Murder Charges for Daniel Simpson for Killing his Father	-0.6290	TAPinto	2024-02-29 19:37:54
+51	059	VA	Fairfax County	5.9	144,632	0061.jpg	Bad	Annandale man facing a dozen charges for 'brutal and horrifying' rapes of 2 women, police say	-0.9310	FOX 5 DC	2024-03-25 19:37:58
+08	107	CO	Routt County	6.0	104,407	0062.jpg	Bad	Craig man charged with attempted escape after incident at Routt County jail	-0.4600	CraigDailyPress.com	2024-02-29 19:38:01
+46	127	SD	Union County	6.0	85,677	0066.jpg	Bad	How US police are co-opting a law meant to protect victims of crime	-0.8610	Al Jazeera	2024-03-29 19:38:04
+27	037	MN	Dakota County	6.1	97,727	0068.jpg	Bad	Update: One killed, one seriously injured in crash near Pine Island on Friday afternoon	-0.3840	Post Bulletin	2024-02-29 19:38:08
+51	075	VA	Goochland County	6.1	113,617	0070.jpg	Bad	Driver charged with DUI manslaughter after deadly crash on I-64 in Goochland County	-0.5290	WRIC ABC 8News	2024-03-17 19:38:14
+55	131	WI	Washington County	6.1	90,313	0071.jpg	Bad	2 people injured in crash on US Hwy 151 in neighboring Dodge Co., WI | By Sheriff Dale Schmidt	-0.1920	Washington County Insider	2024-03-10 19:38:17
+06	061	CA	Placer County	6.2	106,114	0072.jpg	Bad	Exodus of state election workers posing a threat to democracy	-0.9300	Los Angeles Times	10/10/2023, 07:00 AM, +0000 UTC
+27	079	MN	Le Sueur County	6.3	86,864	0076.jpg	Bad	Gaylord man arrested, faces possible 3rd degree murder charges in drug-related death	-0.5970	KEYC News Now	2024-03-24 19:38:24
+36	079	NY	Putnam County	6.3	112,167	0078.jpg	Bad	Putnam anesthesiologist accused of drugging, sexually abusing woman		Westchester Journal News	Jan 3, 2024
+08	047	CO	Gilpin County	6.4	89,805	0079.jpg	Bad	3 people hospitalized after shooting in the area of 17th Avenue, Gilpin Street in Denver		CBS News	Sep 18, 2023
+08	097	CO	Pitkin County	6.4	111,291	0080.jpg	Bad	Aspen man faces kidnapping charge in domestic violence case		The Denver Post	April 18, 2023
+49	011	UT	Davis County	6.4	103,143	0083.jpg	Bad	Davis County man accused of trying to have sex with girl who he believed was 13 years old		KUTV 2News	March 29, 2024
+51	061	VA	Fauquier County	6.4	120,301	0084.jpg	Bad	Charlottesville woman killed in drunk driving crash	-0.6740	WINA.com	2024-03-04 2:08:39
+25	021	MA	Norfolk County	6.5	115,770	0086.jpg	Bad	Quincy police chase ends in crash, drug charges for two men	-0.4090	Newport Dispatch	2024-02-01 2:08:46
+36	091	NY	Saratoga County	6.5	93,341	0087.jpg	Bad	Man's murder of ex-partner spotlights need, availability of domestic violence services	-0.6370	WRGB	2024-03-01 2:08:53
+44	009	RI	Washington County	6.5	99,015	0089.jpg	Bad	Prisoner attempts to smuggle drugs into detention center while awaiting murder trial	-0.3810	WLNE-TV (ABC6)	2024-03-01 2:08:59
+49	045	UT	Tooele County	6.5	91,353	0090.jpg	Bad	Mauricio Johnson Sentenced to 150 years to Life in Prison for the Murder of Two Adults and a Juvenile	-0.6580	Redheaded Blackbelt	2023-11-01 2:09:06
+08	059	CO	Jefferson County	6.6	102,413	0091.jpg	Bad	Kayaker dies after falling into Chatfield Reservoir	-0.1340	denverpost	2024-03-31 15:05:37
+08	091	CO	Ouray County	6.6	90,837	0092.jpg	Bad	All newspapers with story alleging teen’s rape at Colorado police chief’s house are stolen	-0.8640	The Mercury News	2024-02-01 2:09:12
+23	005	ME	Cumberland County	6.6	88,571	0094.jpg	Bad	Hurricane watch issued for parts of Maine as already rain-soaked New England braces for Lee	-0.2560	https://www.twincities.com/2023/09/13/hurricane-watch-issued-for-parts-of-maine-as-already-rain-soaked-new-england-braces-for-lee/	
+33	011	NH	Hillsborough County	6.6	96,415	0095.jpg	Bad	Merrimack Man Indicted For Theft Of $140K From Manchester Restaurant	-0.4190	Patch	2024-03-27 2:09:18
+34	005	NJ	Burlington County	6.6	100,188	0096.jpg	Bad	This Nationwide Theft Ring Allegedly Brought In Half A Billion Dollars From Stolen Catalytic Converters	-0.8110	https://www.huffpost.com/entry/catalytic-converter-theft_n_645160b3e4b0fe3b9bc757b8	2023-05-04 19:07:12
+42	091	PA	Montgomery County	6.6	106,743	0097.jpg	Bad	Man, woman found guilty in murder-for-hire slaying of beloved teacher	-0.4550	NBC10 Philadelphia	2024-03-25 2:09:26
+53	029	WA	Island County	6.6	82,717	0098.jpg	Bad	Ex-medical director at WA island for sex predators sexually harassed worker, suit says	-0.6810	Tacoma News Tribune	11/03/2023, 07:00 AM, +0000 UTC
+19	017	IA	Bremer County	6.7	83,797	0100.jpg	Bad	Florida man facing charges for crash leading to Altoona man's death	-0.4320	KCCI	2023-09-01 2:10:05
+01	117	AL	Shelby County	6.8	98,263	0103.jpg	Bad	Worst Jefferson County restaurant health ratings: Roaches in rice, poop in the sushi bar	-0.9010	AL.com	2024-02-01 2:10:12
+12	089	FL	Nassau County	6.8	90,808	0104.jpg	Bad	Drivers shoot daughters in Florida road rage confrontation	-0.6030	The Indian Express	2022-10-17T16:45:12Z
+17	043	IL	DuPage County	6.8	102,383	0105.jpg	Bad	Five Venezuelan Migrants Face Burglary Charges	-0.4420	Country Herald	2024-03-01 2:10:18
+36	103	NY	Suffolk County	6.8	119,253	0106.jpg	Bad	Suspect in decade-old murders on New York's Long Island in custody	-0.1040	Devdiscourse	2023-07-14T18:52:52Z
+39	103	OH	Medina County	6.8	89,108	0107.jpg	Bad	How Long Until A Library Worker Is Killed?	-0.6630	World News Era	2023-04-07 12:58:27
+51	013	VA	Arlington County	6.8	131,020	0108.jpg	Bad	‘Not enough (officers) to catch the ones we don't get': DUI arrests down as deaths rise	-0.7360	NBC News	2023-09-01 2:57:56
+16	013	ID	Blaine County	6.9	98,707	0109.jpg	Bad	The Surprisingly Filthy Reason Idaho Police Officers Can Pull You Over	-0.9240	Mix 106	2023-09-01 2:10:25
+17	203	IL	Woodford County	6.9	85,892	0110.jpg	Bad	Mystery of father's death on train tracks lingers in Broadwell	-0.4920	The State Journal-Register	2024-01-01 2:10:33
+51	041	VA	Chesterfield County	6.9	100,149	0113.jpg	Bad	Garage fire in Chesterfield damages multiple homes, structure a total loss	-0.5840	WRIC ABC 8News	2024-03-28 2:10:39
+51	099	VA	King George County	6.9	100,092	0115.jpg	Bad	Teen found guilty of brutal murder in Prince George's County	-0.6790	YouTube	2024-03-01 2:10:46
+27	059	MN	Isanti County	7.0	83,212	0123.jpg	Bad	James Turner charged in New Year's Day shooting that hurt 11-year-old Minneapolis girl	-0.5350	CBS News	2024-02-01 2:11:03
+34	041	NJ	Warren County	7.0	97,729	0125.jpg	Bad	NJ man faces life in prison for sexual assault of young child	-0.8700	New Jersey 101.5	2023-12-01 2:11:09
+02	195	AK	Petersburg Borough	7.1	76,641	0128.jpg	Bad	Petersburg counselors feeling spread thin, worried about anxiety levels among students	-0.9200	KFSK	2024-04-01 2:11:15
+31	177	NE	Washington County	7.1	87,368	0131.jpg	Bad	Nebraska prosecutors to pursue death penalty in only one of two grisly small-town killings	-0.8980	CityNews Toronto	2024-03-01 2:11:21
+06	069	CA	San Benito County	7.2	106,560	0135.jpg	Bad	Man accused of 2 Bay Area mass shootings remains jailed after preliminary hearing in Santa Cruz	-0.3520	Mercury News	2023-06-30 12:42:54
+06	081	CA	San Mateo County	7.2	143,795	0136.jpg	Bad	Court records reveal inner workings of secretive Nuestra Familia prison gang as five are sentenced in RICO case	-0.1380	Mercury News	2022-11-01 18:18:23
+08	037	CO	Eagle County	7.2	105,813	0137.jpg	Bad	Man arrested for allegedly driving recklessly in Edwards, firing shots out of vehicle	-0.4160	Denver7	2024-03-11 2:11:58
+32	029	NV	Storey County	7.2	90,171	0138.jpg	Bad	Two killed in Storey County industrial park crash	-0.3440	KOLO	03/31/2023, 07:00 AM, +0000 UTC
+44	005	RI	Newport County	7.2	92,795	0140.jpg	Bad	One dead, three injured in Middleborough house fire	-0.4580	Newport Dispatch	2024-03-01 2:12:04
+51	069	VA	Frederick County	7.2	97,091	0143.jpg	Bad	Frederick man sentenced in cruelty case after Dalmatian had leg amputated	-0.5910	The Frederick News-Post	2024-02-01 2:12:11
+02	068	AK	Denali Borough	7.3	90,897	0144.jpg	Bad	Alaska Teen Accused of Killing Her Friend After a Man She Met Online Offered Her $9 Million, Police Say	-0.4140	WNEP Scranton/Wilkes-Barre	06/18/2019, 07:00 AM, +0000 UTC
+13	157	GA	Jackson County	7.3	82,138	0145.jpg	Bad	Highway crash in Toombs County leaves 2 dead, 2 in serious condition	-0.6060	WSAV-TV	2024-03-11 2:12:23
+24	025	MD	Harford County	7.3	100,334	0147.jpg	Bad	Aberdeen man charged with several arsons in Harford County	-0.3950	WBAL-TV	2024-03-18 2:12:30
+49	009	UT	Daggett County	7.3	66,427	0149.jpg	Bad	Utah Marine among 13 US service members killed in Kabul attack	-0.6830	KSLTV.com	2024-03-01 2:12:37
+51	101	VA	King William County	7.3	82,715	0150.jpg	Bad	10 arrested for series of home invasions in Henrico, King William	-0.2000	WWBT	04/04/2014, 07:00 AM, +0000 UTC
+08	019	CO	Clear Creek County	7.4	90,350	0152.jpg	Bad	Four of six officers facing charges in death of Christian Glass appear in Clear Creek County court	-0.3930	Colorado Community Media	12/13/2023, 08:00 AM, +0000 UTC
+16	081	ID	Teton County	7.4	95,580	0154.jpg	Bad	Local man pleads guilty to murder, attempted murder charges in brutal attack on East Idaho couple	-0.7160	Idaho State Journal	10/21/2023, 07:00 AM, +0000 UTC
+19	095	IA	Iowa County	7.4	72,948	0156.jpg	Bad	Linn County prosecutors being sued for alleged sexual misconduct	-0.8890	KCRG	11/17/2023, 08:00 AM, +0000 UTC
+27	003	MN	Anoka County	7.4	92,249	0160.jpg	Bad	Suspect in deadly Minnesota shooting allegedly dressed as a UPS worker	-0.4880	NBC News	01/30/2024, 08:00 AM, +0000 UTC
+31	155	NE	Saunders County	7.4	86,179	0161.jpg	Bad	Nebraska Man Who Stabbed Fiancée And Dog To Death As Her Kids Slept Gets Life	-0.7070	Oxygen	07/20/2022, 07:00 AM, +0000 UTC
+33	013	NH	Merrimack County	7.4	84,898	0163.jpg	Bad	NH AG Files Civil Complaint Against Neo-Nazi Group	-0.5240	NH Journal	12/13/2023, 08:00 AM, +0000 UTC
+37	029	NC	Camden County	7.4	82,620	0164.jpg	Bad	Camden domestic homicide leaves mother dead, father charged	-0.5550	WLTX.com	03/29/2024, 01:38 PM, +0000 UTC
+02	150	AK	Kodiak Island Borough	7.5	83,222	0166.jpg	Bad	Orthodox Cathedral Desecrated During Vandalism Spree In Kodiak	-0.9290	Alaska Public Media News	06/11/2015, 07:00 AM, +0000 UTC
+17	155	IL	Putnam County	7.5	83,029	0169.jpg	Bad	Attempted child abduction in Owen County	-0.6710	MyWabashValley.com	02/01/2024, 08:00 AM, +0000 UTC
+19	011	IA	Benton County	7.5	82,762	0170.jpg	Bad	Deadly head-on crash in Benton County	-0.6580	KGAN TV	03/01/2024, 08:00 AM, +0000 UTC
+27	055	MN	Houston County	7.5	76,170	0172.jpg	Bad	Even with solid weather, Minnesota's whitetail harvest continues to disappoint	-0.7420	Star Tribune	11/14/2023, 08:00 AM, +0000 UTC
+27	157	MN	Wabasha County	7.5	78,953	0173.jpg	Bad	Millville man killed in Wabasha County crash	-0.3240	KTTC	07/20/2023, 07:00 AM, +0000 UTC
+37	183	NC	Wake County	7.5	97,099	0174.jpg	Bad	Crime, violence up in NC schools with possession of drugs among highest concern	-0.9060	CBS17.com	01/31/2024, 08:00 AM, +0000 UTC
+47	165	TN	Sumner County	7.5	87,453	0175.jpg	Bad	Catastrophic tornado outbreak in Middle Tennessee	-0.8620	WSMV 4	12/09/2023, 08:00 AM, +0000 UTC
+55	061	WI	Kewaunee County	7.5	73,717	0177.jpg	Bad	Green Bay man who died in police shooting was released after abduction	-0.3350	Green Bay Press Gazette	11/20/2019, 08:00 AM, +0000 UTC
+06	017	CA	El Dorado County	7.6	104,859	0178.jpg	Bad	Tax season can lead to increased mail theft: El Dorado County Sheriff’s Office	-0.5510	KTXL FOX 40 Sacramento	01/29/2024, 08:00 AM, +0000 UTC
+18	081	IN	Johnson County	7.6	83,036	0179.jpg	Bad	Employee at Greenwood children’s therapy center confesses to molesting patients	-0.8090	FOX 59 Indianapolis	04/13/2023, 07:00 AM, +0000 UTC
+31	159	NE	Seward County	7.6	77,778	0180.jpg	Bad	Our Dirty Water: Nebraska’s nitrate problem is growing worse. It’s likely harming our kids.	-0.9320	Flatwater Free Press	10/27/2022, 07:00 AM, +0000 UTC
+34	015	NJ	Gloucester County	7.6	97,851	0181.jpg	Bad	Violence, drugs and bullying in all NJ schools: Camden County	-0.8700	New Jersey 101.5 FM	01/16/2024, 08:00 AM, +0000 UTC
+48	261	TX	Kenedy County	7.6	43,274	0184.jpg	Bad	Karnes County Man Gets Sentenced to Life in Prison	-0.6140	STexasNews.com	05/07/2023, 07:00 AM, +0000 UTC
+51	600	VA	Fairfax city	7.6	122,790	0186.jpg	Bad	Bat-wielding attacker injures Virginia congressman's district office staff	-0.5780	NBC News	05/15/2023, 07:00 AM, +0000 UTC
+25	001	MA	Barnstable County	7.7	89,774	0193.jpg	Bad	Disturbing details of Cape Cod baby's 2021 killing revealed as dad faces murder charge	-0.8230	NBC Boston	11/20/2023, 08:00 AM, +0000 UTC
+25	023	MA	Plymouth County	7.7	102,647	0194.jpg	Bad	‘Never in a million years thought this would happen': Man fatally shot at Brockton home	-0.7170	NBC Boston	03/31/2024, 09:14 PM, +0000 UTC
+29	047	MO	Clay County	7.7	78,930	0195.jpg	Bad	Student in critical condition after brutal beating outside of Missouri school; 15-year-old charged	-0.8050	The Lion	03/12/2024, 07:00 AM, +0000 UTC
+49	035	UT	Salt Lake County	7.7	91,713	0196.jpg	Bad	Salt Lake City Fire Department respond to possible apartment explosion	-0.5180	KSL NewsRadio	02/17/2024, 08:00 AM, +0000 UTC
+02	090	AK	Fairbanks North Star Borough	7.8	84,166	0198.jpg	Bad	Man Dies in First Fatal Case of Alaskapox	-0.5920	MedicineNet	02/15/2024, 08:00 AM, +0000 UTC
+08	119	CO	Teller County	7.8	81,466	0199.jpg	Bad	Houston Frost Bank teller Cecilia Brown on the run, accused of stealing $180K from 86-year-old Kirby Drive customer, HPD says	-0.5890	KTRK-TV	12/15/2023, 08:00 AM, +0000 UTC
+18	087	IN	Lagrange County	7.8	81,010	0200.jpg	Bad	Victim of deadly LaGrange County house fire identified	-0.5140	WNDU	01/16/2024, 08:00 AM, +0000 UTC
+19	031	IA	Cedar County	7.8	71,563	0201.jpg	Bad	GRAPHIC VIDEO: Dubuque County teens post video beating opossum to death, one person charged	-0.6830	KCRG	02/20/2024, 08:00 AM, +0000 UTC
+19	091	IA	Humboldt County	7.8	71,521	0202.jpg	Bad	Grand Jury report says Humboldt County is not prepared for major disasters	-0.7540	KRCR	06/18/2023, 07:00 AM, +0000 UTC
+20	015	KS	Butler County	7.8	80,214	0203.jpg	Bad	Homicide: 93-year-old Kansas woman found dead in her home	-0.3080	Hays Post	09/08/2023, 07:00 AM, +0000 UTC
+20	197	KS	Wabaunsee County	7.8	68,435	0204.jpg	Bad	Alma wrestling coach arrested for alleged offenses against minors	-0.4970	KSNT News	12/19/2023, 08:00 AM, +0000 UTC
+31	143	NE	Polk County	7.8	70,813	0205.jpg	Bad	‘A series of really bad choices’ led to 15-year-old’s death in Polk County driveway, sheriff says	-0.7310	WFLA	09/18/2023, 07:00 AM, +0000 UTC
+48	367	TX	Parker County	7.8	95,277	0210.jpg	Bad	Doctor accused of groping, harassing 22 women let off easy by Texas law, critics say	-0.7830	Fort Worth Star-Telegram	04/14/2021, 07:00 AM, +0000 UTC
+55	029	WI	Door County	7.8	72,296	0211.jpg	Bad	Wisconsin’s Door County voters are tired of politics and want better options	-0.8270	The Washington Post	11/19/2023, 08:00 AM, +0000 UTC
+02	220	AK	Sitka Borough	7.9	90,345	0213.jpg	Bad	Sitka man indicted on three counts of murder in girlfriend's death	-0.4090	KCAW	05/09/2017, 07:00 AM, +0000 UTC
+05	007	AR	Benton County	7.9	86,374	0214.jpg	Bad	Murder suspect accused of injuring three Benton County jail deputies	-0.6560	KNWA	01/06/2024, 08:00 AM, +0000 UTC
+13	223	GA	Paulding County	7.9	87,459	0216.jpg	Bad	Paulding County deputy faces legal action alleging excessive force	-0.6840	GPB News	02/22/2023, 08:00 AM, +0000 UTC
+08	053	CO	Hinsdale County	8.0	70,675	0224.jpg	Bad	Colorado ambulance services are on the verge of collapse, government report finds	-0.8570	KUNC	08/14/2023, 07:00 AM, +0000 UTC
+13	067	GA	Cobb County	8.0	96,798	0227.jpg	Bad	Woman arrested for drug trafficking near daycares, schools, drug rehab center in Marietta	-0.3330	FOX 5 Atlanta	10/13/2023, 07:00 AM, +0000 UTC
+13	085	GA	Dawson County	8.0	84,551	0228.jpg	Bad	Dawsonville man will spend life in prison for murder of Hannah Bender	-0.8190	AccessWDUN	12/16/2021, 08:00 AM, +0000 UTC
+13	151	GA	Henry County	8.0	82,379	0229.jpg	Bad	Mother says her son was sexually assaulted inside a Henry County middle school classroom	-0.8960	WSB Atlanta	11/16/2023, 08:00 AM, +0000 UTC
+16	001	ID	Ada County	8.0	87,748	0230.jpg	Bad	Canyon County law enforcement decries gang problem. But exactly how big is the issue?	-0.5900	Idaho Statesman	01/25/2024, 08:00 AM, +0000 UTC
+16	041	ID	Franklin County	8.0	71,669	0231.jpg	Bad	Teen Allegedly Kidnapped and Held for Ransom After Breaking Into Car	-0.8420	TooFab	01/30/2024, 08:00 AM, +0000 UTC
+19	167	IA	Sioux County	8.0	75,994	0232.jpg	Bad	One killed, another injured in Hwy 20 ATV accident in Calhoun County, IA	-0.4510	KTIV Siouxland's News Channel	03/01/2024, 08:00 AM, +0000 UTC
+24	037	MD	St. Mary's County	8.0	112,154	0234.jpg	Bad	Child Killed, Two Other Children Ejected Following Fatal Crash In Leonardtown	-0.4950	Bay Net	03/16/2024, 07:00 AM, +0000 UTC
+37	025	NC	Cabarrus County	8.0	79,649	0238.jpg	Bad	3 killed in crash, including 12-year-old boy, in Cabarrus County	-0.5310	WSOC Charlotte	09/22/2023, 07:00 AM, +0000 UTC
+39	075	OH	Holmes County	8.0	75,226	0241.jpg	Bad	Why Did 'Amish Stud' Eli Weaver Plot to Have His Wife Murdered?	-0.5590	A&E	09/13/2023, 07:00 AM, +0000 UTC
+17	189	IL	Washington County	8.1	71,958	0243.jpg	Bad	Washington County makes disaster declaration after severe storm damage	-0.6710	Belleville News-Democrat	07/01/2023, 07:00 AM, +0000 UTC
+19	125	IA	Marion County	8.1	73,451	0244.jpg	Bad	Two accused of kidnapping, killing Marion woman	-0.5770	The Gazette	02/22/2024, 06:19 PM, +0000 UTC
+31	099	NE	Kearney County	8.1	74,686	0247.jpg	Bad	Kearney man arrested after early morning assault leaves woman seriously injured	-0.5230	NTV	02/15/2024, 08:00 AM, +0000 UTC
+49	003	UT	Box Elder County	8.1	79,450	0249.jpg	Bad	The Looming Drug Problem People Don't Talk About In Utah	-0.8670	104.3 WOW Country	03/06/2024, 08:00 AM, +0000 UTC
+49	049	UT	Utah County	8.1	95,085	0250.jpg	Bad	Construction worker caught in Utah County trench collapse, seriously injured	-0.6100	Gephardt Daily	03/27/2024, 12:08 AM, +0000 UTC
+08	093	CO	Park County	8.2	88,020	0251.jpg	Bad	Heavily armed man found dead in Colorado amusement park had apparent plan for mass shooting	-0.6970	NBC Boston	10/30/2023, 07:00 AM, +0000 UTC
+17	027	IL	Clinton County	8.2	79,612	0252.jpg	Bad	First-degree murder charges filed against New Baden, Illinois, man accused of shooting his girlfriend	-0.5520	KSDK.com	11/06/2023, 08:00 AM, +0000 UTC
+26	125	MI	Oakland County	8.2	90,801	0256.jpg	Bad	Oakland County businessman jailed in connection with 1999 rape on area golf course	-0.5450	Oakland Press	04/18/2023, 07:00 AM, +0000 UTC
+31	167	NE	Stanton County	8.2	75,068	0261.jpg	Bad	Norfolk woman sentenced to prison after positive drug test	-0.5460	Norfolk Daily News	08/07/2023, 07:00 AM, +0000 UTC
+34	023	NJ	Middlesex County	8.2	102,073	0262.jpg	Bad	Woodbridge, NJ family pitbull mauls baby to death in awful attack	-0.9410	New Jersey 101.5 FM	03/11/2024, 07:00 AM, +0000 UTC
+21	209	KY	Scott County	8.3	86,169	0270.jpg	Bad	2 injured in Georgetown fire involving 3 structures	-0.4510	Fox 56 News	11/29/2023, 08:00 AM, +0000 UTC
+29	165	MO	Platte County	8.3	93,925	0273.jpg	Bad	Platte City doctor convicted of child sex crimes	-0.6900	WDAF FOX4 Kansas City	02/07/2023, 08:00 AM, +0000 UTC
+29	219	MO	Warren County	8.3	74,355	0274.jpg	Bad	Missouri's Warren County courts broken, cop's death shows	-0.7960	St. Louis Post-Dispatch	08/21/2023, 07:00 AM, +0000 UTC
+45	091	SC	York County	8.3	83,692	0276.jpg	Bad	York architect accused of trafficking date rape drugs, meth	-0.6210	WSOC Charlotte	08/31/2023, 07:00 AM, +0000 UTC
+48	071	TX	Chambers County	8.3	102,146	0278.jpg	Bad	Texas man faces armed violence, drug charges	-0.5920	Alton Telegraph	01/28/2024, 08:00 AM, +0000 UTC
+55	055	WI	Jefferson County	8.3	78,728	0282.jpg	Bad	Investigators search for more victims of Colorado sexual assault suspect	-0.7650	CBS News	11/30/2023, 08:00 AM, +0000 UTC
+27	161	MN	Waseca County	8.4	71,519	0287.jpg	Bad	Awful smell' in small Minnesota town expected to get worse	-0.9580	Bring Me The News	03/17/2022, 07:00 AM, +0000 UTC
+32	005	NV	Douglas County	8.4	91,960	0290.jpg	Bad	Gardnerville teen killed in Douglas County crash	-0.3350	KRNV	03/14/2024, 07:00 AM, +0000 UTC
+48	031	TX	Blanco County	8.4	82,236	0293.jpg	Bad	Blanco County officials not releasing records into Angela Chao's death investigation	-0.7600	AOL	02/21/2024, 05:49 PM, +0000 UTC
+51	019	VA	Bedford County	8.4	71,135	0295.jpg	Bad	11 people charged in Bedford Co. drug bust	-0.1540	WSLS 10	02/14/2024, 08:00 AM, +0000 UTC
+51	079	VA	Greene County	8.4	82,772	0296.jpg	Bad	Missing Albemarle County woman believed to be victim of murder-suicide	-0.6330	The Daily Progress	03/26/2024, 10:19 PM, +0000 UTC
+09	150	CT	Northeastern Connecticut Planning Region	8.5	81,711	0298.jpg	Bad	Northeast Storm Is Bringing Heavy Rains and Flooding Threat	-0.2290	The New York Times	12/18/2023, 08:00 AM, +0000 UTC
+12	115	FL	Sarasota County	8.5	78,309	0299.jpg	Bad	Florida Republican Chair Christian Ziegler accused of sexual battery	-0.6480	Sarasota Herald-Tribune	11/30/2023, 08:00 AM, +0000 UTC
+17	085	IL	Jo Daviess County	8.5	67,217	0300.jpg	Bad	Stockton man arrested on charges of rape and kidnapping	-0.5790	Journal Standard	05/08/2017, 07:00 AM, +0000 UTC
+19	027	IA	Carroll County	8.5	73,643	0302.jpg	Bad	This Iowa Town Was Named One Of The Ugliest In America	-0.9170	B100	02/23/2024, 08:00 AM, +0000 UTC
+23	031	ME	York County	8.5	81,315	0304.jpg	Bad	Awful Farts Apparently Ruined a Girls Night in Portland, Maine	-0.8980	wcyy.com	03/08/2024, 08:00 AM, +0000 UTC
+27	089	MN	Marshall County	8.5	70,606	0306.jpg	Bad	Fleecing the Farm: How a Fake Crop Fueled a Bizarre $25 Million Ag Scam	-0.8850	Agweb Powered by Farm Journal	02/16/2021, 08:00 AM, +0000 UTC
+37	019	NC	Brunswick County	8.5	73,536	0307.jpg	Bad	EPA reexamining importation of harmful chemical wastewater to North Carolina	-0.3450	NC Newsline	11/07/2023, 08:00 AM, +0000 UTC
+48	339	TX	Montgomery County	8.5	95,241	0309.jpg	Bad	Couple found shot dead in Montgomery County home, deputies say	-0.3750	CW39 Houston	03/28/2024, 11:36 AM, +0000 UTC
+49	057	UT	Weber County	8.5	83,465	0311.jpg	Bad	7 more face charges in Weber County Jail drug distribution operation	-0.2960	KSL.com	08/31/2023, 07:00 AM, +0000 UTC
+51	093	VA	Isle of Wight County	8.5	85,227	0312.jpg	Bad	Woman and her dog die after crash on Route 32 in Isle of Wight County	-0.3380	13newsnow.com WVEC	02/01/2024, 08:00 AM, +0000 UTC
+53	033	WA	King County	8.5	116,044	0313.jpg	Bad	Former guard indicted for bribery, smuggling drugs into King County Jail	-0.5090	MyNorthwest	11/03/2023, 07:00 AM, +0000 UTC
+53	061	WA	Snohomish County	8.5	101,440	0314.jpg	Bad	Wash. mom charged with murder after 4-year-old son's body found along highway	-0.3140	New York Daily News	03/30/2024, 09:06 PM, +0000 UTC
+02	130	AK	Ketchikan Gateway Borough	8.6	82,648	0316.jpg	Bad	Opioid crisis still cuts deep in Alaska	-0.9380	Juneau Empire	10/08/2019, 07:00 AM, +0000 UTC
+06	055	CA	Napa County	8.6	98,580	0317.jpg	Bad	Parole Denied For Convicted Napa County Rapist, Kidnapper	-0.5830	Patch	02/14/2024, 08:00 AM, +0000 UTC
+17	131	IL	Mercer County	8.6	70,430	0320.jpg	Bad	Two Southern Illinois University students died in fatal car crash	-0.4320	WPSD Local 6	12/04/2023, 08:00 AM, +0000 UTC
+19	015	IA	Boone County	8.6	74,896	0321.jpg	Bad	Sixth Grader Killed and 5 Others Injured in Iowa School Shooting	-0.6940	The New York Times	01/04/2024, 08:00 AM, +0000 UTC
+38	053	ND	McKenzie County	8.6	84,206	0324.jpg	Bad	Watford City man sentenced to seven years for stealing millions of dollars of oil	-0.7420	KFYR	12/02/2022, 08:00 AM, +0000 UTC
+38	075	ND	Renville County	8.6	71,271	0325.jpg	Bad	Reports of Bed Bugs are increasing in some North Dakota counties	-0.5800	KX NEWS	02/06/2024, 08:00 AM, +0000 UTC
+42	001	PA	Adams County	8.6	76,554	0328.jpg	Bad	Adams County, Pa.: Serious crash shuts down Route 30	-0.5920	WGAL Susquehanna Valley Pa.	11/23/2023, 08:00 AM, +0000 UTC
+42	055	PA	Franklin County	8.6	73,709	0329.jpg	Bad	Fire destroys Franklin County home, kills pets while owners on vacation	-0.6210	Public Opinion	12/19/2023, 10:29 AM, +0000 UTC
+48	257	TX	Kaufman County	8.6	92,814	0333.jpg	Bad	Kaufman County DA killer wants new death penalty trial	-0.6750	The Dallas Morning News	01/03/2024, 08:00 AM, +0000 UTC
+50	011	VT	Franklin County	8.6	76,395	0334.jpg	Bad	Georgia homeowner seriously wounds man during alleged break-in	-0.8670	Local 22/44 News	01/31/2024, 08:00 AM, +0000 UTC
+53	011	WA	Clark County	8.6	91,149	0336.jpg	Bad	Mother arrested for murder in Vancouver after missing 4-year-old son found dead	-0.5350	KGW.com	03/29/2024, 11:46 PM, +0000 UTC
+56	005	WY	Campbell County	8.6	89,870	0339.jpg	Bad	Man accused of killing two, cutting up their bodies	-0.5350	Gillette News Record	10/11/2016, 07:00 AM, +0000 UTC
+08	079	CO	Mineral County	8.7	69,794	0343.jpg	Bad	Former Yakima Officer Accused of Raping Underage Girl	-0.6750	newstalkkit.com	02/08/2024, 08:00 AM, +0000 UTC
+08	117	CO	Summit County	8.7	96,984	0344.jpg	Bad	Police shooting in Summit County marks the 17th such death in Colorado this year	-0.8220	Summit Daily	07/21/2023, 07:00 AM, +0000 UTC
+17	073	IL	Henry County	8.7	70,517	0347.jpg	Bad	Galva ethanol plant accident severely burns man, officials say	-0.5890	WQAD Moline	02/21/2024, 08:00 AM, +0000 UTC
+26	029	MI	Charlevoix County	8.7	71,362	0350.jpg	Bad	UPDATED: Charlevoix County man facing murder charge in daughter's shooting death	-0.4440	Petoskey News-Review	03/16/2020, 07:00 AM, +0000 UTC
+27	041	MN	Douglas County	8.7	73,521	0351.jpg	Bad	House Fire in Alexandria Leaves Five People Injured and One Dead	-0.7860	Fergus Now	02/14/2024, 08:00 AM, +0000 UTC
+40	017	OK	Canadian County	8.7	81,761	0357.jpg	Bad	Oklahoma Children Survive Horrific Night of Violence That Claimed the Lives of Their Parents	-0.9530	Oxygen	09/20/2023, 07:00 AM, +0000 UTC
+50	027	VT	Windsor County	8.7	74,244	0359.jpg	Bad	A Vermont man charged with killing his mother at sea over inheritance dies awaiting trial	-0.6200	The Associated Press	06/15/2023, 07:00 AM, +0000 UTC
+51	073	VA	Gloucester County	8.7	76,960	0360.jpg	Bad	Fatal 3-vehicle crash in Gloucester County kills motorcyclist	-0.6120	13newsnow.com WVEC	10/29/2023, 07:00 AM, +0000 UTC
+51	550	VA	Chesapeake city	8.7	87,127	0361.jpg	Bad	Wednesday marks 1 year since deadly Chesapeake Walmart shooting	-0.7590	News 3 WTKR Norfolk	11/21/2023, 08:00 AM, +0000 UTC
+53	067	WA	Thurston County	8.7	88,560	0362.jpg	Bad	Deputies investigate deadly Thurston County shooting	-0.6060	KOMO News	03/06/2024, 08:00 AM, +0000 UTC
+19	165	IA	Shelby County	8.8	71,628	0366.jpg	Bad	Brutally cold weather reaches deep into lower United States, causing dozens of deaths	-0.7500	WYMT	01/20/2024, 08:00 AM, +0000 UTC
+26	047	MI	Emmet County	8.8	69,805	0369.jpg	Bad	UPDATE: Trenary man sentenced to minimum 22 years in prison for torture, criminal sexual conduct	-0.5690	WLUC	07/01/2022, 07:00 AM, +0000 UTC
+27	067	MN	Kandiyohi County	8.8	72,281	0370.jpg	Bad	Mahaffey arrested on murder charges for Willmar drug death	-0.3540	KWLM (Willmar Radio)	02/29/2024, 01:39 PM, +0000 UTC
+29	071	MO	Franklin County	8.8	65,779	0371.jpg	Bad	Man injures son and others in Pacific, Missouri shooting spree	-0.6710	KTVI Fox 2 St. Louis	10/16/2023, 07:00 AM, +0000 UTC
+39	045	OH	Fairfield County	8.8	82,447	0372.jpg	Bad	Fairfield Township mother owns up to stealing thousands of dollars from youth organizations	-0.8570	WLWT Cincinnati	02/29/2024, 08:00 AM, +0000 UTC
+50	001	VT	Addison County	8.8	79,526	0374.jpg	Bad	New details on gas tanker fire, but is anyone investigating?	-0.7260	WCAX	06/08/2023, 07:00 AM, +0000 UTC
+51	115	VA	Mathews County	8.8	73,827	0375.jpg	Bad	Mathews County man said he killed his parents in 'a fit of rage,' investigator testifies	-0.5180	13newsnow.com WVEC	09/07/2022, 07:00 AM, +0000 UTC
+06	097	CA	Sonoma County	8.9	96,312	0376.jpg	Bad	4 California deputies injured after suspect leads chase before dying in crash	-0.3700	UPI News	03/04/2024, 08:00 AM, +0000 UTC
+13	135	GA	Gwinnett County	8.9	83,918	0377.jpg	Bad	Gwinnett teen hid for days after family receives chilling calls in ‘elaborate’ kidnapping scheme	-0.8790	WSB Atlanta	03/08/2024, 08:00 AM, +0000 UTC
+18	127	IN	Porter County	8.9	84,352	0379.jpg	Bad	Attorneys want out of Porter County real estate fraud case; accused wants $150,000 refund	-0.5730	The Times of Northwest Indiana	09/01/2023, 07:00 AM, +0000 UTC
+19	129	IA	Mills County	8.9	75,835	0380.jpg	Bad	Fremont County Sheriff’s deputies investigate attempted murder	-0.4090	WOWT	09/17/2023, 07:00 AM, +0000 UTC
+26	111	MI	Midland County	8.9	77,595	0383.jpg	Bad	Midland man accepts ‘terrible father’ label for killing infant daughter who interrupted video games	-0.8240	MLive.com	11/17/2023, 08:00 AM, +0000 UTC
+27	109	MN	Olmsted County	8.9	88,032	0384.jpg	Bad	Man to stand trial for repeatedly threatening Rochester police and their families	-0.7360	KIMT 3	10/20/2023, 03:35 PM, +0000 UTC
+32	007	NV	Elko County	8.9	88,757	0386.jpg	Bad	Officials open up about suicides in Carson City	-0.4900	Nevada Appeal	04/08/2023, 07:00 AM, +0000 UTC
+37	037	NC	Chatham County	8.9	84,516	0387.jpg	Bad	More bad laws continue to emerge from flawed state budget	-0.9520	NC Newsline	10/09/2023, 07:00 AM, +0000 UTC
+37	053	NC	Currituck County	8.9	76,217	0388.jpg	Bad	North Carolina charter boat captain fires shots at deputies before fleeing into woods: reports	-0.2380	Fox News	02/01/2023, 08:00 AM, +0000 UTC
+38	019	ND	Cavalier County	8.9	73,221	0389.jpg	Bad	Burglary suspect charged with ten felonies in Cavalier County	-0.1840	Grand Forks Herald	07/24/2023, 07:00 AM, +0000 UTC
+42	019	PA	Butler County	8.9	81,507	0391.jpg	Bad	Victim Walks In on Burglar — Turns Out to Be Neighbor Who Stole Nearly $100 Worth of Change	-0.6030	exploreClarion	12/20/2023, 08:00 AM, +0000 UTC
+51	685	VA	Manassas Park city	8.9	90,816	0392.jpg	Bad	Woman abducted at Manassas-area apartment, dragged behind car	-0.6520	PotomacLocal.com	06/13/2023, 07:00 AM, +0000 UTC
+55	027	WI	Dodge County	8.9	69,681	0393.jpg	Bad	2 injured, 1 critically, in Dodge County crash, authorities say	-0.5070	Madison.com	03/05/2024, 08:00 AM, +0000 UTC
+13	145	GA	Harris County	9.0	90,636	0394.jpg	Bad	Heartbroken' mother mourns daughter who died entering path of high-speed chase	-0.5980	FOX 5 Atlanta	10/17/2023, 07:00 AM, +0000 UTC
+15	009	HI	Maui County	9.0	89,794	0395.jpg	Bad	Desperate residents are looting businesses and robbing people at gunpoint, Maui locals say	-0.9440	Fox News	08/14/2023, 07:00 AM, +0000 UTC
+27	049	MN	Goodhue County	9.0	82,091	0399.jpg	Bad	Red Wing man charged with murder after juvenile dies from overdose	-0.4860	Rochester Post Bulletin	04/19/2023, 07:00 AM, +0000 UTC
+29	099	MO	Jefferson County	9.0	78,297	0401.jpg	Bad	Festus man accused of assaulting Jefferson County sheriff’s deputy	-0.5460	KFVS	12/26/2023, 08:00 AM, +0000 UTC
+31	151	NE	Saline County	9.0	72,948	0402.jpg	Bad	One dead after three-vehicle crash on eastern Nebraska highway	-0.3310	KLKN	06/29/2023, 07:00 AM, +0000 UTC
+33	017	NH	Strafford County	9.0	82,845	0403.jpg	Bad	Man facing murder charge in fatal beating of elderly man outside NH Walmart	-0.4440	Boston News, Weather, Sports | WHDH 7News	07/15/2023, 07:00 AM, +0000 UTC
+37	109	NC	Lincoln County	9.0	78,615	0405.jpg	Bad	Medical chopper called to serious crash on US 321 in Gaston Co.	-0.3580	WCNC.com	03/29/2024, 02:41 PM, +0000 UTC
+38	011	ND	Bowman County	9.0	75,386	0406.jpg	Bad	Critical incident' shuts down Fargo alleyway after agent fires weapon	-0.3540	Grand Forks Herald	01/30/2024, 08:00 AM, +0000 UTC
+48	009	TX	Archer County	9.0	72,062	0411.jpg	Bad	Beloved Texas Teacher and Mother of 4 Manuela Allen Brutally Killed While Her Family Slept	-0.9310	Oxygen	09/30/2022, 07:00 AM, +0000 UTC
+48	053	TX	Burnet County	9.0	74,897	0412.jpg	Bad	Burnet County Sheriff's Office warns of scammers impersonating deputies in jury duty phone hoax	-0.6250	KEYE TV CBS Austin	10/31/2023, 07:00 AM, +0000 UTC
+48	139	TX	Ellis County	9.0	89,314	0413.jpg	Bad	12-year-old killed, 5 others injured in Ellis County ATV crash	-0.5040	FOX 4 News Dallas-Fort Worth	09/18/2023, 07:00 AM, +0000 UTC
+48	205	TX	Hartley County	9.0	84,165	0414.jpg	Bad	Police investigating Dak Prescott claim of extortion by woman who alleged sexual assault	-0.7120	Fort Worth Star-Telegram	03/13/2024, 07:00 AM, +0000 UTC
+51	510	VA	Alexandria city	9.0	110,115	0416.jpg	Bad	City Council members say ward system would be a bad idea for Alexandria	-0.8730	ALXnow	09/29/2023, 07:00 AM, +0000 UTC
+15	007	HI	Kauai County	9.1	81,939	0420.jpg	Bad	2 Native Hawaiians get prison in hate crime beating of white newcomer on Maui	-0.8010	NPR	03/02/2023, 08:00 AM, +0000 UTC
+18	047	IN	Franklin County	9.1	74,779	0422.jpg	Bad	Child molestation suspect found dead at Johnson County Jail	-0.4390	WTHR	08/11/2023, 07:00 AM, +0000 UTC
+18	115	IN	Ohio County	9.1	70,618	0423.jpg	Bad	Crash, burglary at eastern Indiana gun store	-0.3880	WTHR	07/24/2023, 07:00 AM, +0000 UTC
+19	001	IA	Adair County	9.1	66,997	0425.jpg	Bad	Stuart man accused of breaking into apartment, raping 15-year-old girl	-0.7650	Local 5 - weareiowa.com	10/17/2019, 07:00 AM, +0000 UTC
+19	113	IA	Linn County	9.1	74,134	0427.jpg	Bad	Linn County man charged with murder in Lily Lake case	-0.5100	KCRG	02/21/2024, 08:00 AM, +0000 UTC
+23	015	ME	Lincoln County	9.1	72,657	0429.jpg	Bad	Lincoln woman arrested for discharging firearm in neighborhood	-0.3050	WABI	02/22/2024, 08:00 AM, +0000 UTC
+26	037	MI	Clinton County	9.1	80,212	0430.jpg	Bad	Macomb County church youth leader accused of coercing minor to have sex	-0.7020	WDIV ClickOnDetroit	11/15/2023, 08:00 AM, +0000 UTC
+27	009	MN	Benton County	9.1	71,493	0431.jpg	Bad	5 drug task force officers and a man hurt in gunbattle at home in rural Minnesota	-0.4250	WCAX	10/12/2023, 07:00 AM, +0000 UTC
+27	063	MN	Jackson County	9.1	66,694	0432.jpg	Bad	How 6 Mississippi officers tried to cover up their torture of 2 Black men	-0.9160	The Associated Press	08/04/2023, 07:00 AM, +0000 UTC
+39	175	OH	Wyandot County	9.1	65,631	0434.jpg	Bad	Tiffin man facing kidnapping, aggravated robbery charges	-0.4560	WNWO NBC 24	01/15/2022, 08:00 AM, +0000 UTC
+42	071	PA	Lancaster County	9.1	82,434	0435.jpg	Bad	Lancaster County man, long an inmate at Chester County Prison, guilty in drug ring prosecution	-0.3140	Daily Local News	03/07/2024, 08:00 AM, +0000 UTC
+42	133	PA	York County	9.1	79,938	0436.jpg	Bad	One person injured in shooting at York County mobile home park; police are investigating	-0.4210	WPMT FOX 43	03/22/2024, 04:04 PM, +0000 UTC
+51	683	VA	Manassas city	9.1	97,722	0439.jpg	Bad	Georgia man charged with raping woman in Virginia hotel	-0.8010	FOX 5 DC	06/30/2022, 07:00 AM, +0000 UTC
+53	053	WA	Pierce County	9.1	92,793	0440.jpg	Bad	Why many judges in WA aren't ordering alleged abusers to turn in guns	-0.7860	The Seattle Times	07/09/2023, 07:00 AM, +0000 UTC
+55	083	WI	Oconto County	9.1	68,127	0441.jpg	Bad	2 found guilty of armed robbery charges in Oconto County	-0.1940	WBAY	11/30/2021, 08:00 AM, +0000 UTC
+17	049	IL	Effingham County	9.2	74,800	0443.jpg	Bad	Effingham man charged with sexually assaulting a child under 13	-0.6840	Effingham Daily News	12/21/2023, 08:00 AM, +0000 UTC
+27	031	MN	Cook County	9.2	69,279	0448.jpg	Bad	Man charged with murder for killing former sex offender with a shovel and an antler	-0.5400	The National Desk	03/14/2023, 07:00 AM, +0000 UTC
+30	049	MT	Lewis and Clark County	9.2	72,491	0451.jpg	Bad	Neighbors' Feud Over Montana Land Ends in Fatal Shooting — What Really Happened?	-0.6520	Oxygen	12/03/2023, 08:00 AM, +0000 UTC
+30	063	MT	Missoula County	9.2	68,210	0452.jpg	Bad	Trial set for Reserve Street crash that injured local high school teacher	-0.2930	Missoulian	01/10/2024, 08:00 AM, +0000 UTC
+40	145	OK	Wagoner County	9.2	73,851	0457.jpg	Bad	13 Oklahomans charged in federal catalytic converter theft ring	-0.1770	2 News Oklahoma KJRH Tulsa	11/02/2022, 07:00 AM, +0000 UTC
+49	025	UT	Kane County	9.2	66,609	0459.jpg	Bad	Massive Utah drug bust highlights magnitude of fentanyl supply pushed by cartels	-0.7370	KSLTV	12/14/2023, 08:00 AM, +0000 UTC
+51	087	VA	Henrico County	9.2	82,187	0461.jpg	Bad	Father and son killed in Henrico County home, per Crime Insider sources	-0.4630	CBS 6 News Richmond WTVR	11/27/2023, 08:00 AM, +0000 UTC
+55	121	WI	Trempealeau County	9.2	68,184	0462.jpg	Bad	Unidentified man arrested in Independence after hit-and-run, who returned to scene to hit another	-0.4180	WIZM NEWS	09/16/2023, 07:00 AM, +0000 UTC
+13	013	GA	Barrow County	9.3	77,583	0464.jpg	Bad	This is the Worst County to Live in Georgia	-0.9110	The Georgia Virtue	07/29/2021, 07:00 AM, +0000 UTC
+15	003	HI	Honolulu County	9.3	96,304	0465.jpg	Bad	Amid Maui Fire Devastation, Big Oil Tries to Kill Hawaii Climate Lawsuit	-0.8940	Common Dreams	08/17/2023, 07:00 AM, +0000 UTC
+18	147	IN	Spencer County	9.3	70,440	0466.jpg	Bad	Man facing attempted murder charge after shooting in Spencer County	-0.4580	WEVV	08/31/2023, 08:47 PM, +0000 UTC
+26	009	MI	Antrim County	9.3	71,945	0469.jpg	Bad	Antrim County shooting now treated as homicide as victim dies	-0.5750	Petoskey News-Review	03/12/2018, 07:00 AM, +0000 UTC
+30	111	MT	Yellowstone County	9.3	78,216	0470.jpg	Bad	Yellowstone County deputies involved in fatal shooting	-0.6110	Q2 News	10/05/2023, 07:00 AM, +0000 UTC
+36	119	NY	Westchester County	9.3	108,037	0471.jpg	Bad	Five Men Charged With Murder In Connection With Failed Robbery Attempt That Left Two Dead	-0.6900	Department of Justice	03/20/2024, 07:00 AM, +0000 UTC
+39	149	OH	Shelby County	9.3	72,498	0473.jpg	Bad	Pets dead, 2 hospitalized after Sidney house fire	-0.5080	WDTN.com	
+39	161	OH	Van Wert County	9.3	59,377	0474.jpg	Bad	Van Wert man indicted for murder in September death	-0.4900	LimaOhio.com	11/02/2023, 07:00 AM, +0000 UTC
+46	033	SD	Custer County	9.3	75,336	0475.jpg	Bad	Speaking out: Attorney General's Office scandal involves corruption and incompetence	-0.9170	Bismarck Tribune	01/16/2024, 08:00 AM, +0000 UTC
+49	017	UT	Garfield County	9.3	66,786	0477.jpg	Bad	The Looming Drug Problem People Don't Talk About In Utah	-0.8670	104.3 WOW Country	03/06/2024, 08:00 AM, +0000 UTC
+50	023	VT	Washington County	9.3	77,432	0478.jpg	Bad	Burglary at Goddard College: $10,000 worth of tools stolen	-0.7310	Newport Dispatch	09/07/2023, 07:00 AM, +0000 UTC
+53	007	WA	Chelan County	9.3	81,697	0479.jpg	Bad	Chelan County jail officer killed in Wednesday motorcycle crash	-0.4920	NCWLIFE News	08/10/2023, 07:00 AM, +0000 UTC
+54	037	WV	Jefferson County	9.3	87,259	0480.jpg	Bad	One man killed, one injured in overnight Lakewood shooting	-0.4900	The Denver Post	09/23/2023, 07:00 AM, +0000 UTC
+55	039	WI	Fond du Lac County	9.3	71,206	0481.jpg	Bad	Deadly crash in Fond du Lac County, authorities identify 61-year-old victim	-0.4880	WeAreGreenBay.com	03/25/2024, 05:20 PM, +0000 UTC
+55	091	WI	Pepin County	9.3	69,535	0482.jpg	Bad	Turtle Lake man accused of 25 burglaries in several northwest Wisconsin counties sentenced	-0.3350	WQOW TV News 18	06/02/2022, 07:00 AM, +0000 UTC
+18	073	IN	Jasper County	9.4	75,738	0487.jpg	Bad	Jasper County man arrested in alleged kidnapping in Nebraska	-0.4720	wlfi.com	01/13/2022, 11:36 PM, +0000 UTC
+31	139	NE	Pierce County	9.4	70,906	0493.jpg	Bad	White supremacist gang members charged with double murder, dumping bodies in Wash. state	-0.3770	KFXL Fox Nebraska	02/15/2024, 08:00 AM, +0000 UTC
+33	003	NH	Carroll County	9.4	71,981	0494.jpg	Bad	Lakes Region Child Sexual Assaulter Charged With Murder	-0.6660	Patch	12/18/2023, 08:00 AM, +0000 UTC
+47	149	TN	Rutherford County	9.4	77,320	0497.jpg	Bad	Black Children Were Jailed for a Crime That Doesn't Exist. Almost Nothing Happened to the Adults in Charge.	-0.9030	ProPublica	10/08/2021, 07:00 AM, +0000 UTC
+55	117	WI	Sheboygan County	9.4	65,008	0499.jpg	Bad	Sheboygan County jury finds Grafton man guilty of kidnapping but not guilty of murder plot	-0.2820	Sheboygan Press	08/15/2022, 07:00 AM, +0000 UTC
+06	111	CA	Ventura County	9.5	101,981	0500.jpg	Bad	Scare in Ventura County movie theater when witnesses say man claims to have gun	-0.3980	kclu.org	07/26/2023, 07:00 AM, +0000 UTC
+08	000	CO	Colorado	9.5	89,096	0501.jpg	Bad	Colorado's Biggest and Most Dangerous Gangs Continue to Grow	-0.9220	K99	10/26/2023, 07:00 AM, +0000 UTC
+10	005	DE	Sussex County	9.5	81,188	0502.jpg	Bad	Sussex County schools to reopen after 3 teens shot in deadly shooting in Laurel, Delaware	-0.6280	WPVI-TV	10/31/2023, 07:00 AM, +0000 UTC
+20	103	KS	Leavenworth County	9.5	79,117	0505.jpg	Bad	Man sentenced in 2022 shooting death in Leavenworth apartment	-0.3350	KSHB 41 Kansas City News	03/27/2024, 09:26 PM, +0000 UTC
+27	081	MN	Lincoln County	9.5	64,860	0510.jpg	Bad	Shooting deaths of rural Minnesota couple confirmed as murder-suicide	-0.4250	Bring Me The News	01/06/2024, 08:00 AM, +0000 UTC
+38	009	ND	Bottineau County	9.5	69,351	0518.jpg	Bad	Plane crash near Westhope seriously injures one	-0.6170	KFYR	06/22/2023, 07:00 AM, +0000 UTC
+48	187	TX	Guadalupe County	9.5	86,043	0519.jpg	Bad	Couple arrested in brutal murder of man at Guadalupe River	-0.8060	KEYE TV CBS Austin	05/13/2016, 07:00 AM, +0000 UTC
+48	393	TX	Roberts County	9.5	70,814	0520.jpg	Bad	Body found in same Houston home where a rapper allegedly held a woman captive for years	-0.5950	NBC News	01/09/2024, 08:00 AM, +0000 UTC
+53	035	WA	Kitsap County	9.5	93,794	0521.jpg	Bad	Man critically injured in road rage shooting on SR 16 in Kitsap County	-0.5680	KOMO News	07/24/2023, 07:00 AM, +0000 UTC
+53	055	WA	San Juan County	9.5	84,024	0522.jpg	Bad	San Juan County Sheriff voices ‘extreme frustration and disappointment’ with judicial system	-0.8320	KIRO Seattle	11/24/2023, 08:00 AM, +0000 UTC
+56	033	WY	Sheridan County	9.5	70,224	0523.jpg	Bad	Three Wyomingites Charged With Kidnapping After Woman Found Dead Near Denver	-0.5040	Cowboy State Daily	01/03/2022, 08:00 AM, +0000 UTC
+18	171	IN	Warren County	9.6	73,539	0526.jpg	Bad	Former virtual charter school leaders face federal charges tied to alleged enrollment scam	-0.6460	Chalkbeat	01/23/2024, 08:00 AM, +0000 UTC
+20	201	KS	Washington County	9.6	63,797	0530.jpg	Bad	Public defenders sue Washington County over what they say is systemic courthouse racism	-0.8240	Oregon Public Broadcasting	08/30/2023, 07:00 AM, +0000 UTC
+26	115	MI	Monroe County	9.6	72,166	0531.jpg	Bad	Monroe among Michigan's top 10 communities in opioid death rates	-0.5600	Monroe Evening News	05/13/2022, 07:00 AM, +0000 UTC
+27	000	MN	Minnesota	9.6	82,343	0532.jpg	Bad	Edina police believe break-ins at 9 "affluent" homes may be connected	-0.6480	CBS News	02/07/2024, 08:00 AM, +0000 UTC
+27	057	MN	Hubbard County	9.6	67,797	0533.jpg	Bad	Federal prosecutors charge 14 more Minneapolis gang members	-0.4160	KSTP	08/16/2023, 07:00 AM, +0000 UTC
+27	113	MN	Pennington County	9.6	76,423	0535.jpg	Bad	Suspect charged in brutal murder of employee at Digi-Key	-0.7780	KFGO	05/12/2023, 07:00 AM, +0000 UTC
+30	095	MT	Stillwater County	9.6	81,147	0537.jpg	Bad	Montana Train Derailment Raises Fears of Similar Disasters on Proposed Uinta Basin Railway	-0.9400	Common Dreams	06/25/2023, 07:00 AM, +0000 UTC
+31	051	NE	Dixon County	9.6	61,144	0539.jpg	Bad	Plano council meeting heats up from corruption allegations	-0.8130	Star Local Media	04/24/2019, 07:00 AM, +0000 UTC
+34	009	NJ	Cape May County	9.6	80,845	0540.jpg	Bad	Dirty Politics: New Jersey's Ugly Reality	-0.9580	New Jersey 101.5 FM	12/11/2023, 08:00 AM, +0000 UTC
+34	039	NJ	Union County	9.6	96,483	0541.jpg	Bad	Violence, drugs and bullying in all NJ schools: Union County	-0.8620	New Jersey 101.5 FM	01/24/2024, 08:00 AM, +0000 UTC
+36	069	NY	Ontario County	9.6	76,601	0542.jpg	Bad	NY State Police trooper shoots, kills teen in Ontario County NY	-0.5270	Democrat & Chronicle	11/16/2023, 08:00 AM, +0000 UTC
+38	067	ND	Pembina County	9.6	69,141	0544.jpg	Bad	VNL Investigates: A year after woman's death in Pembina County, family questions investigators	-0.5470	KVLY	06/23/2020, 07:00 AM, +0000 UTC
+41	017	OR	Deschutes County	9.6	84,281	0547.jpg	Bad	Very tragic, just horrible:' Bend man arrested on murder charge in killing of his mother at her NE Bend apartment	-0.8060	KTVZ	03/21/2024, 07:00 AM, +0000 UTC
+53	059	WA	Skamania County	9.6	82,132	0552.jpg	Bad	Missing and Murdered Woman Found in Abandoned Vehicle in Stevenson, WA	-0.5150	Columbia Community Connection	02/07/2024, 08:00 AM, +0000 UTC
+55	101	WI	Racine County	9.6	72,331	0554.jpg	Bad	Horrific details emerge in 'barbaric' murder of 1999 Jane Doe	-0.9220	ABC News	11/08/2019, 08:00 AM, +0000 UTC
+08	051	CO	Gunnison County	9.7	88,855	0556.jpg	Bad	‘Unnecessary deaths’: relatives mourn US family who died off the grid	-0.8670	The Guardian US	07/29/2023, 07:00 AM, +0000 UTC
+12	069	FL	Lake County	9.7	67,637	0558.jpg	Bad	Orlando Man and Woman Plan Lake County Shooting to Murder Man	-0.6190	West Orlando News	03/16/2024, 07:00 AM, +0000 UTC
+16	015	ID	Boise County	9.7	74,121	0559.jpg	Bad	Family of mall shooting victim files suit against mall parent company, City of Boise and Ada County	-0.5460	boisedev.com	07/07/2023, 07:00 AM, +0000 UTC
+18	051	IN	Gibson County	9.7	66,247	0562.jpg	Bad	Death investigation underway after woman's body found in wooded area of Gibson County	-0.3190	WEVV	03/28/2023, 11:23 PM, +0000 UTC
+19	093	IA	Ida County	9.7	67,696	0564.jpg	Bad	Denison Man Killed And Schleswig Resident Seriously Injured In Ida County Crash	-0.4690	1380 KCIM	05/01/2023, 07:00 AM, +0000 UTC
+27	125	MN	Red Lake County	9.7	74,120	0567.jpg	Bad	Charges: Minnesota woman wanted twin to 'take the fall' for crash that killed two Amish kids	-0.7030	redlakenationnews.com	02/06/2024, 08:00 AM, +0000 UTC
+32	013	NV	Humboldt County	9.7	80,255	0568.jpg	Bad	Man accused in series of violent crimes in Idaho takes his own life in Humboldt County	-0.4050	KOLO	02/22/2024, 08:00 AM, +0000 UTC
+42	045	PA	Delaware County	9.7	83,856	0571.jpg	Bad	Fayette County: Fatal crash on Springfield Pike	-0.5190	WTAE Pittsburgh	09/25/2023, 07:00 AM, +0000 UTC
+49	053	UT	Washington County	9.7	75,572	0575.jpg	Bad	Inmate dies at Purgatory Correctional Facility in Washington County	-0.4210	St. George News	09/08/2023, 07:00 AM, +0000 UTC
+02	170	AK	Matanuska-Susitna Borough	9.8	86,313	0576.jpg	Bad	Tragic murder-suicide in Wasilla claims three lives, including 7-year-old	-0.8420	youralaskalink	11/22/2023, 08:00 AM, +0000 UTC
+08	007	CO	Archuleta County	9.8	66,025	0578.jpg	Bad	Former deputy district attorney accused of sexual assault confessed an inappropriate act to a church leader	-0.7950	Colorado Springs Gazette	09/23/2023, 12:00 PM, +0000 UTC
+09	000	CT	Connecticut	9.8	88,182	0579.jpg	Bad	Connecticut couple berate Puerto Rican landscapers, accuse them of being illegal immigrants	-0.8980	New York Post 	10/13/2023, 07:00 AM, +0000 UTC
+19	135	IA	Monroe County	9.8	66,176	0581.jpg	Bad	La Crosse man arrested for drug overdose death in Monroe County	-0.4510	News8000.com - WKBT	02/14/2024, 08:00 AM, +0000 UTC
+24	000	MD	Maryland	9.8	94,957	0583.jpg	Bad	Lawsuit claims ‘gang of white officers’ controls a Maryland prison	-0.7770	WTOP	01/17/2024, 08:00 AM, +0000 UTC
+25	009	MA	Essex County	9.8	92,118	0584.jpg	Bad	Violent Machinegun-Wielding Drug Trafficker from North Shore Sentenced to 40 Years in Prison	-0.4670	Department of Justice	02/02/2024, 08:00 AM, +0000 UTC
+26	005	MI	Allegan County	9.8	75,893	0585.jpg	Bad	Dunham’s knowingly sold gun meant for felon who used it in murder, lawsuit says	-0.6570	MLive.com	06/16/2023, 07:00 AM, +0000 UTC
+26	099	MI	Macomb County	9.8	73,927	0586.jpg	Bad	Shocking details revealed about Michigan man allegedly murdering ex’s 2-year-old daughter	-0.7180	Law & Crime	07/09/2023, 07:00 AM, +0000 UTC
+27	005	MN	Becker County	9.8	67,448	0587.jpg	Bad	Minnesota Hunter Shot in Hunting Accident	-0.3100	KROC-AM	11/06/2023, 08:00 AM, +0000 UTC
+27	135	MN	Roseau County	9.8	71,794	0588.jpg	Bad	Charges: Northern Minnesota police officer raped, stalked teenager	-0.7970	Bring Me The News	04/04/2019, 07:00 AM, +0000 UTC
+28	033	MS	DeSoto County	9.8	79,967	0589.jpg	Bad	Fears Rise Over Potential Arkabutla Dam Break: 'It Would Be Disastrous'	-0.9290	Newsweek	05/11/2023, 07:00 AM, +0000 UTC
+29	051	MO	Cole County	9.8	70,837	0590.jpg	Bad	74-year-old woman seriously injured in Cole County crash	-0.5450	ABC17News.com	03/05/2024, 08:00 AM, +0000 UTC
+39	109	OH	Miami County	9.8	72,887	0595.jpg	Bad	Venezuelan street gang members use women to lure murder victim to Miami-Dade hotel, records show	-0.6020	WPLG Local 10	01/17/2024, 08:00 AM, +0000 UTC
+48	221	TX	Hood County	9.8	75,545	0598.jpg	Bad	Two suffer ‘serious’ injuries in Wednesday crash	-0.7450	Hood County News	12/30/2021, 08:00 AM, +0000 UTC
+50	007	VT	Chittenden County	9.8	86,579	0599.jpg	Bad	Police: Woman raped in Vermont courthouse	-0.6950	USA TODAY	10/22/2015, 07:00 AM, +0000 UTC
+55	009	WI	Brown County	9.8	72,398	0602.jpg	Bad	One dead after a single-vehicle crash in Brown County	-0.4250	WeAreGreenBay.com	03/12/2024, 07:00 AM, +0000 UTC
+55	059	WI	Kenosha County	9.8	75,067	0603.jpg	Bad	Haiti neighborhood under siege: Gang repeatedly attacks Solino in Port-au-Prince.	-0.7870	Kenosha News	01/19/2024, 08:00 AM, +0000 UTC
+19	183	IA	Washington County	9.9	70,539	0606.jpg	Bad	Two adults, three children injured in Washington County crash	-0.4490	kwwl.com	02/17/2024, 03:32 PM, +0000 UTC
+20	119	KS	Meade County	9.9	68,038	0608.jpg	Bad	Plains man killed in crash involving swather, train in Meade County	-0.2180	KWCH	09/29/2023, 07:00 AM, +0000 UTC
+26	019	MI	Benzie County	9.9	65,846	0609.jpg	Bad	Passenger killed, driver critically injured in crash caused by possible medical episode	-0.4560	9 & 10 News	02/08/2024, 08:00 AM, +0000 UTC
+26	087	MI	Lapeer County	9.9	72,737	0610.jpg	Bad	Wrong way crash on I-69 leaves man dead, woman injured	-0.5140	MLive.com	03/14/2024, 07:00 AM, +0000 UTC
+29	113	MO	Lincoln County	9.9	77,913	0612.jpg	Bad	Missouri family kidnaps young boy	-0.6400	Business Insider	02/06/2015, 08:00 AM, +0000 UTC
+31	131	NE	Otoe County	9.9	70,433	0616.jpg	Bad	Nebraska City man charged with assaulting his father	-0.6540	newschannelnebraska.com	11/20/2023, 08:00 AM, +0000 UTC
+33	019	NH	Sullivan County	9.9	74,700	0618.jpg	Bad	Newport, NH woman's death leads to major drug bust in Claremont	-0.2910	Newport Dispatch	01/24/2024, 08:00 AM, +0000 UTC
+39	123	OH	Ottawa County	9.9	72,780	0620.jpg	Bad	Fatal crash in Northwest Ohio injures 2 Cleveland residents	-0.6620	cleveland.com	03/13/2024, 07:00 AM, +0000 UTC
+48	209	TX	Hays County	9.9	89,074	0621.jpg	Bad	Hays County Jail Officers Are the Most Violent in the State, Data Shows	-0.7770	Austin Chronicle	09/01/2023, 07:00 AM, +0000 UTC
+49	001	UT	Beaver County	9.9	66,394	0622.jpg	Bad	Beaver County lovers admit to conspiring to kill woman's husband	-0.6690	KSL.com	08/23/2023, 07:00 AM, +0000 UTC
+51	810	VA	Virginia Beach city	9.9	83,066	0623.jpg	Bad	Inmate dies by suicide at Virginia Beach Correctional Center, sheriff's office says	-0.3030	The Virginian-Pilot	08/23/2023, 07:00 AM, +0000 UTC
+55	097	WI	Portage County	9.9	71,360	0624.jpg	Bad	Our image has been tarnished': Three Portage police officials arrested	-0.8250	WKOW	09/12/2023, 07:30 PM, +0000 UTC
+06	059	CA	Orange County	10.0	106,047	0625.jpg	Bad	Anaheim corruption report alleges a criminal conspiracy, secret lobbying and influence peddling	-0.9360	Los Angeles Times	07/31/2023, 07:00 AM, +0000 UTC
+08	015	CO	Chaffee County	10.0	75,151	0627.jpg	Bad	It's been more than 3 years since Colorado mom Suzanne Morphew went missing, the mystery is still no closer to being solved	-0.8280	CBS Colardo	05/12/2023, 07:00 AM, +0000 UTC
+10	000	DE	Delaware	10.0	81,933	0629.jpg	Bad	Fatal vehicle crash in Milton, Delaware - 47abc	-0.5590	WMDT	12/16/2023, 08:00 AM, +0000 UTC
+12	009	FL	Brevard County	10.0	74,899	0630.jpg	Bad	‘A very dangerous person’: Sex offender tried to kidnap girl, exposed himself to kids, Polk County sheriff says	-0.7990	WFLA	03/08/2024, 08:00 AM, +0000 UTC
+16	055	ID	Kootenai County	10.0	75,583	0632.jpg	Bad	Trial for former Idaho State Police trooper accused of killing his wife to start Monday in Kootenai County	-0.5330	KXLY Spokane	03/01/2024, 08:00 AM, +0000 UTC
+17	083	IL	Jersey County	10.0	72,363	0633.jpg	Bad	3 Gloucester County officers injured at South Jersey Shooting Club in Winslow Township	-0.5180	CBS Philly	03/29/2024, 09:19 PM, +0000 UTC
+20	059	KS	Franklin County	10.0	67,263	0634.jpg	Bad	Kansas Supreme Court rejects Kyle Flack’s murder, death penalty appeals	-0.4460	WDAF FOX4 Kansas City	01/19/2024, 08:00 AM, +0000 UTC
+30	025	MT	Fallon County	10.0	65,637	0637.jpg	Bad	New details emerge in Fallon homicide of Isaac Carrier	-0.3560	Billings Gazette	03/25/2023, 07:00 AM, +0000 UTC
+38	095	ND	Towner County	10.0	70,656	0642.jpg	Bad	North Dakota community shaken after farmer among 4 dead in suspected murder-suicide	-0.7990	ABC News	03/29/2024, 02:57 AM, +0000 UTC
+39	097	OH	Madison County	10.0	78,533	0643.jpg	Bad	Multi-vehicle crash on I-70 in Madison County	-0.5920	10TV	12/11/2023, 08:00 AM, +0000 UTC
+39	125	OH	Paulding County	10.0	66,332	0644.jpg	Bad	Absolute Devastation in Paulding Thanksgiving Day Fires	-0.8130	West Bend News	11/24/2023, 08:00 AM, +0000 UTC
+42	047	PA	Elk County	10.0	57,570	0646.jpg	Bad	Rural EMS agencies fight the drug scourge as they lose workers	-0.8830	timesobserver.com	01/03/2024, 08:00 AM, +0000 UTC
+45	013	SC	Beaufort County	10.0	83,687	0647.jpg	Bad	One dead, two injured in Saturday shootings in Beaufort County	-0.5830	WTOC	11/18/2023, 08:00 AM, +0000 UTC
+47	127	TN	Moore County	10.0	68,086	0650.jpg	Bad	Tennessee volleyball loses 5-set heartbreaker to defending national champion Texas in Sweet 16	-0.8140	Knoxville News Sentinel	12/08/2023, 08:00 AM, +0000 UTC
+48	251	TX	Johnson County	10.0	76,747	0651.jpg	Bad	Transport driver raped inmate en route to Ramsey County jail from Texas, lawsuit says	-0.6990	St. Paul Pioneer Press	04/14/2023, 07:00 AM, +0000 UTC
+53	000	WA	Washington	10.0	91,255	0652.jpg	Bad	Bob Menendez isn't the only corrupt politician in Washington	-0.9390	The Bowdoin Orient	11/03/2023, 07:00 AM, +0000 UTC
+55	127	WI	Walworth County	10.0	73,723	0653.jpg	Bad	Elkhorn Wisconsin shooting leaves young couple dead, community reeling	-0.8850	Milwaukee Journal Sentinel	02/02/2024, 08:00 AM, +0000 UTC
+10	003	DE	New Castle County	10.1	85,427	0656.jpg	Bad	Mercedes Ferguson arrest: Mother accused of letting 4-year-old son starve to death in Wilmington, Delaware	-0.7550	WPVI-TV	03/12/2024, 07:00 AM, +0000 UTC
+12	085	FL	Martin County	10.1	80,678	0658.jpg	Bad	Alleged gang member accused of attempting to sell crystal meth in Martin County	-0.4090	WPBF West Palm Beach	01/05/2024, 08:00 AM, +0000 UTC
+18	007	IN	Benton County	10.1	62,248	0659.jpg	Bad	WA judicial commission claims Tri-Cities judge broke the law and public's trust	-0.8880	AOL	11/29/2023, 08:00 AM, +0000 UTC
+18	043	IN	Floyd County	10.1	74,264	0660.jpg	Bad	Floyd County, Indiana teen killed in single-car crash	-0.4770	Courier Journal	05/09/2023, 07:00 AM, +0000 UTC
+18	159	IN	Tipton County	10.1	65,025	0661.jpg	Bad	Woman dead, four injured after shooting at Covington event center, deputies say	-0.4670	FOX13 Memphis	09/25/2023, 07:00 AM, +0000 UTC
+20	143	KS	Ottawa County	10.1	69,542	0665.jpg	Bad	Lawsuit claims teen was bullied, assaulted and harassed at Hudsonville middle school	-0.8500	MLive.com	03/23/2024, 01:20 PM, +0000 UTC
+20	157	KS	Republic County	10.1	53,974	0666.jpg	Bad	CPD: Shooting in the 1600 block of Union Street being investigated as 'self-inflicted'	-0.2470	The Republic	03/08/2024, 08:00 AM, +0000 UTC
+29	186	MO	Ste. Genevieve County	10.1	63,786	0669.jpg	Bad	5 people killed on Missouri roadways in less than 5 hours on Friday	-0.7710	First Alert 4	02/17/2024, 08:00 AM, +0000 UTC
+32	001	NV	Churchill County	10.1	70,149	0670.jpg	Bad	Man accused of kidnapping and killing Nevada 18-year-old dies by suicide in jail while awaiting trial	-0.5660	CNN	08/07/2023, 07:00 AM, +0000 UTC
+36	095	NY	Schoharie County	10.1	67,975	0671.jpg	Bad	Operator of Limo Service Is Convicted in 2018 Accident That Killed 20	-0.4950	The New York Times	05/17/2023, 07:00 AM, +0000 UTC
+41	027	OR	Hood River County	10.1	75,818	0675.jpg	Bad	Columbia Gorge fire burning uncontrolled; homes threatened	-0.8250	Oregon Capital Chronicle	07/07/2023, 07:00 AM, +0000 UTC
+45	045	SC	Greenville County	10.1	71,833	0676.jpg	Bad	Judge rules Upstate student charged in deadly school shooting will be tried as adult	-0.4510	WYFF4 Greenville	03/29/2024, 04:17 PM, +0000 UTC
+48	039	TX	Brazoria County	10.1	86,197	0678.jpg	Bad	Brazoria County kidnapping suspect Patrick Kent Baugh accused of taking woman to his home after allegedly offering a ride	-0.6390	KTRK-TV	08/11/2023, 07:00 AM, +0000 UTC
+48	453	TX	Travis County	10.1	95,151	0679.jpg	Bad	Prosecutors in Mike Ramos Murder Trial Want Defense to Stop Crying Corruption	-0.7990	Austin Chronicle	06/20/2023, 07:00 AM, +0000 UTC
+49	041	UT	Sevier County	10.1	73,014	0680.jpg	Bad	22 people transported to hospital for carbon monoxide poisoning in Sevier County	-0.5100	KSLTV	01/02/2024, 08:00 AM, +0000 UTC
+51	137	VA	Orange County	10.1	81,390	0681.jpg	Bad	Family of Riverside victims killed by ‘catfish’ cop to sue Virginia police agencies	-0.7440	The Press-Enterprise	05/19/2023, 07:00 AM, +0000 UTC
+13	097	GA	Douglas County	10.2	79,242	0684.jpg	Bad	School Bus Savagery Shocks Nation: Teen Concussed in Douglas County, Little Girl Assaulted in Florida	-0.9300	Hoodline	02/20/2024, 08:00 AM, +0000 UTC
+17	139	IL	Moultrie County	10.2	75,505	0685.jpg	Bad	Officials: Man killed 3, then self in rural Georgia town	-0.3580	The Associated Press	05/04/2023, 07:00 AM, +0000 UTC
+20	113	KS	McPherson County	10.2	73,766	0689.jpg	Bad	Kansas elementary school student goes to hospital after being shot by arrow on playground	-0.4970	Wichita Eagle	09/26/2023, 07:00 AM, +0000 UTC
+20	115	KS	Marion County	10.2	64,337	0690.jpg	Bad	Marion police chief resigns after the widely-condemned raid of the Marion County Record newspaper in Kansas	-0.7180	CNN	10/02/2023, 07:00 AM, +0000 UTC
+20	151	KS	Pratt County	10.2	65,812	0691.jpg	Bad	1 injured in officer-involved shooting following chase, 1 in custody	-0.1110	KSN-TV	10/23/2023, 07:00 AM, +0000 UTC
+26	105	MI	Mason County	10.2	64,014	0694.jpg	Bad	Man charged with murder after allegedly running over wife following roadside argument	-0.5170	wpde.com	09/18/2023, 07:00 AM, +0000 UTC
+33	009	NH	Grafton County	10.2	81,205	0698.jpg	Bad	Dartmouth College alumnus charged with rape, assault after alleged frat house attack	-0.7740	Valley News	08/20/2023, 07:00 AM, +0000 UTC
+39	089	OH	Licking County	10.2	76,596	0699.jpg	Bad	Mass casualty' crash kills 3, injures 15 on I-70 in Ohio	-0.6480	Courier Journal	11/14/2023, 08:00 AM, +0000 UTC
+39	169	OH	Wayne County	10.2	70,121	0700.jpg	Bad	Inmate beaten to death inside Wayne County jail only hours after he got there	-0.8370	WXYZ 7 Action News Detroit	07/21/2023, 07:00 AM, +0000 UTC
+42	007	PA	Beaver County	10.2	67,135	0701.jpg	Bad	Teen arrested after state police say he bit, cut people inside Beaver County home	-0.4850	WPXI Pittsburgh	01/07/2024, 08:00 AM, +0000 UTC
+47	105	TN	Loudon County	10.2	79,683	0703.jpg	Bad	West Greene High teacher accused of statutory rape of 14-year-old student	-0.7180	WATE 6 On Your Side	08/10/2023, 07:00 AM, +0000 UTC
+56	021	WY	Laramie County	10.2	71,956	0706.jpg	Bad	Wyoming Man Charged With Arson In Massive Laramie County Grass Fire	-0.3880	Cowboy State Daily	03/14/2024, 07:00 AM, +0000 UTC
+06	051	CA	Mono County	10.3	79,105	0708.jpg	Bad	Santa Rosa climbing community reels after one of its own, Charles Barrett, is exposed as sexual predator	-0.9210	The Santa Rosa Press Democrat	03/01/2024, 08:00 AM, +0000 UTC
+09	110	CT	Capitol Planning Region	10.3	84,551	0709.jpg	Bad	D.C.'s Chevy Chase neighborhood in uproar over affordable housing	-0.7810	The Washington Post	07/09/2023, 07:00 AM, +0000 UTC
+13	015	GA	Bartow County	10.3	80,017	0711.jpg	Bad	13-year-old shoots self in Bartow County	-0.3330	Atlanta News First	02/28/2023, 08:00 AM, +0000 UTC
+18	099	IN	Marshall County	10.3	70,938	0715.jpg	Bad	This is Major Trauma': New Accounts of Abuse at Federal Prison Prompt Calls for Investigations	-0.8380	The Marshall Project	07/06/2023, 07:00 AM, +0000 UTC
+20	071	KS	Greeley County	10.3	72,300	0718.jpg	Bad	KCK police investigating after child killed in shooting near 31st, Greeley Avenue	-0.4990	WDAF FOX4 Kansas City	05/03/2023, 07:00 AM, +0000 UTC
+27	017	MN	Carlton County	10.3	78,478	0722.jpg	Bad	Carlton man charged with attempted murder for railroad spike attack	-0.6060	Bring Me The News	02/29/2024, 08:00 AM, +0000 UTC
+30	067	MT	Park County	10.3	68,594	0726.jpg	Bad	In Montana, Four Different Polls Say Citizens Seriously Unhappy About Sprawl	-0.8550	Mountain Journal	07/05/2023, 07:00 AM, +0000 UTC
+32	031	NV	Washoe County	10.3	80,245	0727.jpg	Bad	Reno-Sparks gun violence has another peak year, data shows	-0.5550	Reno Gazette Journal	11/03/2023, 07:00 AM, +0000 UTC
+35	043	NM	Sandoval County	10.3	82,862	0728.jpg	Bad	Harrowing moment dying woman, 82, begs New Mexico cops not to leave her alone with caretaker who 'KILLED her'	-0.8140	Daily Mail	11/18/2023, 08:00 AM, +0000 UTC
+37	119	NC	Mecklenburg County	10.3	80,645	0729.jpg	Bad	CMPD: Suspect wanted for robbing multiple Starbucks locations at gunpoint	-0.4000	WBTV	01/03/2024, 08:00 AM, +0000 UTC
+50	017	VT	Orange County	10.3	73,057	0732.jpg	Bad	Vermont woman seriously injured in Orlando crash involving three cars	-0.6000	WFTV Orlando	12/20/2023, 08:00 AM, +0000 UTC
+55	025	WI	Dane County	10.3	85,189	0733.jpg	Bad	Minnesota man convicted for 2005 sexual assault of UW-Madison student	-0.7870	Daily Cardinal	03/04/2024, 08:00 AM, +0000 UTC
+02	020	AK	Anchorage Borough	10.4	99,162	0735.jpg	Bad	Alaska governor candidate faces sexual harassment lawsuit	-0.7280	The Associated Press	10/22/2022, 07:00 AM, +0000 UTC
+06	075	CA	San Francisco County	10.4	135,366	0736.jpg	Bad	California's Court Reporter Shortage Limits Access to Justice in Domestic Violence Cases	-0.8570	San Francisco Public Press	11/14/2023, 08:00 AM, +0000 UTC
+19	073	IA	Greene County	10.4	63,562	0738.jpg	Bad	Iowa man accused of kidnapping son faces charges in Greene County	-0.5360	WHO TV 13 Des Moines News & Weather	01/31/2024, 08:00 AM, +0000 UTC
+25	000	MA	Massachusetts	10.4	94,538	0739.jpg	Bad	Driver with suspended license causes Massachusetts school bus crash, police say	-0.3980	CBS Boston	03/28/2024, 04:41 PM, +0000 UTC
+47	119	TN	Maury County	10.4	70,225	0743.jpg	Bad	One flown to Vanderbilt in critical condition after Maury Co. crash	-0.4240	WSMV 4	02/24/2024, 08:00 AM, +0000 UTC
+51	570	VA	Colonial Heights city	10.4	68,456	0744.jpg	Bad	Guns, drugs seized at residence in Colonial Heights; man arrested	-0.0860	Progress Index	12/29/2023, 08:00 AM, +0000 UTC
+16	000	ID	Idaho	10.5	72,634	0748.jpg	Bad	Dispatch call of Utah basketball team's racial harassment in Coeur d'Alene: 'They are afraid, and I'm not being dramatic'	-0.8240	The Spokesman Review	03/29/2024, 05:00 AM, +0000 UTC
+16	027	ID	Canyon County	10.5	70,594	0749.jpg	Bad	Nampa man killed by police identified. He lunged at citizen with knife, not at officer	-0.4330	Idaho Statesman	08/17/2023, 07:00 AM, +0000 UTC
+19	071	IA	Fremont County	10.5	69,018	0750.jpg	Bad	Pickup/Pedestrian Accident Claims the Life of a Fremont County Man	-0.4790	KSOM	01/26/2024, 08:00 AM, +0000 UTC
+29	189	MO	St. Louis County	10.5	79,609	0751.jpg	Bad	A girl is in critical condition after a fight caught on video shows another girl slamming her head to the ground repeatedly	-0.7830	CNN	03/14/2024, 07:00 AM, +0000 UTC
+36	051	NY	Livingston County	10.5	75,077	0754.jpg	Bad	New York State Man Allegedly Stole Car, Drove It, And Allegedly Stole Another One	-0.7030	wpdh.com	12/12/2023, 08:00 AM, +0000 UTC
+37	169	NC	Stokes County	10.5	56,259	0757.jpg	Bad	Residents evacuated as wildfire grows in Stokes County	-0.6200	Spectrum News	11/20/2023, 08:00 AM, +0000 UTC
+48	493	TX	Wilson County	10.5	79,432	0759.jpg	Bad	Wilson County deputy's killer sentenced to life dies in prison	-0.5260	KSAT San Antonio	08/18/2023, 07:00 AM, +0000 UTC
+49	027	UT	Millard County	10.5	67,318	0760.jpg	Bad	Dismembered, Headless Body of College Student Found Buried Along a Utah Highway	-0.7440	Oxygen	08/19/2023, 07:00 AM, +0000 UTC
+51	165	VA	Rockingham County	10.5	72,921	0762.jpg	Bad	One person injured in Monday shooting in Rockingham County	-0.5370	WHSV	02/20/2024, 08:00 AM, +0000 UTC
+55	047	WI	Green Lake County	10.5	66,070	0764.jpg	Bad	Teen killed in Green Lake County crash, three other juveniles injured	-0.4830	Fox11online.com	10/09/2023, 07:00 AM, +0000 UTC
+06	057	CA	Nevada County	10.6	80,069	0766.jpg	Bad	Hurricane Hilary speeds toward California with "catastrophic" flooding	-0.8460	Axios	08/19/2023, 07:00 AM, +0000 UTC
+16	069	ID	Nez Perce County	10.6	65,558	0768.jpg	Bad	Escaped Idaho inmate, alleged accomplice now linked to 2 homicides in North Idaho	-0.5650	KREM.com	03/21/2024, 07:00 AM, +0000 UTC
+19	061	IA	Dubuque County	10.6	73,492	0771.jpg	Bad	One killed and several severely injured after Dubuque County crash	-0.5470	KGAN TV	08/14/2023, 07:00 AM, +0000 UTC
+20	043	KS	Doniphan County	10.6	64,608	0773.jpg	Bad	At least one injured in car-train crash Wednesday afternoon in city of Elwood in Doniphan County	-0.3280	WIBW	02/22/2024, 08:00 AM, +0000 UTC
+20	127	KS	Morris County	10.6	60,741	0775.jpg	Bad	Not just murder and mayhem - NJ gangs are branching out	-0.9260	New Jersey 101.5 FM	05/19/2023, 07:00 AM, +0000 UTC
+25	027	MA	Worcester County	10.6	86,078	0777.jpg	Bad	Armed and dangerous suspect in deadly Worcester double shooting still on the loose		NBC Boston	
+27	029	MN	Clearwater County	10.6	64,716	0778.jpg	Bad	Auto parts shop in Clearwater Township damaged by fire	-0.2960	KSTP	05/09/2023, 07:00 AM, +0000 UTC
+27	035	MN	Crow Wing County	10.6	67,373	0779.jpg	Bad	How Minnesota's child protection system exposes kids to more abuse, neglect	-0.9190	Star Tribune	11/03/2023, 07:00 AM, +0000 UTC
+27	131	MN	Rice County	10.6	77,962	0780.jpg	Bad	Dirty Water and Dead Rice: The Cost of the Clean Energy Transition in Rural Minnesota	-0.8970	InsideClimate News	11/21/2023, 08:00 AM, +0000 UTC
+29	027	MO	Callaway County	10.6	72,398	0781.jpg	Bad	Suspect charged in fatal shooting at Columbia gas station	-0.5370	KOMU 8	02/02/2024, 08:00 AM, +0000 UTC
+31	053	NE	Dodge County	10.6	68,267	0782.jpg	Bad	Nebraska State Patrol trooper, another driver injured in crash	-0.4370	KMTV 3 News Now Omaha	08/01/2023, 07:00 AM, +0000 UTC
+34	021	NJ	Mercer County	10.6	94,832	0784.jpg	Bad	NJ cop shot responding to domestic violence call	-0.4040	New York Post 	03/09/2024, 08:00 AM, +0000 UTC
+39	005	OH	Ashland County	10.6	62,037	0786.jpg	Bad	You have put lives in danger:' Ashland County Sheriff's Sgt. demoted, charged with negligence	-0.8330	Knox Pages	05/31/2023, 07:00 AM, +0000 UTC
+42	095	PA	Northampton County	10.6	75,468	0788.jpg	Bad	Man killed, woman hurt in attempted homicide-suicide in Northampton, police say	-0.3880	lehighvalleylive.com	10/02/2023, 07:00 AM, +0000 UTC
+45	057	SC	Lancaster County	10.6	70,113	0789.jpg	Bad	SC man charged with killing 65-year-old woman in her rural Lancaster County home	-0.6380	Rock Hill Herald	03/13/2024, 07:00 AM, +0000 UTC
+51	000	VA	Virginia	10.6	85,838	0791.jpg	Bad	Virginia Is The Worst Team We've Ever Seen Selected For The NCAA Tournament	-0.8920	Barstool Sports	03/19/2024, 07:00 AM, +0000 UTC
+55	071	WI	Manitowoc County	10.6	62,910	0792.jpg	Bad	Green Bay resident killed in crash in Manitowoc County; third fatal crash in four days	-0.6280	Fox11online.com	12/28/2023, 08:00 AM, +0000 UTC
+06	011	CA	Colusa County	10.7	72,963	0793.jpg	Bad	8-year-old overdoses on fentanyl at Redding school, parents arrested for child neglect	-0.7120	Action News Now	10/04/2023, 07:00 AM, +0000 UTC
+06	073	CA	San Diego County	10.7	98,365	0794.jpg	Bad	Border Wall Falls Causing Traumatic Injuries - Migrants	-0.8180	Newsweek	03/19/2024, 07:00 AM, +0000 UTC
+08	077	CO	Mesa County	10.7	69,578	0795.jpg	Bad	Child molester serving 204-year sentence loses third appeal	-0.5870	Mesa County Public Health	07/23/2023, 07:00 AM, +0000 UTC
+13	153	GA	Houston County	10.7	71,237	0796.jpg	Bad	Drug overdoses, human waste in the yard. Houston County judge rules home a ‘public nuisance.’	-0.4820	Macon Telegraph	03/08/2024, 08:00 AM, +0000 UTC
+16	019	ID	Bonneville County	10.7	74,505	0798.jpg	Bad	Hit-and-run victim hospitalized with life-threatening injuries, suspect sought	-0.5580	Idaho County Free Press	02/07/2024, 08:00 AM, +0000 UTC
+19	035	IA	Cherokee County	10.7	65,985	0801.jpg	Bad	North Carolina mother charged with murder of twin 4-year-old sons	-0.6380	KGAN TV	03/04/2024, 08:00 AM, +0000 UTC
+19	083	IA	Hardin County	10.7	59,622	0802.jpg	Bad	Time Machine: Did 2 Iowa brothers spend almost 30 years in prison for a murder they didn't commit?	-0.6490	The Gazette	07/19/2022, 11:03 AM, +0000 UTC
+22	103	LA	St. Tammany Parish	10.7	78,629	0804.jpg	Bad	Homeowners Allege Racial Bias From La. Property Assoc.	-0.3860	Law360	01/30/2024, 08:00 AM, +0000 UTC
+27	043	MN	Faribault County	10.7	67,302	0806.jpg	Bad	Charges: Man held woman captive, raped, stabbed, and beat her	-0.8190	Bring Me The News	04/16/2019, 07:00 AM, +0000 UTC
+32	011	NV	Eureka County	10.7	80,291	0812.jpg	Bad	Mining fatality in Eureka County	-0.7630	Elko Daily Free Press	09/18/2023, 07:00 AM, +0000 UTC
+34	033	NJ	Salem County	10.7	76,005	0813.jpg	Bad	Sorry Business Owners But New Jersey Is One Of The Worst States To Start A New Business	-0.9080	973espn.com	01/30/2024, 08:00 AM, +0000 UTC
+36	041	NY	Hamilton County	10.7	62,149	0814.jpg	Bad	Trial begins for parents accused of abusing, killing 8-year-old son	-0.7340	WCPO 9 Cincinnati	10/13/2023, 07:00 AM, +0000 UTC
+39	039	OH	Defiance County	10.7	63,904	0816.jpg	Bad	Defiance resident dies month after brutal assault	-0.8940	Toledo Blade	01/28/2005, 08:00 AM, +0000 UTC
+41	071	OR	Yamhill County	10.7	77,969	0818.jpg	Bad	Yamhill County man convicted of causing teen's death with fentanyl-laced counterfeit pills	-0.6150	KPIC News	06/27/2023, 07:00 AM, +0000 UTC
+45	035	SC	Dorchester County	10.7	74,730	0819.jpg	Bad	SLED investigating deputy-involved shooting in wake of burglary in Dorchester Co.	-0.3930	Live 5 News WCSC	07/02/2023, 07:00 AM, +0000 UTC
+51	109	VA	Louisa County	10.7	72,569	0822.jpg	Bad	Louisa County man charged with murder in Sunday shooting	-0.5640	29 News	09/11/2023, 07:00 AM, +0000 UTC
+51	113	VA	Madison County	10.7	71,697	0823.jpg	Bad	Madison parents concerned about gun store opening behind elementary school	-0.8140	WHNT News 19	05/19/2023, 07:00 AM, +0000 UTC
+02	000	AK	Alaska	10.8	88,072	0824.jpg	Bad	Mat-Su Assembly urges residents to arm themselves amid crime fears	-0.4490	Alaska Public Media News	01/18/2024, 08:00 AM, +0000 UTC
+16	063	ID	Lincoln County	10.8	61,658	0826.jpg	Bad	Oklahoma judge steps down after sending more than 500 texts during murder trial	-0.5070	ABC News	02/10/2024, 08:00 AM, +0000 UTC
+17	039	IL	De Witt County	10.8	64,262	0828.jpg	Bad	Gunman kills father-in-law, injures son in DeWitt County incident	-0.5140	WREX.com	09/04/2023, 07:00 AM, +0000 UTC
+20	159	KS	Rice County	10.8	61,727	0829.jpg	Bad	Former officer used drug-questioning ruse to assault 9 women, teen girl	-0.8640	USA TODAY	04/13/2023, 07:00 AM, +0000 UTC
+21	117	KY	Kenton County	10.8	77,284	0830.jpg	Bad	Kentucky parents charged with manslaughter after 3-year-old fatally shoots 2-year-old brother	-0.5750	CBS News	01/26/2024, 08:00 AM, +0000 UTC
+26	137	MI	Otsego County	10.8	65,915	0831.jpg	Bad	Elmira man killed in Otsego County crash, investigation ongoing	-0.3230	UpNorthLive.com	10/19/2023, 07:00 AM, +0000 UTC
+27	053	MN	Hennepin County	10.8	89,418	0832.jpg	Bad	How Minnesota's child protection system exposes kids to more abuse, neglect	-0.9190	Star Tribune	11/03/2023, 07:00 AM, +0000 UTC
+27	117	MN	Pipestone County	10.8	65,499	0833.jpg	Bad	Third Fatality in Moody County Crash (Updated)	-0.6800	South Dakota State News Home	04/18/2023, 07:20 AM, +0000 UTC
+30	017	MT	Custer County	10.8	64,743	0834.jpg	Bad	Colorado suspect accused of killing 3 in property dispute arrested	-0.3880	The Associated Press	11/21/2023, 08:00 AM, +0000 UTC
+30	029	MT	Flathead County	10.8	66,395	0835.jpg	Bad	Flathead County man charged for the death of his ex-wife	-0.3720	KRTV NEWS Great Falls	10/20/2023, 07:00 AM, +0000 UTC
+31	075	NE	Grant County	10.8	63,469	0836.jpg	Bad	2 victims identified in Bloomfield homicide at bowling alley	-0.3380	Omaha World-Herald	02/22/2024, 01:03 AM, +0000 UTC
+36	053	NY	Madison County	10.8	69,851	0837.jpg	Bad	Lightning strike in Lincoln Monday that injured 3 has turned fatal	-0.8010	CNYcentral.com	07/25/2023, 07:00 AM, +0000 UTC
+39	117	OH	Morrow County	10.8	71,835	0838.jpg	Bad	Trial delayed again for Larry Fidler, accused of disturbing crimes against minors	-0.9070	crawfordcountynow.com	11/03/2023, 07:00 AM, +0000 UTC
+42	011	PA	Berks County	10.8	72,157	0839.jpg	Bad	Racism pervades public PA universities	-0.9300	Spotlight PA	02/02/2024, 08:00 AM, +0000 UTC
+48	149	TX	Fayette County	10.8	70,476	0841.jpg	Bad	Bundles of cocaine found in décor water fountains in Fayette County	-0.1860	KSAT San Antonio	12/07/2023, 08:00 AM, +0000 UTC
+53	021	WA	Franklin County	10.8	77,820	0842.jpg	Bad	Franklin County fire districts respond to 600-acre fire on US 395	-0.2610	NBC Right Now	05/29/2023, 07:00 AM, +0000 UTC
+56	025	WY	Natrona County	10.8	70,142	0846.jpg	Bad	Natrona County Residents Lose Home to Fire - Casper	-0.5960	K2 Radio	03/09/2024, 08:00 AM, +0000 UTC
+56	029	WY	Park County	10.8	69,802	0847.jpg	Bad	Manslaughter Charges For Wyoming Man Who Sold Deadly Fentanyl-Laced Pills	-0.6710	Cowboy State Daily	01/12/2024, 08:00 AM, +0000 UTC
+04	013	AZ	Maricopa County	10.9	83,668	0849.jpg	Bad	1 dead, 2 injured after alleged drive-by shooting at Phoenix house party	-0.5210	Arizona's Family	01/07/2024, 08:00 AM, +0000 UTC
+06	065	CA	Riverside County	10.9	86,350	0850.jpg	Bad	Middle school girl savagely beaten by classmate during caught-on-camera attack: 'Nobody came to help'	-0.9070	New York Post 	03/19/2024, 07:00 AM, +0000 UTC
+08	027	CO	Custer County	10.9	67,766	0851.jpg	Bad	Colorado Police Arrest Shooting Suspect After Property Dispute Leaves 3 Dead, 1 Injured	-0.4700	PEOPLE	11/21/2023, 08:00 AM, +0000 UTC
+12	101	FL	Pasco County	10.9	65,933	0852.jpg	Bad	Arrest made in Jennifer Odom murder case that has haunted Tampa Bay for 30 years	-0.2340	Tampa Bay Times	07/27/2023, 07:00 AM, +0000 UTC
+18	031	IN	Decatur County	10.9	65,847	0853.jpg	Bad	Possible Murder-Suicide Being Investigated In Decatur	-0.4650	Mercer County Outlook	09/14/2023, 07:00 AM, +0000 UTC
+23	000	ME	Maine	10.9	69,485	0858.jpg	Bad	Massacre shows how Maine — and nation — fail to deal with violent mentally ill	-0.9340	New York Post 	10/26/2023, 07:00 AM, +0000 UTC
