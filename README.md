@@ -6,8 +6,51 @@ Video: https://youtu.be/ZacUwuQO5II
 
 Article: https://uwaterloo.ca/computer-science/news/art-computing
 
+<img width="566" alt="Screen Shot 2024-05-31 at 1 03 36 AM" src="https://github.com/NimunB/Whiplash/assets/32827637/8f23222c-27e6-4621-949e-b03be78c8af7">
+
+_Showing negative headline for top 500 county_
+
+<img width="531" alt="Screen Shot 2024-05-31 at 1 03 02 AM" src="https://github.com/NimunB/Whiplash/assets/32827637/9bf7c05b-59bf-4346-8a30-e1ba941919f3">
+
+_Showing positive headline for bottom 500 County_
+
+
 ## Artist Statement
 This is a data art piece that displays alternating positive and negative news headlines about various counties in the U.S. A Google Street View image of a random location in that county is also displayed. The concept behind the artwork relates to bringing balance to the way we interact with news, including multiple truths in our relationship with the news, and subverting our expectations of “good” and “bad” areas. This piece showcases news and images from the top and bottom ~500 counties in the U.S. based on poverty percentage. Counties with the lowest poverty are shown with negative headlines, and counties with the highest poverty are shown with positive headlines. 
+
+### Formal Qualities
+
+A huge component of this artwork is the data that is driving it. The process behind getting the data was divided into three components: 
+
+- A: Getting poverty estimates by county
+- B: Finding images for each county
+- C: Retrieving a positive or negative headline for the county
+
+Part A involved accessing the 2022 SAIPE State and Country Estimates for 2022, which organized all the U.S. counties by their poverty percentage.
+
+Part B involved feeding the county name into the Google Street View API to get an image for that county.
+
+Part C involved feeding the county name and a randomly generated positive or negative word into a news API (GoogleNews, SerpAPI, etc.), and then feeding the top 5 headlines returned from that search into the Google Natural Language API to get the sentiment scores, and saving the most positive or negative headline.
+
+For the top 500 counties, I saved negative headlines to show, and for the bottom 500 counties, I saved positive headlines to show. The result was having the image and headline information saved for the counties I wanted to display in Google spreadsheets.
+
+### Context
+This artwork is about our news and how we consume it. 
+
+#### Balance
+The news that we see on both large-scale and local media outlets is overwhelmingly negative. It can create a really bleak view of the world around you. I wanted to create an experience which temporarily allowed for a more balanced way to consume the news. I wanted viewers to see positive news just as much as they saw negative news. This is why I chose to alternate them back and forth. This might be jarring to certain users, and might be a form of visual whiplash. It is intended to jolt you a little. In my opinion, mixed surprise that conveys the range of the human experience is better than solely negative surprise that only fills you with dread. Also, that alternation between positive and negative news forces you to mindfully pay attention to each, rather than mindlessly and hopelessly consuming it.
+
+#### Multiple Truths
+When we see negative news about an incident, we oftentimes do not get to see what the place it happened in looked like. That place is only defined by a very negative incident that happened there. That however is only one truth. By including a normal, suburban looking image of the place in its natural state, viewers might understand that a headline is not enough to define a place. Multiple truths must be considered.
+
+Also, that event and the place it occurred in can seem distant to us. By including a relatable and suburban image of the place, we might connect to it a bit more. We might spend half a second more feeling rather than numbly consuming.
+
+#### Subverting our Expectations of Good and Bad Areas
+Since positive headlines are shown for “poorer” counties and negative headlines are shown for “richer” counties, it might make certain viewers who are familiar with those counties question their beliefs and expectations. What makes an area “good” or “bad”? How much of that has to do with how we consume media coming out of a certain area?
+
+#### Ken Lum
+After the project was complete, I looked up the artist Ken Lum and found that his photography-based works like Portrait-Repeated Text Series and Death and Furniture have a really similar style to mine - a long form image (in his case portraits)  with a shorter graphic and colorful text. Both our work is about intersections. His are between race, gender, work, and stress, and mine are between news, poverty, community, and mood. 
+
 
 ## Technical Description
 I used separate python scripts for image and news headline retrieval. To present the data in the visual way that I intended, I used p5.js. 
